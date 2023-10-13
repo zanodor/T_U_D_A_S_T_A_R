@@ -3,6 +3,6 @@ p {
     font-size: 18px !important;
 }
 
-.sidebar-right {
+.sidebar {
     width: 18% !important; /* This assumes you want the sidebar to take up 18% of the available width */
 }
