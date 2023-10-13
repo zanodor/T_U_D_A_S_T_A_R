@@ -31,39 +31,39 @@ body {
     top: 75px;
     right: 0;
     height: 100%;
-    min-width: 25px;
+    min-width: 21.25px; // 25px scaled down by 15%
     display: flex;
     z-index: 3;
-    max-width: 382.5px; // 450px scaled down by 15%
+    max-width: 325.125px; // 382.5px scaled down by 15%
 
     .graph {
-        width: 357px; // 420px scaled down by 15%
-        min-height: 357px; // 420px scaled down by 15%
+        width: 303.45px; // 357px scaled down by 15%
+        min-height: 303.45px; // 357px scaled down by 15%
 
         #link-graph {
-            width: 357px; // 420px scaled down by 15%
-            height: 357px; // 420px scaled down by 15%
+            width: 303.45px; // 357px scaled down by 15%
+            height: 303.45px; // 357px scaled down by 15%
         }
 
         #graph-fs-btn {
-            margin-right: 10px;
+            margin-right: 8.5px; // 10px scaled down by 15%
         }
     }
     .graph-fs {
         position: fixed;
         top: 50%;
         left: 50%;
-        height: calc(85vmin - 85px); // 100vmin scaled down by 15%
-        width: calc(85vmin - 85px); // 100vmin scaled down by 15%
-        min-height: 382.5px; // 450px scaled down by 15%
-        min-width: 382.5px; // 450px scaled down by 15%
+        height: calc(72.25vmin - 72.25px); // 85vmin scaled down by 15%
+        width: calc(72.25vmin - 72.25px); // 85vmin scaled down by 15%
+        min-height: 325.125px; // 382.5px scaled down by 15%
+        min-width: 325.125px; // 382.5px scaled down by 15%
         transform: translate(-50%, -50%);
         z-index: 9999;
         display: block;
         background-color: var(--background-secondary);
-        border: 1px solid var(--text-accent);
-        border-radius: 5px;
-        padding-top: 5px;
+        border: 0.85px solid var(--text-accent); // 1px scaled down by 15%
+        border-radius: 4.25px; // 5px scaled down by 15%
+        padding-top: 4.25px; // 5px scaled down by 15%
 
         #link-graph {
             width: 100%;
@@ -71,7 +71,7 @@ body {
         }
 
         #graph-controls {
-            margin-top: 10px;
+            margin-top: 8.5px; // 10px scaled down by 15%
         }
 
         .graph-title {
@@ -82,11 +82,11 @@ body {
 
 /* Sidebar Container Styles */
 .sidebar-container {
-    padding-right: 17px; // 20px scaled down by 15%
+    padding-right: 14.45px; // 17px scaled down by 15%
     width: 100%;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    height: 66.3%; // 78% scaled down by 15%
+    height: 56.355%; // 66.3% scaled down by 15%
 }
