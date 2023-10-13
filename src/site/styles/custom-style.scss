@@ -10,4 +10,9 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    /* To set the max-width for div.content, you should use a unit (e.g., px) */
+    div.content {
+        max-width: 800px;
+    }
 }
