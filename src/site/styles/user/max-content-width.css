@@ -1,6 +1,6 @@
 /* Set a custom width for your sidebar */
 .sidebar {
-    width: 25% !important; /* Adjust the width as needed */
+    width: 40% !important; /* Adjust the width as needed */
 }
 
 /* Ensure the sidebar is displayed */
@@ -15,5 +15,5 @@
 
 /* Adjust content width */
 .content {
-    max-width: 75% !important; /* Adjust the width as needed */
+    max-width: 60% !important; /* Adjust the width as needed */
 }
