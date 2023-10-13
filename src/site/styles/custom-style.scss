@@ -11,38 +11,3 @@ body {
     //   color: black;
     //  }
 }
-
-.content {
-    max-width: 595px; /* 85% of the original 700px */
-    font-size: 15.3px; /* 85% of the original 18px */
-    line-height: 1.5;
-    margin-top: 76.5px; /* 85% of the original 90px */
-    position: relative;
-
-    @media (max-width: 800px) {
-        margin-top: 63.75px; /* 85% of the original 75px */
-    }
-}
-
-.sidebar {
-    position: fixed;
-    top: 75px;
-    right: 0;
-    height: 100%;
-    min-width: 21.25px; /* 85% of the original 25px */
-    display: flex;
-    z-index: 3;
-    max-width: 297.5px; /* 85% of the original 350px */
-}
-
-.sidebar {
-    position: fixed;
-    top: 75px;
-    right: 0;
-    height: 100%;
-    min-width: 21.25px; /* 85% of the original 25px */
-    display: flex;
-    z-index: 3;
-    max-width: 297.5px; /* 85% of the original 350px */
-}
-

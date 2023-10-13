@@ -1,0 +1,6 @@
+/* Apply 90% zoom */
+body {
+    transform: scale(0.9);
+    transform-origin: top left;
+    width: 111.11%; /* To counteract the horizontal shrinkage */
+}
