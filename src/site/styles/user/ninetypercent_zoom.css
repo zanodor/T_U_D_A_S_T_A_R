@@ -1,9 +1,3 @@
-/* Apply 90% zoom with transform-origin in the center */
-body {
-    transform: scale(0.9);
-    transform-origin: center center;
-}
-
 .content {
     max-width: 660px;
     margin: auto;
