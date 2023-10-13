@@ -2,5 +2,5 @@
 body {
     transform: scale(0.9);
     transform-origin: center center;
-    width: 111.11%; /* To counteract the horizontal shrinkage */
+    width: 90%; /* To counteract the horizontal shrinkage */
 }
