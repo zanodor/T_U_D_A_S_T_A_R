@@ -1,8 +1,3 @@
-p {
-    max-width: 600px !important;
-    font-size: 18px !important;
-}
-
-.sidebar {
-    width: 18% !important; /* This assumes you want the sidebar to take up 18% of the available width */
+body {
+    zoom: 90%;
 }
