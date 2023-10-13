@@ -1,8 +1,8 @@
 body {
     /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
+    ***/
     //  background-color: white;
     //  .content {
     //   font-size: 14px;
@@ -35,6 +35,7 @@ body {
     display: flex;
     z-index: 3;
     max-width: 315px;
+}
 
 /* Sidebar Container Styles */
 .sidebar-container {
