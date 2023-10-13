@@ -13,7 +13,7 @@ body {
 }
 
 .content {
-    max-width: 660px;
+    max-width: 600px;
     margin: auto;
     font-size: 18px;
     line-height: 1.6;
@@ -23,16 +23,4 @@ body {
     @media (max-width: 800px) {
         margin-top: 75px;
     }
-}
-
-/* Sidebar Styles */
-.sidebar {
-    position: fixed;
-    top: 75px;
-    right: 0;
-    height: 100%;
-    min-width: 25px;
-    display: flex;
-    z-index: 3;
-    max-width: 315px;
 }
