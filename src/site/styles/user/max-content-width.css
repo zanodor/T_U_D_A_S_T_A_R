@@ -4,5 +4,5 @@ p {
 }
 
 .sidebar-right {
-    width: 18%; /* This assumes you want the sidebar to take up 25% of the available width */
+    width: 18% !important; /* This assumes you want the sidebar to take up 18% of the available width */
 }
