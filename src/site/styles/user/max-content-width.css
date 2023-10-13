@@ -1,4 +1,8 @@
 p {
-        max-width: 600px !important;
-        font-size: 18px !important;
-    }
+    max-width: 600px !important;
+    font-size: 18px !important;
+}
+
+.sidebar-right {
+    width: 25%; /* This assumes you want the sidebar to take up 25% of the available width */
+}
