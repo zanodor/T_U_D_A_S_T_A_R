@@ -2,5 +2,24 @@
 body {
     transform: scale(0.9);
     transform-origin: center center;
-    width: 90%; /* To counteract the horizontal shrinkage */
+}
+
+.content {
+    max-width: 660px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 90px;
+    position: relative;
+}
+
+.sidebar {
+    position: fixed;
+    top: 75px;
+    right: 0;
+    height: 100%;
+    min-width: 25px;
+    display: flex;
+    z-index: 3;
+    max-width: 300px;
 }
