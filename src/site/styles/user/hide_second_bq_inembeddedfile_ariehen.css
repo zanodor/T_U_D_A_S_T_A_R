@@ -1,4 +1,4 @@
 .markdown-preview-view .markdown-embed-content .markdown-rendered blockquote {
-    margin-left: -60px !important;
-    padding-left: 12px !important;
+    margin-left: -60px;
+    padding-left: 12px;
 }
