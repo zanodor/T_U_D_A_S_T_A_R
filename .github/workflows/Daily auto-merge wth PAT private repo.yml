@@ -18,6 +18,9 @@ jobs:
           repository: zanodor/T_U_D_A_S_T_A_R
           token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 0
+          env:
+            NETLIFY_PAT: ${{ secrets.NETLIFY_PAT }}
+            NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
 
       - name: Setup Git
         run: |
