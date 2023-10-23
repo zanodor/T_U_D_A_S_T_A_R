@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","tags":["formatted🟢"],"created":"2023-10-06T12:12","updated":"2023-10-06T12:12"}
+{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","tags":["dg_uploaded"],"created":"2023-10-06T12:12","updated":"2023-10-23T04:34"}
 ---
 
 
 # Gonosz
-
-
 
 #### Péterfai János írja:
 
@@ -17,7 +15,7 @@
 Gonosz szavunkhoz hasonló a perzsa eredetű török `günah` = [[B/Bűn\|bűn]]; ez is Napnévből alkotja ki fényhiányos szavát, ahogy az angol is ([[S/Sin\|sin]]). És mint közben kiderült, a [[B/Bűn\|bűn]] is Hunorhoz, a nyári napforduló utáni időszakhoz köthető.  
 A [[B/Bűn\|bűn]] címnél említett szláv `vina` és perzsa `gonah` szavak eredete kapcsán született meg [[H/Hun#Hun mint huny = HAN = gon(osz)\|Hun mint huny = HAN = gon(osz)]] cím/alcím: itt látjuk, hogy a [[H/HAN\|HAN]], [[H/Huny\|huny]] szavak értelmét viszi gonosz.  
 Ott egy japán `gan` = rák, rákos gonosz szóról is emíltést tettünk.  
-Arról pedig [[R/Rák csillagkép#Rák (csillagkép) K-N/H-N/G-N és K-T (és rokon) vázú hun-szkíta nevei\|Rák (csillagkép) K-N/H-N/G-N és K-T (és rokon) vázú hun-szkíta nevei]] cím/alcímnél is volt szó (azon túl, hogy Rák csillagkép japán neve Kani), hogy a japán `kanashii` = szomorú szó (ha nem a [[K/KAN\|KAN]] nevű Kutyacsillaggal kezdődő más(odik)/sötét ([[S/Söt\|söt]] = angol szomorú [[S/SAD#Sad 2)\|sad]]) félévre utaló szóelemet rejti, akkor), közvetlenül [[G/Gonosz\|gonosz]] szavunkkal teljesen egyeztethető.  
+Arról pedig [[R/Rák csillagkép#Rák (csillagkép) K-N/H-N/G-N és K-T (és rokon) vázú hun-szkíta nevei\|Rák (csillagkép) K-N/H-N/G-N és K-T (és rokon) vázú hun-szkíta nevei]] cím/alcímnél is volt szó (azon túl, hogy Rák csillagkép japán neve **Kani**), hogy a japán `kanashii` = szomorú szó (ha nem a [[K/KAN\|KAN]] nevű Kutyacsillaggal kezdődő más(odik)/sötét ([[S/Söt\|söt]] = angol szomorú [[S/SAD#Sad 2)\|sad]]) félévre utaló szóelemet rejti, akkor), közvetlenül [[G/Gonosz\|gonosz]] szavunkkal teljesen egyeztethető.  
 
 A szót PJI nem taglalja asztrális [[E/Életkör\|életkör]] alapján. Holott már [[H/HAN\|HAN]] névnél jól rámutatott, miről is van szó. [[H/Hunor csillagkép\|Hunor csillagkép]] címnél és [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél volt már arról szó, hogy a [[F/Félév\|félév]]ek tagolása Hunor-Szíriusz mentén [[H/Határ\|határ]]olódik el. Gonosz tehát \*Hunosz, de nem konkrétan a hunok gonoszságára utalva (ahogy a makacs/konok/csökönyös magyarok/hunok szamársága sem több, mint egy jelképi szinten értelmezhető dolog), hanem [[E/Észak\|észak]]ra, az észak sötétségére és akár arra a korszakra, amelyben a hunoknak a magyar eszmék gonosz elleni védelmére fel kellett készülnie. (Észak itt talán kevésbé jó magyarázat; a kis éves évkör sötét fele a HAN/Hunosz/Gonosz fél.)  
 Felvetődik, hogy esetleg nem eredeti hun-magyar kifejezés lenne, -osz végződése miatt. Nos, [[R/Rossz\|rossz]] (eredetileg inkább: rosz) szavunk is -osz végződésű, ha nagyon akarjuk...  
@@ -32,8 +30,8 @@ A japán `kanashii` mellett a [[K/Kanász\|kanász]] nevünk gonosz alakú.
 
 #### Gyárfás Ágnes A Zöld király mesék és a gonosz módszertana (meseelemzés)...
 
-...című az Ősi Gyökér 2009/4. sz. megjelent meseelemzésében a [[Z/Zöld király mese\|Zöld király mesé]]ben működő gonoszt hosszasan elemzi: bőven taglalja a világunkba befészkelő, ügyeskedő, hazudozó, csinált fénnyel játszó gonoszt, majd ezt írja (mondanivalóján másutt is érződik, hogy a zsidó szót szívesen kimondaná):  
-> A gonosznak nincsen célja, mert akinek célja van, az alkot. A gonosznak programja \[[[Jehova-program\|[Jehova-program]] találó elnevezés is volt\] van. A gonosz visszafelé irányít, és arra van beprogramozva, hogy Isten művét megsemmisítse. Ez tehát nem cél, hanem program. Úgy hajtják végre, hogy van egy forgatókönyvük \[Facsar Imre a Bibliára illetve Mózes törvényeire mondja ugyanezt\], melynek pontjait teljesítik és kipipálják \[mint ma a Covid-protokollban\]. Ennek a módszernek van hibahatára. Ezt a gonosz tudja és kábítással, varázslattal, kápráztatással leplezi a hatást. A határ azonban ettől még megvan, s akin nem fog a gonosz kábítása, varázslata, káprázata az észreveszi, hogy a gonosz nem tudja átlépni a határt. Mert a gonosz csak gyors, ügyes, okos tehetséges, sőt zseniális, de hiányzik lelkéből az égi fény.  
+...című az Ősi Gyökér 2009/4. sz. megjelent meseelemzésében a [[Z/Zöld király mese\|Zöld király mesé]]ben működő gonoszt hosszasan elemzi: bőven taglalja a világunkba befészkelő, ügyeskedő, hazudozó, csinált fénnyel játszó gonoszt, majd ezt írja:  
+> A gonosznak nincsen célja, mert akinek célja van, az alkot. A gonosznak programja \[[[Jehova-program\|[Jehova-program]] találó elnevezés is volt\] van. A gonosz visszafelé irányít, és arra van beprogramozva, hogy Isten művét megsemmisítse. Ez tehát nem cél, hanem program. Úgy hajtják végre, hogy van egy forgatókönyvük, melynek pontjait teljesítik és kipipálják \[mint tették a Covid-protokollban\]. Ennek a módszernek van hibahatára. Ezt a gonosz tudja és kábítással, varázslattal, kápráztatással leplezi a hatást. A határ azonban ettől még megvan, s akin nem fog a gonosz kábítása, varázslata, káprázata az észreveszi, hogy a gonosz nem tudja átlépni a határt. Mert a gonosz csak gyors, ügyes, okos tehetséges, sőt zseniális, de hiányzik lelkéből az égi fény.  
 
 A gonosz ezenfelül a materiális javaknak sincs híján; testi erejének latbavetése kapcsán írja még GYÁ:  
 > Ólomszérű Üres álmok lapos helye, a földbedöngölés helye, a fölösleges erőlködések helye. A gonosz, brutálisan testi erő fölényével akarja legyőzni a jót. A csodaital pár cseppje, azonban nagy erőtöbbletet biztosít a hősnek. Üzenet: Az isteni csoda, a lélekerő a gyengét is vasgyúróvá teheti.  
