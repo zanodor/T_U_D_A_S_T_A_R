@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["formatted🟢","containstransclusions"],"created":"2023-10-22T03:43","updated":"2023-10-22T03:43"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2023-10-27T12:40"}
 ---
-
-
 
 
 # Alvilág
 
 Csillagászati szempontból az [[E/Égi egyenlítő\|égi egyenlítő]] helyezkedik el. Így az antik csillaghitben például a Skorpió is \[égi\] egyenlítő alatti, alvilági csillagzat. Ahogy az [[E/Ecliptic\|ecliptic]] és [[S/Sine\|sine]] címnél szereplő képen látjuk, hat hónapig jár a Nap a felvilágban, hat hónapig az alvilágban. Lásd legutóbb [[P/Pokol\|pokol]] címnél írottakat erről is és másról is.  
-Ahogy John G. Jackson Christianity before Christ című könyvének 54. oldalán James Frazer Adonis, Attis, Osiris című könyvének adatai nyomán bemutatja, hogy a görög Adonisz, Aphrodité és Persephone története egy babiloni eredeti átirata. A görög mítoszban a döntőbíró Zeusz úgy "rendelkezik," hogy a szépséges [[A/Adonisz\|Adonisz]] (a Nap) az év egyik felében a felvilágban, másik felében az alvilágban kell tartózkodjon. Frazer rámutat, hogy Ishtar és [[A/Allatu\|Allatu]] felelnek meg Aphroditének és Persephonének, míg Adonisznak [[A/Attis\|Attis]]z illetve [[T/Tammuz\|Tammuz]].  
+Ahogy John G. Jackson Christianity before Christ című könyvének 54. oldalán James Frazer Adonis, Attis, Osiris című könyvének adatai nyomán bemutatja, hogy a görög Adonisz, Aphrodité és Persephone története egy babiloni eredeti átirata. A görög mítoszban a döntőbíró Zeusz úgy "rendelkezik," hogy a szépséges [[A/Adonisz\|Adonisz]] (a Nap) az év egyik felében a felvilágban, másik felében az alvilágban kell tartózkodjon. Frazer rámutat, hogy Ishtar és [[A/Allatu\|Allatu]] felelnek meg Aphroditének és Persephonének, míg Adonisznak [[A/Attis\|Attisz]] illetve [[T/Tammuz\|Tammuz]].  
 
 Legutóbb [[G/Gemination\|gemination]] és [[Y/Yama\|Yama]] címnél is szerepelt, hogy annak bizonyítéka, hogy miért [[Y/Yama\|Yama]] azért az alvilág ura, megtalálható az aveszta `jamestan` = tél névben. Bizony, ez Jáma országát jelenti, az alvilágot, ahol a Nap jár (télen, a Skorpióban-Nyilasban igen sötétek is a körülmények). Az más kérdés, hogy a tél hivatalosan december 21-től március 21-ig tart és a [[T/Téli napforduló\|téli napforduló]] után valójában a Nap ereje nőni kezd és magasabban kezd delelni is, de mivel a természet igazán tavasszal indul be, ezért onnan számították és számítják ma is Iránban az újévet (és a Bibliában is ezért hal és támad fel Jézus Pészahkor, a tavaszi napéjegyenlőségkor a téli napforduló helyett).  
 
@@ -81,7 +79,7 @@ Szintén Jankovics Marcelltől való:
 > Ipolyi Arnold, a legnagyobb mitológiai kutatónk, még megemlíti a Dör-Ög szót, így, kettéválasztva. A Dörög az égbolt neve, ahová a lelkek távoznak a Földről, tehát nem idegen az ördög fogalmától. Az égbolt is fekete, az Alvilág szintén fekete és tüzes, ahonnan a láva tör elő. A Felvilág és Alvilág szoros összeköttetésben van.  
 - Melyre jó példa Falvay Károly Nagyboldogasszony c. könyvének 68. oldalán szereplő sámános rajz is.
 
-A [[G/Gödör\|gödör]] (kút[^2]; lásd diagramot [[K/Kut\|kut]]) is meglehet felül is (lásd [[P/PIT\|PIT]]), nemcsak alul:  
+A [[G/Gödör\|gödör]] (kút[^2]; lásd diagramot [[K/Kut\|kut]]) is meglehet felül is (lásd [[P/PIT\|PIT]]), nemcsak alul.  
 
 #### Jankovics Marcell írja:
 
@@ -127,6 +125,8 @@ Az alvilág [[S/Szakrális geometria\|szakrális-geometrikus]]an értendő és i
 [^1]: Lábjegyzet:  
 Robert Graves The White Goddess című könyvében egy helyen még [[A/Artemisz\|Artemisz]]t is Farkasistennőnek is mondja, a [[F/Fehér istennő\|fehér istennő]] címnél is említett [[C/Ceridwen\|Ceridwen]]hez hasonlóan. Magyarázata mind alvilági állat az alábbiak közül:  
 Why the cat, pig, and wolf were considered particularly sacred to the Moon-goddess is not hard to discover. Wolves howl to the moon and feed on corpse-flesh, their eyes shine in the dark, and they haunt wooded mountains. Cats' eyes similarly shine in the dark, they feed on mice (symbol of pestilence), mate openly and walk inaudibly, they are prolific but eat their own young, and their colours vary, like the moon, between white, reddish and black. Pigs also vary between white, reddish and black, feed on corpse-flesh, are prolific but eat their own young, and their tusks are crescent-shaped.  
+—  
+Nem nehéz kitalálni, hogy a macskát, a disznót és a farkast miért tartották különösen szentnek a Hold-istennő számára. A farkasok a Holdra üvöltenek, és hullahússal táplálkoznak, a szemük világít a sötétben, és erdős hegyekben járnak. A macskák szeme hasonlóan világít a sötétben, egerekkel táplálkoznak (a dögvész szimbóluma), nyíltan párzanak és hangtalanul járnak, termékenyek, de megeszik saját kicsinyeiket, és színük a holdhoz hasonlóan fehér, vöröses és fekete között változik. A disznók színe szintén a fehér, vöröses és fekete között változik, hullahússal táplálkoznak, termékenyek, de saját kicsinyeiket eszik, és agyaruk félhold alakú.  
 
 [^2]: Lábjegyzet:  
 Falvay Károly Nagyboldogasszony című könyvének 111. oldalán földlyuknak hívja a lejáratot.  
