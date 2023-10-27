@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["formatted🟢"],"created":"2023-10-14T04:41","updated":"2023-10-14T04:41"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-10-27T02:18"}
 ---
 
 
 # Héber
-
-
 
 #### Péterfai János írja:
 
@@ -69,16 +67,20 @@ Visszatérve az Éber – Héber párhuzamra, valahol PJI is úgy írta (talán 
 Namármost a [[S/Scot\|Scot]] és [[S/Szkíta\|szkíta]] címnél (főleg előbbinél) John Carey (és azóta mások) írása nyomán szóba került a kelta-héber kapcsolat, azért is mert a keltáknál is szerepelt egy Éber Scot (másutt Ebur Scot) nevű ős/törzsfő, mely név azonos a héber Éber ősapa-névvel. Több weboldal és szerző foglalkozik a kelták héber eredetével (ahogy az angolok szkíta eredetével is a brit izraeliták).  
 
 Craig White The True Roots and Origin of the Scots című skótokat zsidó származásúnak beállító kiskönyvében írja:  
-> A theory that has been in circulation is that the descendants of Shelah and Er intermarried with the Canaanites/Phoenicians which created an interwoven mixture which was anti-Israel and anti-Judah. It is this group which gave rise, at least in part, to the anti-British Sinn-Fein in Ireland (a name ~~likely derived from~~ Phoenician and Fenian). Their attitude seems to be derived from their forefathers (Num 33:55). Indeed, the region of [[S/Spain\|Spain]] that the Canaanites/Phoenicians settled in Spain was known in ancient times as Eis Feine.  
+> A theory that has been in circulation is that the descendants of Shelah and Er intermarried with the Canaanites/Phoenicians which created an interwoven mixture which was anti-Israel and anti-Judah. It is this group which gave rise, at least in part, to the anti-British Sinn-Fein in Ireland (~~a name likely derived from Phoenician and Fenian~~). Their attitude seems to be derived from their forefathers (Num 33:55). Indeed, the region of [[S/Spain\|Spain]] that the Canaanites/Phoenicians settled in Spain was known in ancient times as Eis Feine.  
 > This is also possibly why Ireland was known as Erin or Erin's Land, named after Er. Later, Ireland was known as Ierne or Hibernia derived from their ancient forefather, Eber or Heber. The northern islands of Hebrides were originally known as the Hebrides and the Irish language as Erse.  
 > To this day southern Ireland is called Eire and the name Shelagh is popular there.  
+> —  
+> Egy elmélet szerint Séláh és Er leszármazottai keveredtek a kánaániakkal/föníciaiakkal, ami egy Izrael- és Júda-ellenes keveréket hozott létre. Ez az a csoport, amelyből - legalábbis részben - az írországi britellenes Sinn-Fein alakult (~~a név valószínűleg föníciai és a féni nevekből származik~~). Úgy tűnik, hogy hozzáállásuk az őseiktől származik (4Móz 33:55). Valóban, a kánaániták/föníciaiak által Spanyolországban letelepített [[S/Spain\|Spanyolország]] régiót az ókorban Eis Feine néven ismerték.  
+> Valószínűleg ezért is ismerték Írországot Erin, vagy Erin földje néven, amelyet Er-ről neveztek el. Később Írországot Ierne vagy Hibernia néven ismerték, amely ősi ősapjukról, Eberről vagy Heberről származik. A Hebridák északi szigeteit eredetileg Hebridáknak, az ír nyelvet pedig Erse-nek nevezték.  
+> Dél-Írországot a mai napig Eire-nek hívják, és ott a Shelagh név népszerű.  
 
-Az [[E/EB\|EB]], [[E/Éber\|éber]], Héber, [[H/Hibernia\|Hiberniá]]n, [[H/Hebrides\|Hebrides]], és az itt nem említett [[I/Ibér\|ibér]] nevek kapcsolatáról van tehát szó. Különösen az üti fel a fejünket, hogy az Eb-Úr (mint legitim király- illetve főséget jelentő név) ugyanúgy hordozza a kutya fogalmát, ahogy a [[K/Kalib\|kalib]] (teoretikus?) népnévben is szerepel a Nagy Eb fogalom és ahogy a mások által is rokonított geta-gót és szkíta-skót (lásd [[S/Szkíta\|szkíta]]) népnevekben is meglenni látszik a kutya. [[S/Szkíta\|Szkíta]] címnél írottak alapján is egyre inkább oda jutottunk, hogy a név nem csuda, hanem inkább kutya és a Nagy Kutya csillagképpel azonos [[I/Íj csillagkép\|Íj csillagkép]] ([[N/Nimrud\|Nimrud]]dal kiegészülve) lehet valójában a névadás hátterében (és nem a Nyilas [[S/Sagittarius\|Sagittarius]]).  
+Az [[E/EB\|EB]], [[E/Éber\|éber]], Héber, [[H/Hibernia\|Hibernian]], [[H/Hebrides\|Hebrides]], és az itt nem említett [[I/Ibér\|ibér]] nevek kapcsolatáról van tehát szó. Különösen az üti fel a fejünket, hogy az Eb-Úr (mint legitim király- illetve főséget jelentő név) ugyanúgy hordozza a kutya fogalmát, ahogy a [[K/Kalib\|kalib]] (teoretikus?) népnévben is szerepel a Nagy Eb fogalom és ahogy a mások által is rokonított geta-gót és szkíta-skót (lásd [[S/Szkíta\|szkíta]]) népnevekben is meglenni látszik a kutya. [[S/Szkíta\|Szkíta]] címnél írottak alapján is egyre inkább oda jutottunk, hogy a név nem csuda, hanem inkább kutya és a Nagy Kutya csillagképpel azonos [[I/Íj csillagkép\|Íj csillagkép]] ([[N/Nimrud\|Nimrud]]dal kiegészülve) lehet valójában a névadás hátterében (és nem a Nyilas [[S/Sagittarius\|Sagittarius]]).  
 A héber/ibér szavakhoz köthető [[H/Hybrid\|hybrid]] szót illetően lásd ott. Kutyákról szintén lesz szó ott.  
 Héber-jiddis eredetű [[H/Haver\|haver]] szavunk is a héber alaki változata.  
 
 Még mindig a kutyáknál maradunk. Ugyanis a héber népnevet az `ibri` ill. `ivri` = átkelni igéből is kívánják levezetni. Mint tudjuk, az igék utólag képzettek, így ez nem lehet faktor, mégis érdekes az adat.  
-Ez lényegében ugyanaz a szó(eredetre megy vissza), mint annak az [[E/Ember\|ember]] címnél a Borbola János Ősi Gyökér 2012/2-4. sz. megjelent cikkében idézett Otrokocsi Fóris Ferenc Origines Hungaricae című letöltésre elérhető latin nyelvű kétkötetes munkájának első kötetében (147-149. oldal, valamint 292-293. oldalon) adatolt, vándor jelentésben közölt [[E/Ember#^9dqg03\|héber abar és ober szavak]] eredete, melyek kapcsán [[A/Avar\|avar]] címnél is írtuk, hogy Orion és/vagy Nagy Kutyájára utaló név (az Ikrek és Rák cikkelyében is van Úr, Eb/Íjazó és Orion; ez okozza a gondot).  
+Ez lényegében ugyanaz a szó(eredetre megy vissza), mint annak az [[E/Ember\|ember]] címnél a Borbola János Ősi Gyökér 2012/2-4. sz. megjelent cikkében idézett Otrokocsi Fóris Ferenc Origines Hungaricae című latin nyelvű kétkötetes munkájának első kötetében (147-149. oldal, valamint 292-293. oldalon) adatolt, vándor jelentésben közölt [[E/Ember#^9dqg03\|héber abar és ober szavak]] eredete, melyek kapcsán [[A/Avar\|avar]] címnél is írtuk, hogy Orion és/vagy Nagy Kutyájára utaló név (az Ikrek és Rák cikkelyében is van Úr, Eb/Íjazó és Orion; ez okozza a gondot).  
 A héber, illetve egy Wiktionary oldalon arámiként megtaláltנד (`abar`) = elhagy, felhagy jelentéseit...  
 - Krizsa Katalin és Karvaly Katalin A magyar nyelv gyöknyelv c. az Ősi Gyökér 2013/4. sz. megjelent cikkükben a héberül tudó Krizsa a héber `avar` = az elmúlt, átmenő, átköltöző, folyón átkelő jelentéseit adja meg \[v = b ugye\].
 
@@ -123,7 +125,8 @@ Természetesen az átjárás a Nap négy fordulópontjára utalva keresztez igé
 És még mindig a kutyánál, Szíriusznál maradunk akkor, ha a téli napfordulós együttállásra gondolunk. [[H/Hibernate\|Hibernate]] címnél frissen írottakat lásd.  
 
 És még mindig a témánál maradunk amikor a Czuczor-Fogarasi szótár majom címénél írott sorokból akarjuk kihámozni a lényeget (mármint hogy a téridőbeli helyre vonatkozó eredet ismét lehetséges):  
-> A majom latinul Simia, valószinüleg a simus (lapított, sima) szótól, minthogy feltünő tulajdonsága a lapított, sima orr ("dicuntur autem simiae a naribus simis hoc est depressis." Fabri Thesaurus); de lehet a ,similis' ,simulo' szókkal azonegy gyökü is. Németül: Affe, mely rokon gyökünek látszik a mást, ismétlést és utánzást jelentő **Aber** és [[A/After\|after]] szókkal, mintha a német utánzó tulajdonságáról nevezte volna el, mely ez állatban igen jellemzetes.  
+> A majom latinul `Simia`, valószinüleg a `simus` (lapított, sima) szótól, minthogy feltünő tulajdonsága a lapított, sima orr ("dicuntur autem simiae a naribus simis hoc est depressis." Fabri Thesaurus); de lehet a `similis`, `simulo` szókkal azonegy gyökü is. Németül: `Affe`, mely rokon gyökünek látszik a mást, ismétlést és utánzást jelentő **Aber** és [[A/After\|after]] szókkal, mintha a német utánzó tulajdonságáról nevezte volna el, mely ez állatban igen jellemzetes.  
+- Az Affe az [[A/Ape\|ape]] párja inkább.  
 
 A [[M/Más\|más]] az Eb-Úr/Éber téridőbeli helye. [[A/After\|After]] címhez is betéve, ahol másról is szó esett.  
 [[A/After\|After]] címnél szó esett az [[A/April\|April]] címnél taglalt `aperire` = kinyílni, megnyitni igéről is, mely szintén ilyen szóvázú és kiderül róla (a [[P/Pünkösd\|Pünkösd]] tavasznyitó jellegéhez hasonlóan), hogy [[A/Aphrodité\|Aphrodité]]hez hasonlóan a nyári napfordulós téridőbeli pontot jelöli ki.  
@@ -150,11 +153,10 @@ Egy ideje érlelődik bennem, hogy a [[S/Szemiták és árják\|szemiták és á
 
 A Quorán az albán nacionalista Ken Pira hívja fel a figyelmet a görög nevet érintő Etimonline adatára:  
 > Old English Grecas, Crecas (plural) "Greeks, inhabitants of Greece," early Germanic borrowing from Latin Graeci "the Hellenes," apparently from Greek Graikoi. Aristotle, who was the first to use Graikhos as equivalent to Hellenes ("Meteorologica" I.xiv), wrote that it was the name originally used by Illyrians for the Dorians in Epirus, from Graii, native name of the people of Epirus.  
-
-Itt különösen az Epir névre hívnám fel a figyelmet, a héber szó összevetésének lehetősége miatt. [Ezen](https://en.wikipedia.org/wiki/Epirus) oldalon arról van szó, hogy ez a hegyes terület lenne az ókori Görögország szárazföldi része. Még az is lehet, hogy a név hegyre utal.  
-A Wiki oldal etymologiai része:  
+- Itt különösen az Epir névre hívnám fel a figyelmet, a héber szó összevetésének lehetősége miatt. [Ezen](https://en.wikipedia.org/wiki/Epirus) oldalon arról van szó, hogy ez a hegyes terület lenne az ókori Görögország szárazföldi része. Még az is lehet, hogy a név hegyre utal.  
+A Wiki oldal etimológiai része:  
 > The name Epirus is derived from the Greek: Ἤπειρος, romanized: Ḗpeiros (Doric Greek: Ἄπειρος, romanized: Ápeiros), meaning "mainland" or terra firma. It is thought to come from an Indo-European root \*apero- 'coast', and was originally applied to the mainland opposite Corfu and the Ionian islands. The local name was struck on the coinage of the unified Epirote commonwealth: "ΑΠΕΙΡΩΤΑΝ" (Ancient Greek: Ἀπειρωτᾶν, romanized: Āpeirōtân, Attic Greek: Ἠπειρωτῶν, romanized: Ēpeirōtôn, i.e. "of the Epirotes", see image right). The Albanian name for the region, which derives from the Greek, is Epiri.  
-![assets/Héber_image1.png](/img/user/H/assets/H%C3%A9ber_image1.png)  
+![assets/Héber_image1.png|undefined](/img/user/H/assets/H%C3%A9ber_image1.png)  
 
 A szövegben érdekes a fentebb már említett/tárgyalt part jelentésűnek meghatározás. A Tejút két partra osztja az eget. Mivel másutt (például [[R/Range\|range]] címnél) volt szó arról, hogy a Tejút hegyvonulatok nevét is adhatja, itt is lehet erről szó, de nem kizárt, hogy a héber [[H/Habiru\|Habiru]] címnél sorolt ilyen-olyan változatainak egy újabb instanciájáról van szó.
 
@@ -203,7 +205,7 @@ Nem elképzelhetetlen, hogy a (magát) vezető(nek kinevező) zsidó papok sajá
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Az arab Masr = Egyiptom, a [[M/Maghreb\|Maghreb]] kifejezés, a Tejút Al Majarrah neve, a Tejútanya vulváját jelképező kagyló `mahar` neve és az ismét csak önelnevezésre utaló, [[M/Magar\|Magar]] címnél bővebben taglalt `muhajir` és `muhājirūn` szavak, sőt a szaracén [[M/Mór\|Mór]] is mind magyarokra utalnak.  
+Az arab **Masr** = Egyiptom, a [[M/Maghreb\|Maghreb]] kifejezés, a Tejút Al Majarrah neve, a Tejútanya vulváját jelképező kagyló `mahar` neve és az ismét csak önelnevezésre utaló, [[M/Magar\|Magar]] címnél bővebben taglalt `muhajir` és `muhājirūn` szavak, sőt a szaracén [[M/Mór\|Mór]] is mind magyarokra utalnak.  
 De Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében egyiptomi témában Bunyeváczot idézve írja a rabbinikus hagyományról, hogy az Oxfordban (is) tudományos kutatásokat folytató Drexler (Drechsler) Miksa tudós temesvári főrabbi – szóbeli közlésen alapuló írás tanúsága szerint – 96 esztendős korában (1979) kijelentette, hogy "ti, magyarok vagytok a legősibb nemzet, minden ma élő nemzet közül. Ezt mi, zsidók, nagyon jól tudjuk. Még a kivonulás előtt, Egyiptomban, már ott is megjelentek lovasaitok, és tudtuk rólatok, hogy már ősidők óta léteztek." (Bunyevácz 480) \[A matek viszont nem jön ki, ha a Wikit nézzük: Tabajd, 1883. október 23. – ?, 1970.\]  
 
 [^2]: Lábjegyzet:  
