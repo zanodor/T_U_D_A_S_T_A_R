@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["formatted🟢"],"created":"2023-10-14T04:30","updated":"2023-10-14T04:30"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2023-10-27T02:42"}
 ---
 
 
 # Hsiung-nu
-
-
 
 Előfordul Hiung-nu és más formákban is.  
 
@@ -23,6 +21,14 @@ Ezen adatokat felhasználva írom [ezen](https://qr.ae/py1lXv) Quora posztban:
 > - Hsi-Ung-Nu roughly translates as "West-Ung-Lords." [[U/Ung\|Ung]], [[U/Unka\|unka]], etc. means: Coming of the House of Un/An; hence words of modern Hungarian `unka`, `unoka` refer to primordiality (a type of frog; grandchild).  
 >
 > European/Steppe Huns civilized what is later known as China ("themselves," because China is \*Huna, a continuation of the Hunnic culture) a long time ago. [[H/Huang-ti\|Huang-ti]]’s time is not that old. 2–3000 years is nothing. Huns cannot be confined to a mere few hundred year old bracket but Western "science" can do whatever they want. If they want the Chinese, the Ainu or Hottentots Indo-European or Semitic, or want them to be viewed as [[B/Barbár\|barbar]]s (which they don't even know what it means, they just keep repeating stuff like parrots), like the Huns are portrayed, they will do it. That is their level. We want to rise above their level because we want to survive their idiocy and this astronomical age.  
+>
+> —  
+>
+> A hsziungnuk a nyugatról érkezett ázsiai hunokhoz tarthatók. Ők egy következmény.  
+>
+> - A Hsi-Ung-Nu nagyjából "Nyugat-Ung Urak"-nak fordítható. A [[U/Ung\|Ung]], [[U/Unka\|unka]] stb. jelentése: Un/An házból való származás; ezért utalnak a mai magyar `unka`, `unoka` szavak ősiségre (előbbi egyfajta béka).  
+>
+> Az európai/szteppei hunok már régen civilizálták a később Kínának nevezett területet ("önmagukat", mert Kína = \*Huna, a hun kultúra folytatása). [[H/Huang-ti\|Huang-ti]] ideje nem olyan régi. 2-3000 év az semmi. A hunokat nem lehet pár száz éves tól-ig határok közé tenni, de a nyugati "tudomány" azt csinál, amit akar. Ha azt akarják, hogy a kínaiak, az ajnuk vagy a hottentották indoeurópaiak vagy szemiták legyenek, vagy azt akarják, hogy [[B/Barbár\|barbár]]nak tekintsék őket (amiről még azt sem tudják, hogy mit jelent, csak ismételgetnek, mint a papagájok), amilyennek a hunokat szokás beállítani, akkor megteszik. Ez az ő szintjük. Mi az ő szintjük fölé akarunk emelkedni, mert túl akarjuk élni az idiotizmusukat és ezt a csillagászati kort.  
 - A [[Y/Young\|young]] címnél taglalt skandináv `ung` = fiatal szót is említhettem volna.
 
 [Ezen](https://hu.wikipedia.org/wiki/Hsziungnuk) oldalon további adatokat lásd.  
@@ -34,6 +40,8 @@ Ez a név előjön...
 ...című könyvében is. A kínai források Vad (Rab)szolgák névvel fordítják a nevet.  
 Ami érdekes:  
 > As we have seen, in the ancestral legend of the Hsiung-nu (and other Altaic peoples) preserved in the Wei shu (History of the Wei Dynasty), it is a wolf who, positioned in a cavern under the door of a tower, guards two princesses who are living there and eventually unites with one of these to engender the entire race.  
+> —  
+> Mint láttuk, a Hsziung-nu (és más altaji népek) ősi legendájában, amelyet a Wei shu (A Wei-dinasztia története) őrzött meg, egy farkas az, aki egy torony ajtaja alatti barlangban elhelyezve őrzi az ott élő két hercegnőt, és végül egyesül az egyikükkel, hogy egy egész fajt nemzzen.  
 - Lásd még erről (asztrális) [[K/Kutyanemzés\|kutyanemzés]].
 
 #### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
