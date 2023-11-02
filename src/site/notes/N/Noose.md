@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["formatted🟢","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-10-16T07:04"}
+{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-11-02T03:40"}
 ---
 
 
 # Noose
-
-
 
 [[H/Hurok\|Hurok]]. A hurok szorít és fojtogat, elsősorban nyakat, például akasztott emberét. Nyúz szavunk közel áll úgy értelemben, mint jelentésben. Ahogy a görög `hamma` = kötél, hurok [[H/Hám\|hám]] szavunkból ered, úgy köthető szintén lovakhoz a noose is, mely nyűg szavunkból (k hang vagy ez esetben g rokona sokszor változik sz-szé, ezt másutt is láttuk) is eredhet. [[N/Nyűg\|Nyűg]] azon kötél, melyen a ló lábát kötik le, hogy messze ne kóboroljon.  
 De ha már szóba kerültek a lovak, jöjjenek a kutyák ([[K/Kutyafejű\|kutyafejű]]ek) is, melyek orra az azonos [[N/Nose\|nose]].  Elképzelhető, hogy a [[N/Nyolc\|nyolc]] szavunk adja ki e szót.  
@@ -22,6 +20,10 @@ Hasonló szó az inkább [[N/Net\|net]]-nél tárgyalandó latin `nassa` = gally
 > In a pass of the Peruvian Andes stand two ruined towers on opposite hills. Iron hooks are clamped into their walls for the purpose of stretching a net from one tower to the other. The net is intended to catch the sun.  
 > On the top of a small hill in Fiji grew a patch of reeds, and travellers who feared to be belated used to tie the tops of a handful of reeds together to detain the sun from going down.  
 > The intention perhaps was to entangle the sun in the reeds, just as the Peruvians try to catch him in the net. Stories of men who have caught the sun in a noose are widely spread.  
+> —  
+> A perui Andok egyik hágójában két romos torony áll egymással szemben lévő dombokon. Falukba vaskampókat erősítettek, hogy az egyik toronyból hálót feszítsenek ki a másikba. A háló a Napot hivatott befogni.  
+> A Fidzsi-szigeteken egy kis domb tetején nádas nőtt, és a késéstől félő utazók egy maréknyi nádszál tetejét kötötték össze, hogy feltartsák a Napot a lemenéstől.  
+> A szándék talán az volt, hogy a Napot a nádba gabalyítsák, ahogyan a peruiak próbálják hálóba fogni. Széles körben elterjedtek történetek olyan emberekről, akik hurokkal fogták a Napot.  
 
 
 </div></div>
