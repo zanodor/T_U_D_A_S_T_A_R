@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-23T04:31"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-02T03:42"}
 ---
 
 
@@ -53,6 +53,9 @@ Azaz: itt nincs semmi; ha egy link vezetett ide, ez a bejegyzés még nem lett n
 
 A bal oldalon található fájlok listájában az A-Z mappák valamelyike alapból kinyitva mutatkozik. Erre vagy lesz valamiféle gyógyír, vagy a rókaszájakra kattintva bezárhatók (és újra kinyithatók).  
 
+Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az adott cikk alapértelmezetten témának lesz megadva. Legalul Disqus szolgáltatással lehet mindenki számára látható kommenteket küldeni.   
+A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
+
 Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CNTRL és mínusz gomb lenyomásaival juthat.  
 A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
 
@@ -73,7 +76,7 @@ Milyen egyszerű lenne az élet, ha a kútfők már akadémiai szinten – a vil
 Ahogy mondtam, szerettem volna tökéletesre formálni mindent, de számolnom kell azzal, hogy ilyen-olyan okoknál fogva sosem jut el másokhoz, amit eddig felhalmoztam, ezért döntöttem mégis a folyamatos nyilvánosságra hozatal mellett.  
 
 
-A fentebb említett Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, mint mérvadó, viszont külön helyen egyes hibáira vagy következetlenségeire is felhívom a figyelmet.  
+A fentebb említett Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, mint mérvadó, viszont külön helyen egyes – fogalmazzunk úgy – hibáira vagy következetlenségeire is felhívom a figyelmet.  
 Remélhetőleg egy nálam fiatalabb – vagy csak: rátermettebb –, követőnk majd az én hibáimat is javítja. Az alapokat János bátyám és én letesszük nekik.  
 
 Az írások nagy része tehát másoktól származó idézet (igyekeztem a megfelelő kiemelésekkel adni), alapvetően elsődlegesen saját részre, adatgyűjtés céljából. A saját anyag kb. az összes szöveg 15-25 százalékát teheti ki, esetleg többet, de az idő és a kutatás előrehaladtával az arányok tolódhatnak: több adat állhat rendelkezésre a már felvázolt tézisek igazolására, pontosítására.  
@@ -82,6 +85,9 @@ Az egyes helyeken található ún. Zotero linkek (ahol oldalszámokra lehet katt
 Úgy terveztem, hogy ez is publikusan működhet, de sajnos menet közben technikai akadályok merültek fel. Amíg nem találok ingyenes tárhelyet 50-100GB méretben, a könyvek lapjaira kattintva nem nyílik meg az olvasó böngészőjében semmi.  
 
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
+
+Menet közben úgy döntöttem, hogy a fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet) lefordítom. Ehhez a kitűnő DeepL fordítót használom. A kész fordításokban csak a látványos vagy ordító hibát javítom, de elképzelhető, hogy helyenként kissé magyartalan marad a szöveg. (Az említett fordító így is messze felülmúlja a nagynevű világcégek magyar nyelvre fordító képességét – történik mindez a 21. században...)  
+Ez a lábjegyzetekre is kihatással lesz: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra visz.  
 
 ### A tartalom
 
