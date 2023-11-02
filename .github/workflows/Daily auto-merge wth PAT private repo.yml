@@ -5,8 +5,8 @@ on:
     # * is a special character in YAML so you have to quote this string
     # daily
     # - cron:  '0 0 * * *'
-    # Runs at hour:50 ; check other ways to do it at https://crontab.guru
-    - cron:  '50 * * * *'
+    # Runs at 23:50 every Friday
+    - cron:  '50 23 * * 5'
 
 jobs:
   merge:
