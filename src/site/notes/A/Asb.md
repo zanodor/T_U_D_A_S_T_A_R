@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2023-11-02T04:18"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2023-11-02T04:19"}
 ---
 
 
@@ -96,7 +96,7 @@ Amennyiben közös nevező alá vesszük őket, akkor hasonló esetet látunk, m
 Esetleg az asb szó egy újabb magyarázata lehetne?  
 
 ## Lábjegyzetek
-yy
+
 [^1]: Lábjegyzet:  
 Irantxe, also known as Münkü and Menku(!), is an indigenous American language that is spoken in Mato Grosso, Brazil, by about 200 people. It is generally left unclassified due to lack of data.  
 
