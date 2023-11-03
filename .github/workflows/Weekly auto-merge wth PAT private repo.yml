@@ -1,4 +1,4 @@
-name: 'Daily auto-merge wth PAT private repo'
+name: 'Weekly auto-merge wth PAT private repo'
 
 on:
   schedule:
