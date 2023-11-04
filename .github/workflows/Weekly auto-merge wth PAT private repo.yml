@@ -1,12 +1,12 @@
-name: 'Daily auto-merge wth PAT private repo'
+name: 'Weekly auto-merge wth PAT private repo'
 
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # daily
     # - cron:  '0 0 * * *'
-    # Runs at 23:50 every Friday
-    - cron:  '50 23 * * 5'
+    # Runs at 00:50 every Saturday
+    - cron:  '50 0 * * 6'
 
 jobs:
   merge:
