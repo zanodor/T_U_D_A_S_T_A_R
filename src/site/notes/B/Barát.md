@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded"],"created":"2023-10-31T06:45","updated":"2023-11-02T03:45"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded"],"created":"2023-10-31T06:45","updated":"2023-11-06T03:25"}
 ---
 
 
@@ -116,7 +116,7 @@ A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és ka
 > Mondja a Nap soha a Földnek,  
 > "Tartozol nekem."  
 > Nézd, mi származik egy ilyen szerelemből,  
-> Az egész égboltot bevilágítja. "*  
+> Az egész égboltot bevilágítja."*  
 
 [Ezen](http://weekly.ahram.org.eg/2004/672/profile.htm) oldal adata szerint az óegyiptomi és arab `samir` = barát (`shamir` pedig a héberben); ez a Szem-Úr, Nap Úr értelmű összetétel olyan, mint a barát: a Nap a legfőbb (egyetlen) barátunk.  
 De az [ezen](https://en.wikipedia.org/wiki/Mitra) oldalon említett szanszkrit és indo-árja `mitra` = barát is Napnévből ([[M/Mithra\|Mithra]]) ered és a koreai `csingu` = barát is érthető.  
