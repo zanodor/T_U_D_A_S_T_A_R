@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["formatted🟢"],"created":"2023-10-04T02:42","updated":"2023-10-04T02:42"}
+{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["dg_uploaded"],"created":"2023-10-04T02:42","updated":"2023-11-06T01:04"}
 ---
 
 
 # Anu útja
-
-
 
 The Way of Anu – így hívják a delelő Nap szintjeit(?) (ezt már nem emlékszem, honnan vettem) abban a [[T/Téridő\|téridő]]-leosztásban, melyet lásd [[B/Berossus\|Berossus]] alján.  
 Mivel [[A/Anu\|Anu]]-nál az szerepelt, hogy Wallis Budge-éktól sakál-, azaz kutyaazonosításokat kapott, ez az Anu útja lehetne az a régió, ahol a Szíriusz jár, de nem erről szólnak a szakértők. Nyilván másról is van szó.  
