@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢"],"created":"2023-10-03T09:41","updated":"2023-10-04T08:29"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2023-11-10T06:22"}
 ---
 
 
 # Fül
 
-
-
 A fül angolul [[E/Ear\|ear]], ahol sok érdekes dologról volt szó. Emlékezzünk még Pap Gábor szavaira és a nála bemutatottakra, hogy a fül sokszor hangsúlyos (elnagyolt) a népművészetben, arra célzóan, hogy az első ill. legfőbb érzékelés az igével teremtett világ hangjára utal. [[M/Menyét\|Menyét]] és [[S/Száj\|száj]] címnél esett szó fülön át nemzésről, mely a [[L/Logosz\|logosz]]ra utal FK szerint.  
 
-Fül szavunk [[F/FUL\|FUL]] etymonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
+Fül szavunk [[F/FUL\|FUL]] etimonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
 A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít.   
 
 Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott). [[F/File\|File]] címnél is előjött fül.  
@@ -33,17 +31,21 @@ A fülek kapcsán már PJI írta, hogy a fentebb említett tündérfülekkel ék
 
 A felfelé álló fülek (nem csak kutyáé) kapcsán...
 
-#### Jankovics Marcell több helyen említett passzusát tegyük még ide:
+#### Jankovics Marcell...
 
+...több helyen említett passzusát tegyük még ide:
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt ([[K/Krampusz\|krampusz]]t) és a boszorkányt szarvas lénynek képzelték, ezért voltak "[[S/Szarvas\|szarvas]]" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
 Mindenféle kinövés, kivált a fejből felfelé, szarvakhoz hasonlítható – [[S/Széth\|Széth]] állata (sha) és fülüket hegyező \[[[Hegy\|hegy]] = [[H/HAR\|HAR]] = [[E/Ear\|ear]]\] kutyák kapcsán is említett – fül isteni attributum (az isteni logosz – vesd össze [[E/Ég\|ég]] és [[I/Ige\|Ige]] – vételére is értve).  
+
 Ha már Egyiptom, ...
 
 #### Greg Rigby The God Secret...
 
 ...című könyvében is írja:  
 > The one place left of significance where one can readily demonstrate the existence of horned and winged Gods and Goddesses is Egypt. There, the study of the Heavens was integral to the Egyptian's religion and to the identity of the Gods in the Egyptian pantheon. Amongst the principal deities Osiris (Fig 26) was normally portrayed as horned and Anubis (Fig 27) portrayed with **ears that could just as easily be horns**. The Goddesses Hathor (Fig 28) and Isis were portrayed with cows' horns and Isis (Fig 29) and Maat with wings.  
+> —  
+> Az egyetlen jelentős hely, ahol a szarvas és szárnyas istenek és istennők létezése könnyen bizonyítható, az Egyiptom. Ott az Égiek tanulmányozása szerves része volt az egyiptomiak vallásának és az egyiptomi panteonban szereplő istenek identitásának. A fő istenségek közül Oziriszt (26. ábra) általában szarvasnak ábrázolták, Anubiszt (27. ábra) pedig **fülekkel ábrázolták, amelyek éppúgy lehetnek szarvak is**. Az istennőket, Hathort (28. ábra) és Íziszt tehénszarvakkal, Íziszt (29. ábra) és Maatot pedig szárnyakkal ábrázolták.  
 
 Ugyanezen témára vonatkozó megjegyzésem, hogy egy másik Bahador Alast videóban a domari (roma) `kan` = fül kutyáé lehet, és a vele (nyilván tévesen) párhuzamba állított szanszkrit `kárna` = fül a [[H/Horn\|horn]] szóval azonos.  
 
