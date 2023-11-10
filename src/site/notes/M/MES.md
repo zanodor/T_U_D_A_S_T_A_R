@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2023-11-10T11:07"}
 ---
-
----
-title: MES
-aliases:
-  - Mes
-  - mes
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-21T04:46
-dg-updated: 2023-10-21T04:46
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # MES
@@ -36,15 +19,17 @@ De alterhez igen hasonló az [[A/Altar\|altar]] = oltár név is, és ahogy JM �
 
 > [[G/Gilgames\|Gilgames]] nevét akkádnak minősítik, holott színmagyar név. A név helyesen Gil-Ga-Mes elemekből áll. Mind a három elem magyar szó, semmi köze az akkádokhoz, hacsak az akkádok nem magyarul beszéltek. Gil a Galamb egyik neve, lásd Gilice, ami galambot jelent, és a Gil becézése. A perzsa `Gil` szintén galamb, a perzsa szó kétségtelenül a magyar nyelvből ered, csak vessük össze a két nyelv létezésének idejét. A Ga egyértelműen Ház, a Mes Ifjú, mint a Mes-E szavunkban is. Ez a Galamb-Házi-Ifjú jelentés a hős galamb lelkű viselkedésére vonatkozik. Elsősorban édesanyja nevezte Gilnek, gyakran Gisnek.  
 > Az Ifjú szónak több változata van, mint Mesz, Mász, Mosz, Mes, Mis és egyebek.  
-- RHA könyvében Oroszlán csk. [[R/Regulus\|Regulus]] csillagánál írja, hogy a turáni népeknél `Masu` = [[H/Hős\|hős]] volt a neve. PJI-nél is az Ifjú és Hős jelentések keverednek, de keletkezés jelentéssel is adatolják e szavakat.  <br/>
-Lásd még fiú jelentések kapcsán [[M/MAS\|MAS]] és [[M/Más\|más]], valamint [[M/Mózes\|Mózes]]. 
+- RHA könyvében Oroszlán csk. [[R/Regulus\|Regulus]] csillagánál írja, hogy a turáni népeknél `Masu` = [[H/Hős\|hős]] volt a neve. PJI-nél is az Ifjú és Hős jelentések keverednek, de keletkezés jelentéssel is adatolják e szavakat. <br/>
+Lásd még fiú jelentések kapcsán [[M/MAS\|MAS]] és [[M/Más\|más]], valamint [[M/Mózes\|Mózes]].
 
 Ezek alapján MES jelentése [[M/MISZ\|MISZ]]-hez is hasonló(an ifjú, fiú jelentésű), de Gavin White Babylonian Star Lore című könyvének adata szerint MES egyszerűen többes számot jelöl:  
 > Late astrology texts sometimes refer to the Crab simply as 'the Waters' (A-meš).  
+> —  
+> A késői asztrológiai szövegek néha egyszerűen "Vizek" (A-meš) néven említik a Rákot.  
 - Ilyen értelemben [[M/Mass\|mass]] vagy [[M/Mash\|mash]] szóval látszik azonosulni értelmében. [[M/Méz\|Méz]] szavunk is lehet tej/víz értelmű, mint [[M/MISZ\|MISZ]]-nél láttuk.  
 A víz lehet a Tejútanya magzatvize (ég tengere). De legegyszerűbb a [[M/Mix\|mix]] címnél írottak alapján gondolkodni. Ott is előjött a víz.  
 Csatolva lásd MES piktogramját.  
-![assets/MES_image1.png|undefined](/img/user/M/assets/MES_image1.png)  
+![assets/MES_image1.png](/img/user/M/assets/MES_image1.png)  
 
 Szintén Gavin White könyvéből derül ki, hogy a Halak csillagkép [[S/Sumér zodiákus\|sumér zodiákus]]beli [[K/Kunmes\|Kunmes]] (Farkak) nevében is megtalálható ez a MES. Ott is azt írja, hogy tbsz-jelölő. Halakból valóban kettő van, hisz kettős jegy. De próbáljuk meg másképp is értelmezni.  
 Legutóbb [[M/MISZ\|MISZ]], [[G/Gilgames\|Gilgames]] és [[T/Tölgy\|tölgy]] címnél szerepelt, hogy [[G/Gilgames\|Gilgames]] afféle [[F/Fehérlófia\|Fehérlófiá]]nak beillő hős:  
@@ -53,7 +38,7 @@ A Hamlet Malmában, egy lábjegyzetben is előjön [[K/Kutha\|Kutha]] városa, s
 > MES.LAM volt a neve Nergál kuthai szentélyének, jelentése pedig "a buján növő MES-fa" Gössmann szerint (Das Era-Epos, p. 67).  
 
 Csatolva lásd az akkád szótárban talált szavakat.  
-![assets/MES_image2.png|undefined](/img/user/M/assets/MES_image2.png)  
+![assets/MES_image2.png](/img/user/M/assets/MES_image2.png)  
 
 Ezen MES egyezőnek látszik a török `meşe` = [[T/Tölgy\|tölgy]] szóval és felveti, hogy Gilgames is afféle Fehérlófia alak, aki asztrális-erkölcsi utat jár be.  
 [[M/Messiás\|Messiás]] címnél szebben kifejtve mindez.  
@@ -81,7 +66,7 @@ A keltánál maradva, a [[K/Kutya\|kutya]] címnél szereplő M-D vázú `madadh
 A MES-tölgyről még annyit, hogy ezt a mitológiai-mesei tölgyfa nevének tartom. A tölgy rendes magyar neve tölgy. A tölgy fogalmába túl sokminden van belecsempészve (túl, tőgy, tud, Toldi) ahhoz, hogy ne ez legyen az eredeti szavunk.  
 
 Igen jelentőségteljes a mes azonossága [[M/Más\|más]] szavunkkal, mely a [[M/Méhlepény\|méhlepény]] népies neve. A mellékelt kép bizonyítja, hogy okkal fedezünk fel analógiát.  
-![assets/MES_image3.png|undefined](/img/user/M/assets/MES_image3.png)  
+![assets/MES_image3.png](/img/user/M/assets/MES_image3.png)  
 A magyar és magyar-rokon hagyomány szerint gyerek születésekor fát ültetnek, mert a régi hiedelmek szerint az embernek két lelke van, az egyik a testében, a másik a fáéban, amit születésekor ültetnek. Más hagyomány szerint a méhlepényt fa alá ásták el: ha kislány született, almafa, ha fiú, körtefa alá.  
 Nem-e lehetséges, hogy a két hagyomány összefügg és a mes-fa is innen, a más(ik lélek) nyomán veszi nevét?  
 
