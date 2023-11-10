@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["formatted🟢"],"created":"2023-10-03T11:47","updated":"2023-10-03T11:47"}
+{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2023-11-10T06:35"}
 ---
 
 
 # Aton
-
-
 
 #### Péterfai János írja:
 
@@ -25,5 +23,7 @@ PJI azt nem írja, hogy Aton és [[A/Atum\|Atum]] nevei illetve alakjai között
 
 ...című könyvének 270. oldalán Ahmed Osmanra hivatkozva írja, hogy a zsidó [[M/Monoteizmus\|monoteizmus]] és a [[M/Mózes\|Mózes]] féle [[T/Tízparancsolat\|Tízparancsolat]] eredete egyiptomi (ott ugye Akhenatenről és annak Mózessel való azonosságáról volt szó és Aten istenről):  
 > Ahmed Osman points out the Egyptian elements of the monotheism preached by Moses as well as his use of phrases and expressions that betray his deep-seated familiarity with Egyptian spiritual practice. He even shows that the Ten Commandments betray the direct influence of Spell 125 in the Egyptian Book of the Dead.  
+> —  
+> Ahmed Osman rámutat a Mózes által hirdetett egyistenhit egyiptomi elemeire, valamint olyan kifejezések használatára, amelyek elárulják, hogy mélyen ismeri az egyiptomi spirituális gyakorlatot. Még azt is kimutatja, hogy a Tízparancsolat elárulja az egyiptomi Halottak Könyvében található 125. varázsige közvetlen hatását.  
 
 A [[Z/Zsidó#Zsidó klerikálizmus\|zsidó klerikálizmus]] is egyiptomi eredetű.
