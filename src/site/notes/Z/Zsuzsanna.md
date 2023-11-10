@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["formatted🟢"],"created":"2023-10-18T07:55","updated":"2023-10-19T03:33"}
+{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-18T07:55","updated":"2023-11-10T07:06"}
 ---
 
 
@@ -18,4 +18,9 @@ A héber `shushan` = liliom szó a PJI által másutt említett liliomtiprás id
 > Sus-Ana means Virgin Mother (Magyar `szűz` and `ana`, `anya`). The lily meaning in Hebrew comes from the Magyar concept of "liliomtiprás," meaning – in "flower language" the rape of a minor/virgin. Lily has connotations with soul (Sumerian `lil`, Magyar `lél`, `lélek`; `lehel`).  
 > Before Hebrew, there was Aramaic, Assyrian, Akkadian, Sumerian and of course the archaic form of Magyar, which did not change much at all (as you can see).  
 > The text in the Book of Daniel depicts attempted rape. Semites weeded out Goddesses and consider Virgin Mary a whore. By all means embrace their "interpretations."  
-- Héber éppen még lehetne, de nem a szemita héber.  
+> —  
+> Mint már mondtam, a Biblia tartalma nem héber eredetű. Susanna szintén nem vagy előhéber név.  
+> Sus-Ana jelentése Szűz Anya (magyar `szűz` és `ana`, `anya`). A héber liliom jelentése a magyar "liliomtiprás" fogalomból származik, ami – "virágnyelven" a kiskorú/szűz megerőszakolását jelenti. A liliomnak lélekkel kapcsolatos konnotációi vannak (sumér `lil`, magyar `lél`, `lélek`; `lehel`).  
+> A héber előtt volt arámi, asszír, akkád, sumér és persze a magyar archaikus formája, ami nem sokat változott (mint látható).  
+> A Dániel könyvében szereplő szöveg nemi erőszak kísérletét ábrázolja. A szemiták kigyomlálták az istennőket és Szűz Máriát szajhának tartják. Mindenképpen fogadják el az ő "értelmezéseiket".  
+- Héber éppen még lehetne, de nem a szemita-héber.  
