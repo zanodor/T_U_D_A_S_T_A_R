@@ -1,37 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T06:59","updated":"2023-11-10T06:38"}
 ---
-
----
-title: Arimaszpa
-aliases:
-  - arimaszpa
-  - arimaszpá
-  - arimaszposz
-  - Arimaspoi
-  - Arimaspian
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T06:59
-dg-updated: 2023-10-20T06:59
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # Arimaszpa
 
 [[H/Három\|Három]] címnél a szkíta nép nevének (inkább ragadványnév) előtagjáról már volt szó.
 
-Somos Zsuzsanna Párizsi múzeumokban című az Ősi Gyökér 2010/4. sz. megjelent cikkében írja, hogy [[H/Hérodotosz\|Hérodotosz]]tól tudjuk, hogy a szkíták az egyet `arima`-nak nevezték. Ez a szó inkább [[H/Három\|három]] azaz harma szóra emlékeztet, és az [[E/Egy#Egyháromság\|egyháromság]]/[[S/Szentháromság\|Szentháromság]] alapján utalhatott egyre.  
+Somos Zsuzsanna Párizsi múzeumokban című az Ősi Gyökér 2010/4. sz. megjelent cikkében írja, hogy [[H/Hérodotosz\|Hérodotosz]]tól tudjuk, hogy a szkíták az egyet `arima`-nak nevezték. Ez a szó inkább [[H/Három\|három]] azaz \*harma szóra emlékeztet, és az [[E/Egy#Egyháromság\|egyháromság]]/[[S/Szentháromság\|Szentháromság]] alapján utalhatott egyre.  
 
 [Ezen](https://www.theoi.com/Phylos/Arimaspoi.html) oldalon írják:  
 > THE ARIMASPOI (Arimaspians) were a tribe of one-eyed men who lived at the foot of the Rhipaion (Rhipaean) Mountains in northern Skythia (probably the Carpathians). They warred constantly with the gold-guarding Grypes (Griffins) of the mountains-winged beasts with the heads of eagles and the bodies of lions.  
 > According to Herodotos their name was derived from the Skythian words `arima` "one" and `spou` "eye".  
+> —  
+> AZ ARIMASZPOI (arimaszpiaiak) egy félszemű emberekből álló törzs volt, amely a Rhipaion-hegység (Rhipaean) lábánál élt Észak-Szkythiában (valószínűleg a Kárpátokban). Állandó háborút vívtak a hegyek aranyat őrző griffjeivel (gripenekkel) – sasfejű és oroszlántestű szárnyas állatokkal.  
+> Hérodotosz szerint nevük a szkíta `arima` "egy" és `spou` "szem" szavakból származik.  
 - Hérodotosz leírt (skytha féle hangzósításaira gondolva) adataival csínján kell bánni, és [[O/Orion\|Orion]] és [[C/Cyclops\|cyclops]] címnél írottak alapján Orion az egyszemű.  
 
 #### Péterfai János...
