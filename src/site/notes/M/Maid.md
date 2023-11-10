@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["formatted🟢"],"created":"2023-10-21T03:53","updated":"2023-10-21T04:03"}
+{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2023-11-11T12:09"}
 ---
 
 
@@ -27,7 +27,18 @@ Az elmondottakhoz még tehető, hogy [[D/Daughter\|daughter]] címnél közben k
 > A magyar leány szónak régen [[S/Szűz\|szűz]] értelme is volt. Leány értelme volt az ónémet nyelvben a `magd`, `magda` szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy [[I/Ilona\|Ilona]] Istennőnk épen ellenkezőleg a [[M/Magyar\|magyar]] vagy Magar nevet [[N/Nász\|nász]]a után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
 
 Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf) tanulmány (melyből [[P/Parthenogenesis\|parthenogenesis]] címnél idéztünk) adata szerint a héber `almah` = szűz. Ugyan első megérzésem az volt, hogy ez alma szavunkkal azonos (márpedig [[A/Alma Mater\|Alma Mater]] is ilyen fontos név), könnyen lehet, hogy az Al itt névelő és a szóvégi h nem hagyható el. Azaz mah = mag, mint a [[M/Magda\|Magda]] és [[M/Maiden\|maiden]] nevekben illetve elődjében. A lényeg, ahogy az [alábbi](https://carm.org/isaiah-7-14-virgin) oldal is taglalja, hogy félrefordítás történt (a héber `almah` = maiden, nem virgin; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér):  
-> As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where almah was translated as the Greek `parthenos`.  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/p/parthenogenesis/#fug3hb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where `almah` was translated as the Greek `parthenos`.  
+> —  
+> Mint kiderült, még a leghíresebb spekuláció a parthenogenezisről, Jézus Krisztus születése sem egy csodának, hanem az Ézsaiás 7:14 héberről görögre történő fordítása során elkövetett emberi hibának köszönheti létét: a héber "alma" szó utalhat egy fiatal, házasodóképes korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` a görög `parthenos` szóval lett lefordítva.  
+
+
+</div></div>
+  
 
 [[K/Kisasszony\|Kisasszony]] címnél is szóba került a Tejútanya lány/szűz aspektusa.  
 [[D/Dame\|Dame]] és [[D/Dam#Dam 2)\|dam]] címnél lásd még szintén Ilonás-Tejútistennő-állatalakos infót (hiszen dámszarvas is létezik).  
