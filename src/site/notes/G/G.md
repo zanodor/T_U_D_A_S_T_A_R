@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["formatted🟢"],"created":"2023-10-19T11:35","updated":"2023-10-19T11:35"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2023-11-10T03:47"}
 ---
-
-
 
 
 # G
@@ -12,7 +10,7 @@ Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek 
 Ismert még a szumer `sal` = asszony, nő (vö. a főképpen René Labat adataira támaszkodó [[D/Dudás Rudolf\|Dudás Rudolf]] közlése alapján ismert szinte azonos alakú sumér `ŠUL` = férfi, hős szóval).  
 
 GYÁ-nak van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
-![assets/G_image1.png|undefined](/img/user/G/assets/G_image1.png)  
+![assets/G_image1.png](/img/user/G/assets/G_image1.png)  
 A csatolt jelet – nyilvánvaló okokból – például [[P/Pina\|pina]] címnél is szerepeltettük.  
 Záhonyi András A káld-szabír (sumer) képjelek, hangértékek rejtett üzenetei című az Ősi Gyökér 2021/1. sz. megjelent cikke alján is említi futólag.  
 
@@ -44,6 +42,17 @@ Hasonló esetet másutt is láttuk, amikor például [[M/Magor\|Magor]]/[[M/Maga
 
 ## Török ğ hang
 
-A törökországi törökök tulajdonképpeni önazonosítására használt [[O/Oguz\|oguz]] névben g valójában ğ azaz gh hang, melyről nemcsak a kağan név kapcsán, hanem az [[U/UL\|UL]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél taglalt példák kapcsán is volt szó.  
-Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora válasz kommentjében Esra Dur AKA Supplex nevű török lány írja:  
-> We modern Turks call ourselves Oğuz, you already know that; it reads O:z. There is a reason there is this 'soft g' in our alphabet. It fades away and gets hardened also; I'm really fascinated by this sound. So in this instance, soft g/ğ fades away and it becomes uz. But then again it gets hardened and becomes `öküz`. Öküz means ox.  
+A törökországi törökök tulajdonképpeni önazonosítására használt [[O/Oguz\|oguz]] névben g valójában ğ azaz gh hang, melyről nemcsak a `kağan` név kapcsán, hanem az [[U/UL\|UL]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél taglalt példák kapcsán is volt szó.  
+Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora válasz kommentjében Esra Dur AKA Supplex nevű török lány írja ([[M/Magánhangzók#Hosszú magánhangzók hiánya az utódnyelvekben\|hosszú magánhangzók hiánya az utódnyelvekben]] cím/alcímnél is szerepelt):  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/maganhangzok/#5vk3rq" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> We modern Turks call ourselves Oğuz, you already know that; it reads O:z. There is a reason there is this 'soft g' in our alphabet. It fades away and gets hardened also; I'm really fascinated by this sound. So in this instance, soft g/ğ fades away and it becomes 'uz'. But then again it gets hardened and becomes `öküz`. Öküz means ox.  
+> —  
+> Mi, modern törökök oğuznak hívjuk magunkat, ezt te is tudod; O:z-nak olvasandó. Nem véletlenül van ez a "lágy g" az ábécénkben. Elhalványul és megkeményedik is; engem nagyon lenyűgöz ez a hang. Tehát ebben az esetben a lágy g/ğ elhalványul, és 'uz' lesz belőle. De aztán újra megkeményedik és `öküz` lesz belőle. Öküz ökröt jelent.  
+
+
+</div></div>
+  
