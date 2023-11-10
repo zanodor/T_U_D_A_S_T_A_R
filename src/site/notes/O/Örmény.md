@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["formatted🟢"],"created":"2023-10-20T06:56","updated":"2023-10-20T06:56"}
+{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2023-11-10T07:03"}
 ---
-
-
 
 
 # Örmény
@@ -22,10 +20,13 @@ Armenia névről Fáy Elek A magyarok őshona című könyvének (lásd Arám ne
 Ami az örményeket illeti, egy az örmények és cigányok azonosságára utaló kérdést végül töröltek a Quorán, de a nem túl tudományosra törekedő választ még kimentettem, ha valaha fel akarnám újra használni:  
 > Armenians are pre-Iranian (or original Iranian/Ironian) Huns, Scythians (Iron was a non-Aryan, Turanian name). The gypsies are the stupider version of the Jews (the former don't even bother to calculate 30-50 percent, just take what they want, which is why the Jew George Soros and his son use their dirty stolen money to sponsor them in Hungary).  
 > By the way, the Armenian merchants were so shrewd that they sent the Jewish kufars packing without fail. We need some more Magyar-Hunnic-Armenian shrewdness to stop the parasites. Iranians and Turks are welcome to join in provided they convert to Christianity first. Islam is a brother (merchant-kufar) religion to Judaism, (original spiritual Parthian/Parthus-Scythian) Christianity's and Magyardom's (Mothers') enemy.  
+> —  
+> Az örmények az iráni (vagy eredeti iráni/iron) hunok, szkíták (az [[I/Iron\|iron]] egy nem árja, turáni név volt). A cigányok a zsidók hülyébb változatai (előbbiek nem is törődnek a 30-50 százalékkal, csak elveszik, amit akarnak, ezért a zsidó Soros György és fia a piszkos lopott pénzükkel szponzorálja őket Magyarországon).  
+> Egyébként az örmény kereskedők voltak annyira ravaszak, hogy a zsidó kufárokat rendre elküldték a francba. Szükség lenne még egy kis magyar-hun-örmény furfang, hogy megállítsuk az élősködőket. Az irániakat és a törököket szívesen látjuk sorainkban, feltéve, hogy előbb áttérnek a kereszténységre. Az iszlám a judaizmus testvér (kereskedő-kufár) vallása, (eredeti szellemi pártus/pártus-szkíta) kereszténység és magyarság ("mother"-ek) ellensége.  
 
 [[A/Ahriman\|Ahriman]] és [[J/Jereván\|Jereván]] címnél írottak alapján próbáljuk értelmezni a nevet. Lehetséges, hogy a Jereván név eredetije megyegyezik az Armenia névvel (vagy a mögöttes idea egy és ugyanaz).  
 Nagyon úgy tűnik, hogy itt ugyanazt látjuk, mint amit az [[A/Angra Manju\|Angra Manju]], [[A/Angerona\|Angerona]], [[H/Hungár\|Hungár]] nevek mögött és a [[S/Sátán\|Sátán]] és [[S/Széth\|Széth]] nevek mögött: adott egy nép, ami istennőjéről neveztetik el (lásd a csatolt képet [ezen](https://en.wikipedia.org/wiki/Mother_Armenia) oldalról), de ez a perzsáknál már a sötét félévre utaló Ahriman/Ármány névben mutatkozik meg.  
-![assets/Örmény_image1.png|undefined](/img/user/O/assets/%C3%96rm%C3%A9ny_image1.png)  
+![assets/Örmény_image1.png](/img/user/O/assets/%C3%96rm%C3%A9ny_image1.png)  
 
 A [[J/Jereván\|Jereván]] címnél csatolt Quora válaszom végére nem mertem már odatenni ezen sort:  
 > Judging from Jerusalem's original name, Jer can also be Ur/Uru, meaning Lord, which Lord is halved into the dark half as Ahriman also.  
