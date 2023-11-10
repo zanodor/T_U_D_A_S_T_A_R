@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sárga/"}
+{"dg-publish":true,"permalink":"/S/Sárga/","title":"Sárga","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T09:28","updated":"2023-11-10T07:37"}
 ---
-
----
-title: Sárga
-aliases:
-  - sárga
-  - sárgá
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T09:28
-dg-updated: 2023-10-20T09:28
-dg_upload_status: 🟢
-date created: 2023-04-07
-date modified: 2023-08-05
----
-
 
 
 # Sárga
@@ -47,6 +30,15 @@ Czeglédi Katalin Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. 
 > Of course, sárga is not the only candidate I have. I think Slavic `drug` = friend, dear one, Polish `droga` = way (as in Droga Mleczna = Milky Way), Persian `druj` = lies, the (pre-)Homeric mythological name Troy, Italian `troia` = whore and Finnish Turja (a demonising name for Saami people in mythology) can all be related.  
 >
 > One has to know about astro-mythological themes, then he has a chance. Otherwise, we're back to dealing with roots and to the very unfounded and boring "Indo-Europeans (and Semites) *über alles*."  
+> —  
+> Magyarul is megvan, mint [[D/Drága\|drága]] = kedves. A két mássalhangzó a szó elején a nyelvek késői sajátossága. Tehát eredetileg a szó inkább Dar-Ga vagy Sar-Ga volt.
+> A `sárga` a magyarban sárgát jelent, eredetileg aranyat (Arany Háza; Aranyhoz tartozó). (Az arany jelentést nem kellett volna a perzsából átvennem, hiszen vallásos népdalainkban Magyar Ilona istennő "selyem **sárhajú**", azaz selymes aranyhajjal szerepel.)  
+> Az arany a Nap színe, és a szeretet, a vallási és anyagi érték, a barátság stb. fogalmakra fog vonatkozni.  
+> S/SZ/Z>D morfológiát máshol is láthatunk: Magyar `sárkány` > `drakon`/`dragon`. Magyar `méz` > `med(u)`.  
+> Lehetséges, hogy a szkíta-hunn nyelvekben D volt ott, ahol nálunk S/SZ/Z, de ez nem jelenti azt, hogy eredetibbek, és semmiképpen nem jelenti azt, hogy a magyarnak a szláv szavakra kell támaszkodnia.  
+> Természetesen a sárga nem az egyetlen jelöltem. Szerintem a szláv `drug` = barát, kedves, a lengyel `droga` = út (mint a Droga Mleczna = Tejút), a perzsa `druj` = hazugság, a (pre)homéroszi mitológiai Trója név, az olasz `troia` = kurva és a finn Turja (a mitológiában a szajmok démonizáló neve) mind rokonok lehetnek.  
+>
+> Ismerni kell az asztro-mitológiai témákat, akkor van esélyünk. Egyébként megint a gyökerekkel való foglalkozásnál tartunk, és a nagyon alaptalan és unalmas "indoeurópaiak (és szemiták) *über alles*".  
 
 A sárga színnel kapcsolatos adatok [[Y/Yellow\|yellow]] címhez kerültek.  
 Bakos Attila A Duna Evangéliuma című könyvének 168. oldalán több sárga színnel kapcsolatos adatot ad meg.  
