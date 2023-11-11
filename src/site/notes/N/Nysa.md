@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["formatted🟢","containstransclusions"],"created":"2023-10-04T04:05","updated":"2023-10-04T04:07"}
+{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-04T04:05","updated":"2023-11-10T03:09"}
 ---
 
 
 # Nysa
-
-
 
 Görög mitológiai Paradicsom az északi-sarkon (legalábbis az egyik, hiszen a Föld Köldökét Delphoiba tradicionálisan helyezték de Olympus, [[I/Ida\|Ida]], Parnassos, Delos szintén is kapott efféle utalásokat).  
 
 #### William F. Warren Paradise Found című könyvében írja:
 
 > According to the Kamite legend related by Diodorus, Osiris and Isis lived together in Nysa, or Paradise.  
+> —  
+> A Diodórosz által elbeszélt kámita legenda szerint Ozirisz és Ízisz együtt éltek Nysában, vagyis a Paradicsomban.  
 
 #### Jankovics Marcell írja:
 
 > Dionüszosz jelentése "nűszai Zeusz"; Nűsza helységnév, több is volt belőle, a hívek az isten kultuszhelyeit rendre Nűszának nevezték.  
 
-[[N/NISZ\|NISZ]] etymonnál szerepelt...
+[[N/NISZ\|NISZ]] etimonnál szerepelt...
 
 #### Péterfai János adata:
 

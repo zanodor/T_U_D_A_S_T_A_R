@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["formatted🟢"],"created":"2023-10-13T06:08","updated":"2023-10-13T06:15"}
+{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T06:08","updated":"2023-11-11T01:49"}
 ---
 
 
 # Etymon
-
-
 
 #### Péterfai János írja:
 
@@ -33,13 +31,13 @@ Götz László Keleten kél a Nap című könyvének 190.oldalán írja:
 
 Itt még leírja, hogy a két szótagból, három mássalhangzóból álló egységek neve "triszonancia”.  
 
-Lásd még MA írásait [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél.  
-
 #### Magyar Adorján...
 
-...elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. De a [[K/Kő\|kő]] alapszóról is volt szó ott. De ide is tegyük be:  
+...elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. MA írását lásd [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél. A [[K/Kő\|kő]] alapszóról is volt szó ott. Ide is tegyük be:  
 > Az igazi ősszavak ugyanis mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka.  
 
 Amikor [ezen](https://qr.ae/pG1gGA) Quorás John Comper féle válaszra adott David Mandic féle kommentre válaszoltam, nagyon érdekes dolog ötlött fel. Igazságtartalmát fenntartom:  
-> Archaic words are made up of one vowel, or a vowel+consonant (usually an extra 'a' or 'u' put at the end of a word for balance: Magyar *ana*, *utu*, *uru*, etc.). Magyar is an archaic language.  
+> Archaic words are made up of one vowel, or a vowel+consonant (usually an extra 'a' or 'u' put at the end of a word for balance: Magyar `ana`, `utu`, `uru`, etc.). Magyar is an archaic language.  
+> —  
+> Az archaikus szavak egy magánhangzóból vagy egy magánhangzóból és mássalhangzóból állnak (általában egy plusz "a" vagy "u" a szó végére az egyensúly érdekében: magyar `ana`, `utu`, `uru` stb.). A magyar archaikus nyelv.  
 - Tehát egy ősszó lehet egy magánhangzó és egy mgh+msh-pár. Viszont láttuk másutt, [[A/A\|A]] és [[U/U\|U]] címnél is, hogy különösen a hosszú mássalhangzót bíró szavakban a szókezdő mgh. rövidülésével együtt járóan a szó végére egy u hang került. Azaz megfordítva időben ősibbnek mondott a rövid magánhangzó-kezdéses `utu` és `uru`, vagy egyszerűen tájjellegű. Amit viszont a horvát nyelvész D. Mandic-nak írtam, miszerint egyensúlyba hozatalról is lehet szó, egy egész érdekes, újszerű ötlet.  

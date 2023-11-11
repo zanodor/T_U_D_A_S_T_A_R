@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","tags":["formatted🟢"],"created":"2023-10-05T03:21","updated":"2023-10-05T03:21"}
+{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","tags":["dg_uploaded"],"created":"2023-10-05T03:21","updated":"2023-11-09T07:08"}
 ---
 
 
 # Betyár
-
-
 
 Betyárokról esett szó [[R/Rogue\|rogue]] és [[R/Robin Hood\|Robin Hood]] címnél. De [[P/Patriot\|patriot]] szónál is szóba került:  
 ![assets/Betyár_image1.jpeg](/img/user/B/assets/Bety%C3%A1r_image1.jpeg)  
@@ -20,7 +18,7 @@ Bet-Jár értelemben kb. ott a háza, ahol jár, azaz sehol, vagy éppen a dutyi
 >
 > A név magyar eredetű, Bet Jár, vagyis Ház Jár az értelme. Mivel a Bet az Égbolt fogalmával is kapcsolatos, ezért a Bet-Járok Csillagjárók is. Éjszaka járnak zsákmány után, a Házak védik őket, a parasztházak az urak ellenében. A Bet-Yár a csillagok mozgását jól ismeri, valószínűleg az ókori, vagy őskori csillagismerettel is rendelkezik.  
 > A Betyár rend teljes felszámolása az 1950-es években ment végbe.  
-- [[M/Magyar\|Magyar]] címnél is szerepelt a furcsának ható, esetleges Mag-Yar felhontás.  
+- [[M/Magyar\|Magyar]] címnél is szerepelt a furcsának ható, esetleges Mag-Yar felbontás.  
 Lásd még [[B/Bitang\|bitang]].  
 
 #### Ipolyi Arnold írja:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","tags":["formatted🟢"],"created":"2023-10-17T08:48","updated":"2023-10-17T08:48"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","tags":["dg_uploaded"],"created":"2023-10-17T08:48","updated":"2023-11-06T02:32"}
 ---
 
 
@@ -26,8 +26,8 @@ MA mondata [[K/Kiss\|kiss]] címnél is szerepelt:
 > A magyar csók szónak a német `Kuss` (kussz) csak megfordított alakja de jelentése ugyanaz.  
 
 A német `tschüss` = szia, viszlát szó egyaránt csókol és köszön értelmű lehet; az utóbbiból kiindulva – és ugye a magyar csókolom is köszönési forma.  
-A csókolom viszont nem a nők kezére irányuló szó lehetett, hanem férfiak és nők arcára. A köszön lényegében így lett a csókollal összekötve a germánban. Egyes helyeken, Oroszországban, Olaszországban és persze Magyarországon is máig divat férfiak közt is a két orcát csókkal illetni.  
-A két orca csókkal illetése nyilván azt jelenti, hogy a Napos, fényes feledet és a sötét (Holdas) oldaladat is köszöntöm, szeretem. Itt jut eszünkbe a kétarcú [[J/Janus\|Janus]], aki az év két félévére néz előre és vissza. Egészen nyilvánvalóan ez a csókolásos köszöntés is ilyen szakrális-asztrális jelentőségű lehet, ahogy fentebb is láttuk.  
+A csókolom eredetileg talán nem a nők kezére irányuló szó lehetett, hanem férfiak és nők arcára. A köszön lényegében így lett a csókollal összekötve (a germánban is). Egyes helyeken, Oroszországban, Olaszországban és persze Magyarországon is máig divat férfiak közt is a két orcát csókkal illetni.  
+A két orca csókkal illetése akár azt is jelenthette, hogy a Napos, fényes feledet és a sötét (Holdas) oldaladat is köszöntöm, szeretem. Itt jut eszünkbe a kétarcú [[J/Janus\|Janus]], aki az év két félévére néz előre és vissza. Egészen nyilvánvalóan ez a csókolásos köszöntés is ilyen szakrális-asztrális jelentőségű lehet, ahogy fentebb is láttuk.  
 
 Ezt a tartalmat a magyar nyelvet nem ismerő és magyarságát (sőt, a kutyákat) sem igen szívlelő frankofil germánpárti Toldy Géza nem látta meg; lásd nyilatkozatát [[K/Kisztihand\|kisztihand]].  
 Az angol [[C/Cheek\|cheek]] = (far)pofa/arc egyik fele szó alakja is csók illetve köszön szavunkra kell visszavezethető legyen.  
@@ -37,7 +37,7 @@ Hasonló hozzá például kapásból a [[K/Kiss\|kiss]] = csók-ol mellett a [[G
 A [[B/Boldog\|boldog]] és a köszön értelme is Szent Tűz, Szent/Fényes Nap, mellyel a Napot szülő Tejútanyát köszöntjük.  
 
 Még az előző gondolatmenethez tartozik a másik megfejtés.  
-A *kudos to* kifejezés alapján gondolnám, hogy ezek, [[H/Hódol\|hódol]] szóval egyetemben a [[K/Khuda\|Khuda]]/[[G/God\|God]] istennevek eredetéhez tartoznak, azaz a Tűz másik, K-T/K-SZ/K-D vázú alapszavát kereshetjük előtagjában.  
+A kudos to kifejezés alapján gondolnám, hogy ezek, [[H/Hódol\|hódol]] szóval egyetemben a [[K/Khuda\|Khuda]]/[[G/God\|God]] istennevek eredetéhez tartoznak, azaz a Tűz másik, K-T/K-SZ/K-D vázú alapszavát kereshetjük előtagjában.  
 Köszön a [[T/Tisztel\|tisztel]] fogalmával azonos, mely címnél [[T/Tistrya\|Tishtrya]] is előjött, aki Szíriuszként volt a tisztelet tárgya (a Szíriusz a Tejút egy csillagba sűrített önvalója).  
 
 Hasonló kösz szavunkhoz a finn `kiitos` = kösz(önöm).  

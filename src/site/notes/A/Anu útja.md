@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["formatted🟢"],"created":"2023-10-04T02:42","updated":"2023-10-04T02:42"}
+{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2023-11-10T06:33"}
 ---
 
 
 # Anu útja
-
-
 
 The Way of Anu – így hívják a delelő Nap szintjeit(?) (ezt már nem emlékszem, honnan vettem) abban a [[T/Téridő\|téridő]]-leosztásban, melyet lásd [[B/Berossus\|Berossus]] alján.  
 Mivel [[A/Anu\|Anu]]-nál az szerepelt, hogy Wallis Budge-éktól sakál-, azaz kutyaazonosításokat kapott, ez az Anu útja lehetne az a régió, ahol a Szíriusz jár, de nem erről szólnak a szakértők. Nyilván másról is van szó.  
@@ -17,9 +15,12 @@ A mellékelt kép C. W. Ceram A régészet könyve című könyvéből való a b
 
 Bakos Attila A Duna Evangéliuma című könyvének 92. oldalán úgy fogalmaz, hogy Anu a zodiákus vándorló égi napútjának megszemélyesítője; (ha igaz) Anu-t mutatja be hajlított [[T/Térd\|térd]]del a bika hátán.  
 
-#### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia című könyvében áll:  
+#### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
 
+...című könyvében áll:  
 > According to one tradition, there were three superimposed heavens, the lowest of which contained the stars, the middle being the home of the Igigū and the topmost that of Anu (An). In a separate, astronomical, tradition the eastern horizon was divided into three vertical bands, the 'ways' of Enlil, Anu (An) and Ea (Enki), which were used for locating the position of the eighteen zodiacal constellations recognised from about 1000 BC. Later these eighteen constellations were assigned singly or in pairs to the twelve months, foreshadowing the later zodiac.  
+> —  
+> Egy hagyomány szerint három egymás fölött elhelyezkedő égbolt volt, amelyek közül a legalsó a csillagokat tartalmazta, a középső az Igigū otthona volt, a legfelső pedig Anu (An)é. Egy másik, csillagászati hagyomány szerint a keleti horizontot három függőleges sávra, Enlil, Anu (An) és Ea (Enki) "útjaira" osztották, amelyeket a Kr. e. 1000 körül ismert tizennyolc állatövi csillagkép helyzetének meghatározására használtak. Később ezt a tizennyolc csillagképet egyenként vagy párosával a tizenkét hónaphoz rendelték, ami a későbbi állatöv előképe.  
 
 ![assets/Anuutja_image2.jpg](/img/user/A/assets/Anuutja_image2.jpg)  
 A mellékelt képi anyag alsó része Wayne Horowitz Mesopotamian Cosmic Geography-jából való, a felső része (bár bárhonnan is származhatott volna) Hermann Hunger and David Pingree MUL.APIN: An Astronomical Compendium in Cuneiform (1989) című könyvéből származik. Kérdés, hogy mire építi Horowitz az elképzelést.  
