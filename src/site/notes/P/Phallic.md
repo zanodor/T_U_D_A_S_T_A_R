@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-15T04:31"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-24T06:37"}
 ---
 
 
@@ -58,9 +58,11 @@ Lásd még [[P/Pilis\|Pilis]], mindenképpen JM írását is [[P/Penis\|penis]] 
 ...passzusa több helyen szerepelt ([[K/Kutya\|kutya]] címnél bővebben):  
 > A szeretkezésnek ezt a fesztelen módját[^2] már régente a kutyáéval hasonlították össze. Ennélfogva a kutya nagy tiszteletben részesült: a válogatatlan termékenyítést kívánó föld képe, mindenütt látható párzása az állati nemzés elvét a legvilágosabb és legdurvább formában állítja elénk. Magyarul szólva a ringyó szimbóluma a "[[S/Szuka\|szuka]]", s valóban a hetérák állatává tették meg. Homérosznál Helené saját magát szukának nevezi, Írisz pedig Athénét, Héra Artemiszt, a hazatérő Odüsszeusz ledér, hűtlen szolgálóit. **Eszit-Iziszt római templomában kutyán ülve ábrázolták, nyilván ugyanolyan értelemben, ahogy az eliszi Aphrodité kecskén, epi tragón ül, azaz fascino inequitans** ([[F/Fascinum\|fascinum]][^3] – állati hímvessző), s ahogy Arnobius a római matronákról mondja; mindez nyílt célzás a megtermékenyítés egyetemes "eszméjére".  
 
-![assets/Phallic_image1.png](/img/user/P/assets/Phallic_image1.png)  
-Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében az alábbi képecske mellé írja:  
+#### Thomas Inman Ancient Pagan and Modern Christian Symbolism...  
+
+...című könyvében az alábbi képecske mellé írja:  
 > \[This figure\] represents the circular and upright stone so common in Oriental villages. The two indicate the male and female.  
+> ![assets/Phallic_image1.png](/img/user/P/assets/Phallic_image1.png)  
 > A medical friend resident in India has told me, that he has seen women mount upon the lower stone and seat themselves reverently upon the upright one, having first adjusted their dress so as to prevent it interfering with their perfect contact with the miniature obelisc. During the sitting, a short prayer seemed flitting over the worshippers' lips, but the whole affair was soon over.  
 > Whilst upon this subject, it is right to call attention to the fact that animate as well as **inorganic representatives of the Creator have been used by women with the same definite purpose**. The dominant idea is that contact with the emblem, a mundane representative of the deity, of itself gives a blessing. Just as many Hindu females seek a benefaction by placing their own yoni upon the consecrated linga, so a few regard intercourse with certain high priests of the Maharajah sect as incarnations of Vishnu, and pay for the privilege of being spouses of the god.  
 > In Egypt, where the goat was a sacred animal, there were some religious women who sought good luck by uniting themselves therewith. We have heard of British professors of religion endeavouring to persuade their penitents to procure purity by what others would call defilement and disgrace. And the "cord of St. Francis" replaces the stone "linga."  
@@ -115,8 +117,8 @@ Fentebb volt már szó istenszobrokról és a szóeredeteztetés kapcsán arról
 > Eszünkbe kell azonban mindez juttassa azt is, hogy a cölöp, oszlop nem csupán a hímtag jelképe volt, hanem jelképezte magát a hímistenséget is, azaz a besenyőknél tehát Peter, Petur vagy Peszer, Beszer-aba Napistent is.  
 - Phallosz estében persze itt nyilván a [[P/Palóc\|palóc]] napisten nevét kell keresni.  
 
-![assets/Phallic_image2.jpeg](/img/user/P/assets/Phallic_image2.jpeg)  
-> Hogy a legrégibb hímistenség-szobrok egyszerű cölöpök is voltak, ezt a görögök történelméből is tudjuk E jelképes cölöpöknek utóbb fejet is faragtak de eleintén csak simát, arcábrázolat nélkül, ami által azonban az ilyen cölöp avagy oszlop, ha akár fából akár kőből való volt is, úgy emberi alakot, mint hímtagot is jelképezhetett Az ilyen cölöpök, azaz tehát bálványok (idolus) feje a besenyőknél természetesen csöpp- azaz csúp (csúcs, csúcsos) alakúra voltak faragva s ilyeneket népünk például kapuoszlopokul ma is készít és "kapubálvány"-oknak nevezi is Ezek némelyike nem csak gazdagon faragásos, hanem rajta a faragások színesen festettek is Az olyanok pedig amelyeken fönt még egy kis bemetszés is van, ma is amellett tanúskodnak, hogy a hímtag ábrázolatai, azaz helyesebben csak jelképei voltak.  
+> Hogy a legrégibb hímistenség-szobrok egyszerű cölöpök is voltak, ezt a görögök történelméből is tudjuk E jelképes cölöpöknek utóbb fejet is faragtak de eleintén csak simát, arcábrázolat nélkül, ami által azonban az ilyen cölöp avagy oszlop, ha akár fából akár kőből való volt is, úgy emberi alakot, mint hímtagot is jelképezhetett Az ilyen cölöpök, azaz tehát bálványok (idolus) feje a besenyőknél természetesen csöpp- azaz csúp (csúcs, csúcsos) alakúra voltak faragva s ilyeneket népünk például kapuoszlopokul ma is készít és "kapubálvány"-oknak nevezi is Ezek némelyike nem csak gazdagon faragásos, hanem rajta a faragások színesen festettek is. Az olyanok pedig amelyeken fönt még egy kis bemetszés is van, ma is amellett tanúskodnak, hogy a hímtag ábrázolatai, azaz helyesebben csak jelképei voltak.  
+> ![assets/Phallic_image2.jpeg](/img/user/P/assets/Phallic_image2.jpeg)
 
 ## Ízisz és Ozirisz phallosza
 
@@ -148,7 +150,9 @@ Nemcsak Crowley (és PJI) látott phalloszt az övcsillagok környékére. Maga 
 
 Itt Bauvalt nem értem, mert FK lentebb szereplő adatsora alapján kiderül, hogy Ízisz már akkor megtermékenyült tőle, amikor sas képében a phalloszra rárepült. Pót-phalloszt is azért kellett készíteni, mert az eredeti elveszett. Az, hogy egy hal nyelte el, annyit jelenthet, hogy az égen [[O/Orion övcsillagai\|Orion övcsillagai]] az [[E/Égi egyenlítő\|égi egyenlítő]] alá buktak. Indiai mítoszokból a Szarvasfő került levágásra. Ott is az égi egyenlítő volt a viszonyítási alap.  
 
-John G. Jackson Christianity before Christ c. könyvének 129. oldalán írja:  
+#### John G. Jackson Christianity before Christ...  
+
+...című könyvének 129. oldalán írja:  
 > Osiris was, in addition, a god of fertility, for phallic images of him were shown in the temples and carried in processions. To cite Frazer:  
 > "As a god of vegetation Osiris was naturally conceived as a god of creative energy in general, since men at a certain stage of evolution fail to distinguish between the reproductive powers of animals and of plants. . . At his festival women used to go about the villages singing songs in his praise and carrying obscene images of him which they set in motion by means of strings. The custom was probably a charm to ensure the growth of crops." (Frazer, The Golden Bough, Abridged Edition, p. 381.)  
 > —  
@@ -163,7 +167,10 @@ John G. Jackson Christianity before Christ c. könyvének 129. oldalán írja:
 [[I/Ízisz#Ízisz és Ozirisz phallosza és általa való megtermékenyítése\|Ízisz és Ozirisz phallosza és általa való megtermékenyítése]] cím/alcímnél már elővezettük.  
 Két ízben találkozhatunk Ozirisz phallosszával Ízisz történetében. Először még a Széth általi feldarabolás előtt, majd után.  
 ![assets/Phallic_image3.png](/img/user/P/assets/Phallic_image3.png)  
-Falvay Károly Nagyboldogasszony című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük:  
+
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük:  
 > Széth koporsóba fekteti Oziriszt, a Nílusra ereszti, majd Ízisz megtalálja. \[...\]  
 > Itt a történetek több változatot is ismernek. Egyik változatban, amikor az oszlopot fecskeként körülrepkedte, már akkor elképzelte magának az Ozirisztól születű fiát Hóruszt. Más változatban sasként a fekvő Ozirisz fölé repült, s az élő magjával megtermékenyítette őt stb. Ez utóbbi jelenetet számos domborművön megörökítették. (A madáristennők a korai neolitikumból még sokáig élők maradtak, [[E/Emese\|Emese]] és a Turul történetét mindannyian ismerjük).  
 > Isis itt a Nílus deltájának ingoványaiban elrejtette a koporsót mert Butóba kellett menjen, hogy fiát Hóruszt megszülhesse.  
@@ -190,6 +197,22 @@ A phallosz másolatáról [[I/Íj csillagkép\|Íj csillagkép]] és [[O/Ötven\
 > —  
 > Európában eleinte nem voltak az Istennővel kortárs férfi istenek, akik megkérdőjelezhették volna tekintélyét vagy hatalmát, de volt egy szeretője, aki felváltva volt a Bölcsesség jótékony kígyója és az Élet jótékony csillaga, a fia. A Fiú az általa uralt különböző totemtársadalmak férfi démonaiban testesült meg, akik segédkeztek a tiszteletére rendezett erotikus táncokban. A Kígyó a szent kígyókban testesült meg, amelyek a halottak szellemei voltak, és a szeleket küldték. A Fiú, akit Lucifernek vagy Phosphorusnak ("fényhozónak") is neveztek, mert esti csillagként a Hold fényét vezette, minden évben újjászületett, az év előrehaladtával felnőtt, elpusztította a Kígyót, és elnyerte az Istennő szeretetét. Szerelme elpusztította őt, de hamvaiból egy másik Kígyó született, amely húsvétkor lerakta a glain vagy piros tojást, amelyet az Istennő megevett; így a Fiú ismét gyermekként született újjá számára. Ozirisz egy csillag-fiú volt, és bár halála után kígyóként hurkolta körbe a világot, mégis, amikor **ötven méter hosszú falloszát körmenetben vitték, egy aranycsillag volt a tetején**; ez jelentette önmagát megújulva, mint a gyermek Hórusz, Ízisz fia, aki egyszerre volt a menyasszonya és a kivetett rétege, és most újra az anyja. Az ő abszolút hatalmát bizonyította a "Vad dolgok úrnőjeként" tiszteletére évente megrendezett holokauszt, amelynek során minden társadalom totemmadarát vagy -állatát élve elégették.  
 
+## A Nap phallosza
+
+#### Jankovics Marcell A Nap könyve...
+
+...című könyvéből:  
+> A Nap phallosza. Bronzkori naptestű emberábrázolásokon (2. rajz) az alak karjai, lábai, nyaka a jelzésszerű fejjel és hatalmas nemi szerve napsugarasan nőnek ki a korongból, ennek felel meg a jelentésük is. Egyenértékűek ([[K/Kéz\|kéz]] \[lásd még [[S/SU\|SU]]\], [[L/LÁB\|láb]], kézben a fegyver, nyak és phallosz) és megfelelnek a máskor szintén napsugarakat jelképező [[H/Haj\|haj]]zatnak, [[S/Szakáll\|szakáll]]nak. Szerepkörük is fedi egymást. A Nap ereje – nemzőereje is – a sugaraiban van, a sugarai válnak tehát kézzé, lábbá, fegyverré, utódnemző szervvé, mely ebben az összefüggésben a koronggal mint herezacskóval alkot egészt, ahogy a naparc hajjal és szakállal. Így érthető igazán, miért lett – a szemgolyó-here analógia párhuzamaként \[lásd erről [[O/Organ\|organ]]\] – a [[L/LÁB\|láb]] a phallosz euphémiája, miért hívják a vérfertőző héroszt Oidipusznak, azaz "Dagadt lábú"-nak \[lásd erről [[I/Incest\|incest]]\].  
+
+Jankovics Marcell A Nap könyve című könyvében a Napisten Földet megtermékenyítő phalloszáról szól (több helyütt szerepelt):  
+> Az elsődleges nemi szervekre a másodlagos nemi jelleg utal. Ezt régóta tudja az ember. Ezért volt olyan kényes minden időben a férfi a férfiasságát jelző férfiúi díszére, s gyászolt, ha elvesztette, vagy épp azzal gyászolt, hogy egy időre lemondott róla. Általánosságban a beretvált arc, kopasz fej a nőkről való lemondás önkéntes vagy kényszerű jele volt: kopaszok voltak az egyiptomi papok, borotváltak az eunuchok az asszír domborműveken, borotválják a buddhista boncok és lámák a fejüket, és a katolikus szerzetesek illetve apácák szüzességi fogadalmának nyilvánvaló jele a legutóbbi időkig a kiborotvált tonzúra, levágott haj volt.  
+> A kemény fallosz (ld. pallos szavunkat és a kedélyeskedő szóhasználatban más fegyvert idéző szinonimáit: rúd, dorong, bunkó, dárda, szerszám, löveg stb.) a szerelmi csatározások fegyvere, de az állatok hímjei, a csődörök, kandúrok például, amikor a nőstényekért küzdenek, egymás harc közben is ágaskodó nemi szervét támadják, nyilván azzal a céllal, hogy a másikat a párzásra alkalmatlanná tegyék. Ez történik a szoláris mítoszokban ha csak jelképesen is. A napisten, naphérosz megfosztása hajától, látásától, fegyverétől férfiatlanítását, azaz fényereje elvesztését jelenti, amit az indokol, hogy a Nap meggyengülése a Föld terméketlenségét vonja maga után. Egy jemeni sziklarajz az újkőkör nagy anyaistennőjének és a sugarasan kalászhajú napistennek a közösülését ábrázolja (115. rajz). A pár férfitagja gyermekméretű az anyányi nőalakhoz képest, de fallosza hatalmas. Ez a kettősség a Nap és a Föld vérfertőző viszonyát fejezi ki; az óriás nemi szerv a Nap férfiasságára, a kis termet gyermekségére utal. (A Földről nézve a Nap eltörpül a Föld mellett).  
+> \[...\]  
+> Még meglepőbb, hogy a Nap gyakran mint a vizek adományozója jelenik meg (ami magyarázza, hogyan lesz a napgyermekből férfikorba lépve esőés villámisten). Mózes, miután száraz lábbal átkel népével a tengeren, tüzes istene segedelmével egy keserű forrást megédesít, máskor botjával fakaszt a sziklából vizet (Kiv 15, 23-25; 17,5-7). Sámson egy szamár állkapcsából fakaszt forrást (Bir 15,19), az iráni Mitra a nyilát lövi a kősziklába, hogy a víz megeredjen, a népmondák Szent Lászlója (igazí naphéroszi alak) bárdjával lékeli meg vízért a hegyet. Ha a népmesék szoláris hőse arany vesszejével megüti a földet, nagy víz támad (A rest fiú mesetípus keretében). A vízfakasztó varázseszköz a napisten Földet termékenyítő falloszát jelképezi, a víz pedig mint az esőistenek esetében az eső a spermája.  
+> 
+> A [[N/Nyilas csillagkép\|Nyilas csillagkép]] az egyik hely, ahol fontos égi utak találkoznak: a Tejút és az Állatöv, napfordulói főkör és nappálya, illetve [[E/Égi egyenlítő\|égi egyenlítő]] metszi itt egymást, s itt van a holdcsomópontok (lásd [[N/Node\|node]]) egyik kitüntetett helye is. Ezek az "utak" – láttuk – víziútként is megjelenhetnek a hiedelmekben: lásd nap[[B/Bárka\|bárka]], [[A/Argo\|Argo]] hajó csillagkép, tejútfolyam. A folyammenti műveltségek mítoszkincsének központi eleme, hogy a Tejutat saját folyójuk égi másának tekintik: az egyiptomiak égi Nílusnak, a hinduk égi Gangesznek, az obi ugorok Ob-nak. A hinduk egyenesen úgy tartják, hogy a Gangesz a Tejút lefolyása. A Visnu Purana szerint a Tejúton járó Visnu ([[O/Orion\|Orion]] csillagkép) lábából (Rigel csillag, az arab név "Láb"-at jelent) patakzik a szent égi folyam a földre.  
+> Hogy nem véletlen egybeesésről van szó, azt \[Szent Miklóson kívül\] két másik Nyilas-szent legendája is tanúsítja. Szent Kelemen, aki Katalinnal és Borbálával a bányászok Nyilas-béli védőszentje, egyik csodájában csákányával vizet fakasztott vele együtt kényszermunkára ítélt bányásztársainak. A csoda hírére a környékbeliek csapatostul keresztelkedtek meg, mire rabtartója úgy feldühödött, hogy horgonyt köttetett a nyakába és vízbe dobatta. A horgony okán néha össze is tévesztik a pápa Kelement a püspök Miklóssal, ugyanis mindkettőjüknek – az utóbbinak hajószent minőségében – a horgony az attribútuma. Ugyancsak november 23-án ünnepli az egyház Szent Kolumbánt (meghalt 615), aki legendája szerint szintén fakasztott sziklából vizet, és Miklóshoz hasonlóan hosszú, kalandokkal teli hajóutakat tett meg. Még ha csak tengeren járt volna, nem lenne szokatlan, hiszen ír volt, de az európai kontinensen utazva is rendre a folyókon, tavakon közlekedett. (Hajózott a Loire-on, Moselen, Rajnán, a Zürichi-, a Boden-tavon stb.) Emlékeztetőül: más **vízfakasztás-elbeszélések** épp a Nyilassal átellenben levő, a Nyilas havában legtovább látható Tejút-kereszteződéshez kapcsolódnak. Egész pontosan Orionhoz. Mint másutt már megírtam, azok az istenek, héroszok, szentek vagy éppen mesehősök, akik csodás módon vizet fakasztanak a sziklából, mint például **a perzsa Tistrija isten**, a bibliai Mózes és Sámson, a mi [[S/Szent László\|Szent László]]nk vagy a népmesei Balga Tamás, a Tejúton "járó, pálcás" Oriont (vagy a szomszédos [[S/Szíriusz\|Szíriusz]] csillagot) személyesítik meg. És bizony, a mi kedves Mikulásunk, Télapónk, Karácsony Apónk, aki a téli éjszakában szarvasok vontatta szánon röpül az égen, de még a keresztények Szent Miklósa sem más, mint az Orion megszemélyesítője.  
+
 ## Tejút illetve kozmosz teremtő aktusa phallosz magömléséből
 
 Anne Wright írja:  
@@ -209,7 +232,7 @@ De másutt is előjön a képzet:
 Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvéből való. Wordsense-nél penis alatt nem jött elő. Steingass szótárában penisre keresve nem jön elő (vagy 15 szava van az arabnak erre; az egyik [[A/Atar\|Atar]] = tűz szóval egyező).  
 
 [^2]: Lábjegyzet:  
-Az Elveszett Paradicsom című művének 302. oldalától példálózik, de sok kétes forrást nevez meg, például Masszagéták kapcsán.  
+Az Elveszett Paradicsom című művének 302. oldalától példálózik, de sok kétes forrást nevez meg, például masszagéták kapcsán.  
 
 [^3]: Lábjegyzet:  
 A nyelvészet, most már érthetővé vált miért, egyszerűen varázslással, bűbájossággal adja vissza [[F/Fascia\|fascia]] szót taglalva e szót.

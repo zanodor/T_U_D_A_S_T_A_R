@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-10T04:07","updated":"2023-11-10T04:49"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2023-11-19T06:25:00"}
 ---
 
 
@@ -118,7 +118,7 @@ A Föld kering a Nap körül, mely a Szíriusz körül, mely az [[A/Alcyone\|Alc
 
 Michael S. Heiser szerint is a hét csillag mindig a Pleiadokra utal. Lásd csatolt képeket, neo-asszír korszakból való pecsétnyomó hengerekről [[A/Alcyone\|Alcyone]].  
 
-[[M/Maya naptár\|Maya naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra Tibold Makk Szabina által fordított, az Ősi Gyökér 2008/2. sz. megjelent cikkéről. Aztán [[A/Apocalypse\|apocalypse]] és [[P/Precesszió\|precesszió]] címnél szóltunk a 26000 éves, mayák által is ismert ciklusról.  
+[[M/Maja naptár\|Maja naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra Tibold Makk Szabina által fordított, az Ősi Gyökér 2008/2. sz. megjelent cikkéről. Aztán [[A/Apocalypse\|apocalypse]] és [[P/Precesszió\|precesszió]] címnél szóltunk a 26000 éves, mayák által is ismert ciklusról.  
 Aztán amikor TMSZ az internetes New Age-s Alcyone csillaggal kapcsolatos, de nála némileg eltérő információt említi...  
 - E \[26000 éves\] ciklus ugyanakkor egybeesik azzal a 26000 éves kapcsolattal, melyben a Napunk megkerüli Alcyont, a 7 Nővér, a Pleiadok konstellációjának központi Csillagát.  
 
@@ -200,7 +200,7 @@ Ugyanez az araboknál, RHA könyvéből:
 
 ## Szófejtés
 
-RHA Star Names című könyvében előjön, hogy a Pleiadok nevét a görög `plein` = hajózni szóból kívánták levezetni. (Merthogy a Pleiadok májusi heliákus kelése a nyitotta meg és késő őszi lemente vetett véget a hajózásnak.) Mások szerint a pleos = teljes, teli lenne a név eredete. Végül is megengedi, hogy Pleione volt a görög mitológiában a hét lánytestvér anyja, és csak róla kapta nevét. (Persze akkor mit jelent Pleione?)  
+RHA Star Names című könyvében előjön, hogy a Pleiadok nevét a görög `plein` = hajózni szóból kívánták levezetni. (Merthogy a Pleiadok májusi heliákus kelése a nyitotta meg és késő őszi lemente vetett véget a hajózásnak.) Mások szerint a `pleos` = teljes, teli lenne a név eredete. Végül is megengedi, hogy **Pleione** volt a görög mitológiában a hét lánytestvér anyja, és csak róla kapta nevét. (Persze akkor mit jelent Pleione?)  
 RHA folytatja:  
 > Some of the poets, among them Athenaeus, Hesiod, Pindar, and Simonides, likening the stars to Rock-pigeons flying from the Hunter Orion, wrote the word Πελειάδες, which, although perhaps done partly for metrical reasons, again shows the intimate connection in early legend of this group with a flock of birds.  
 > —  

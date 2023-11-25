@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","tags":["formatted🟢"],"created":"2023-10-13T05:41","updated":"2023-10-13T05:41"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","tags":["dg_uploaded"],"created":"2023-10-13T05:41","updated":"2023-11-25T01:10"}
 ---
 
 
 # Vadász
-
-
 
 Bevezetést lásd [[V/Vad\|vad]].  
 Vad, Vadász szavunk megjelenik a hindiben, ahol (lásd bővebben [[S/Szíriusz\|Szíriusz]] és [[M/Mriga\|mriga]]) Mrigavyadha = Szarvasölő elnevezés. Ez a `Vyadha` nem más, mint Vadász szavunk, mely [[O/Orion\|Orion]] neve is. Az egyik norvég nyelvjárásban (nynorsk) is `veidar` és `veidemann` = vadász.  
@@ -27,13 +25,13 @@ CzF szótár vadol szónál írja:
 Nimród nagy vadász volt az Úr előtt, írja a Biblia. Bognár Ferenc A magyarok istene című cikkében bemutatja, hogy különböző nyelveken hogyan nézett ki ez az összefüggés, hogy Nagy Vadász majd egy másik bibiliai helyet is bemutat:  
 ![assets/Vadász_image1.jpeg](/img/user/V/assets/Vad%C3%A1sz_image1.jpeg)  
 Gen 10.9 (Nimród) nagy vadász (volt az Úr előtt):  
-Namost, a (kétes) latin eredetre visszavitt francia `chasseur`, spanyol `cazador` és olasz `cacciatore` = vadász szavak (idetartozik az angol [[C/Chase\|chase]] = űz ige is) olyan hazar/kazár alakú törzsre visszavihetőek[^1], mint a [[H/Hazard\|hazard]] címnél előjövő perzsa `házár` = garázdálkodás és a CzF ugyancsak házsárt címszavánál taglalt, franczia szótárakban ismeretlen viaskodási jelentések is előjönnek.  
+Na most, a (kétes) latin eredetre visszavitt francia `chasseur`, spanyol `cazador` és olasz `cacciatore` = vadász szavak (idetartozik az angol [[C/Chase\|chase]] = űz ige is) olyan hazar/kazár alakú törzsre visszavihetőek[^1], mint a [[H/Hazard\|hazard]] címnél előjövő perzsa `házár` = garázdálkodás és a CzF ugyancsak házsárt címszavánál taglalt, franczia szótárakban ismeretlen viaskodási jelentések is előjönnek.  
 
 Hogy a perzsa `házár` arab eredetű-e, nem tudni, mindenesetre a török `hasar` = kár, veszteség; gonoszkodás; előítélet szót arab `ḵasār` eredetre viszik vissza és könnyen a [[K/Kazár\|kazár]] zsidókra utalhat, de lehet akár ez is Orionra utaló név.  
 
 De az [alábbi](https://en.wiktionary.org/wiki/cacciatore#Italian) oldalon még az angol `chaser` = üldöző, hajtó értelem is említésre kerül másodlagosan (maga a [[C/Chase\|chase]] is egy \*hazar alakú főnév utólagos képzése kell legyen). Márpedig a vadász űzi a Csudaszarvast és hajtja (Szíriusszal egyetemben) a csillagképeket (a mítosz szerint a Vadász Szíriuszra is nejeként tekint, de a [[P/Pleiadok\|Pleiadok]] felé is szegezheti íját).  
 
-Namost, ez a hazar mi is lehet? Itt jut eszünkbe ...
+Na most, ez a hazar mi is lehet? Itt jut eszünkbe ...
 
 #### Bognár Ferenc A magyarok istene...
 
@@ -51,8 +49,8 @@ A Pető Imre féle vonal is érdekes, de az is, hogy az [[A/Asera\|asera]] és [
 Ami még a Hágár név változatait illeti, Hacer török női név. Hacser Józsa nevét mondhatnánk még.  
 A többi nyelven is fussunk végig. A szláv `lovec`, `лове́ц`, stb. alakok egyértelműen `lövész` szavunkat árulják el. A germán szavaknál is a nyíllövő az íjász, aki ugye a vadász is. De ha már lövész, nem-e a [[L/Love\|love]] szó is [[A/Ámor\|Ámor]] és [[C/Cupid\|Cupid]] címnél írottak alapján lövés szavunk törzse? Azaz a szanszkrit [[L/Lubdhaka\|Lubdhaka]] dakák lövője lenne? A szláv szavak gyöke erre enged következtetni. A [[L/Lubdhaka\|Lubdhaka]] névvel [[S/Szíriusz\|Szíriusz]] címnél találkoztunk már; [[L/Love\|love]] címnél is említettük közben, hogy a lövés és lövész törzse lehet.  
 A lengyel `myśliwy` a [[M/MISZ\|MISZ]] előtag miatt érdekes; emlékeztet a [[L/Luna\|Luna]] címnél elővett lengyel `miesiąc` = holdsarló, hold szóra, mely felveti, hogy a közös fogalom bennük az ív/ij(asság) (hasonlóan az arab `kamr` = Hold, de a héber `hamor` = íjász).  
-A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etymologia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etymologiára gondoltam: csak az égre kell nézni.  
-A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a PJI szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű añçı hasonló még (sőt, ismét N = V?)).  
+A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etymologia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etimológiára gondoltam: csak az égre kell nézni.  
+A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a PJI szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű `añçı` hasonló még (sőt, ismét N = V?)).  
 [[J/Jüecsi\|Jüecsi]] címnél arról szóltunk legutóbb, hogy a [[J/Jász\|jász]] nevünk kell legyen, és valóban, a jász = íjász = vadász.  
 Mint kiderül, [[H/Hágár\|Hágár]] fia, [[I/Izmael\|Izmael]] is vadász, de atyja [[A/Ábrahám\|Ábrahám]] is Orion alak.  
 
@@ -72,7 +70,7 @@ Valóban vadászni nem más, mint szexuálisan űzni. Ilyen értelemben a kár =
 > A mitopoetikus gondolkodásban kapcsolat áll fenn a vadászat és a [[N/Nász\|nász]] között.  
 > A vadászrítus kozmikus [[L/Lakodalom\|lakodalom]] formáját ölti, a lakodalmi szertartás pedig vadászat jellegű. Ennek az ősi tudattartalomnak kései felmerülése Vörösmarty Szép Ilonkájának kezdő képe: "A vadász ül hosszú, méla lesben, / vár felajzott nyílra gyors vadat". Az íj vadász (harci) jellege és szexuális vonatkozása tehát egyaránt megjelenik az avatási szertartásban. A férfivá váláshoz mindkét ismeret hozzá tartozik. Ha pedig a történetet koherens egységnek tekintjük, és belőle indulunk ki és semmi másból, akkor csak így válaszolhatunk: azért adja Földszülőanyja az íjat, mert tőle származik a nemiség, hiszen ő faragja ki a gyermekek nemi szerveit.  
 > \[...\]  
-> A vadászat és a házasság \[szexualitás\] között mitikus kapcsolat van. Hogy ez így volt a mi ősi kultúránkban is, azt mutatják [[S/Szeret\|szeret]]-szerez, talán bír-birkózik, [[O/Öl\|öl]]-ölel szavaink, és kettős értelmű ajz \[honnan a török [[A/AJ\|AJ]] = hold\] szavunk. Továbbá, hogy a por frátria asszonyait a rege a Fiastyúkkal azonosítja, a Fiastyúk pedig szemben áll az égi vadásszal.  
+> A vadászat és a házasság \[szexualitás\] között mitikus kapcsolat van. Hogy ez így volt a mi ősi kultúránkban is, azt mutatják [[S/Szeret\|szeret]]-szerez, talán bír-birkózik, [[O/Öl\|öl]]-ölel szavaink, és kettős értelmű ajz \[honnan a török [[A/AJ\|aj]] = hold\] szavunk. Továbbá, hogy a por frátria asszonyait a rege a Fiastyúkkal azonosítja, a Fiastyúk pedig szemben áll az égi vadásszal.  
 - A szemben kifejezés kissé pontatlan: a közben a fajd eredetre visszavitt [[P/Pleiadok\|Pleiadok]]ra szegezi az íjat. <br/>
 Lásd még hasonlókról [[F/Fuvar\|fuvar]].  
 Legutóbb [[J/Játék\|játék]] és [[G/Game\|game]] címnél volt szó arról, hogy a játék valójában véresen komoly és a nemzésről, az életkörön való kőrözésről van szó.  
@@ -93,8 +91,8 @@ Lásd [[F/FOG#Vadász és a vad\|vadász és a vad]] cím/alcímnél.
 ## Vadász csillagkép
 
 Mivel Vadász csillagkép címet nem vettem fel, a Vadász kapcsán ide tegyük még az alábbiakat.  
-Elsőként, hogy az [alábbi](https://en.wikipedia.org/wiki/Orion_(constellation)) angol Wiki oldalon Nimrud-Orion-t Archer-ként, magyarra fordítva Íjászként (és Kaszásként) említik. De azt már eddig is tudtuk, [[I/Íj csillagkép\|Íj csillagkép]] és [[H/Hunor csillagkép\|Hunor csillagkép]] (valamint legutóbb [[S/Szkíta\|szkíta]], [[J/Jász\|jász]], [[T/Tír\|tír]], [[P/Panther\|Panther]], [[K/Khamor\|Khamor]] és [[M/Mul.Pan\|Mul.Ban]]) címnél írottak alapján, hogy az Íjazó/Íjász/Nyilazó és a Vadász illetve Vezér (Osiris-Széth-Nimrud)-Orion mind ugyanarra a csillagképre utalnak, bár kimondottan [[M/Mulapin\|MulApin]] és [[M/Mul.Pan\|Mul.Ban]] címnél írottak alapján nem egészen érthető, mennyire azonosak a csillagképek (csak a generális irányuk egyértelmű).  
-De mi újság azzal a védikus [[L/Lubdhaka\|Lubdhaka]] csillaggal (vagy inkább csillagképpel?), melynek a szanszkritban éppen vadász értelme van (de persze a Dakák Csillagképe jelentésből gyúrták utólag)? Hiszen a Vadász nem egy csillagból kell álljon, hanem ez egy, a pártus-perzsa [[T/Tír\|tír]]-rel azonos csillagkép kellett legyen.  
+Elsőként, hogy az [alábbi](https://en.wikipedia.org/wiki/Orion_(constellation)) angol Wiki oldalon Nimrud-Orion-t Archer-ként, magyarra fordítva Íjászként (és Kaszásként) említik. De azt már eddig is tudtuk, [[I/Íj csillagkép\|Íj csillagkép]] és [[H/Hunor csillagkép\|Hunor csillagkép]] (valamint legutóbb [[S/Szkíta\|szkíta]], [[J/Jász\|jász]], [[T/Tír\|Tír]], [[P/Panther\|Panther]], [[K/Khamor\|Khamor]] és [[M/Mul.Pan\|Mul.Ban]]) címnél írottak alapján, hogy az Íjazó/Íjász/Nyilazó és a Vadász illetve Vezér (Osiris-Széth-Nimrud)-Orion mind ugyanarra a csillagképre utalnak, bár kimondottan [[M/Mulapin\|MulApin]] és [[M/Mul.Pan\|Mul.Ban]] címnél írottak alapján nem egészen érthető, mennyire azonosak a csillagképek (csak a generális irányuk egyértelmű).  
+De mi újság azzal a védikus [[L/Lubdhaka\|Lubdhaka]] csillaggal (vagy inkább csillagképpel?), melynek a szanszkritban éppen vadász értelme van (de persze a Dakák Csillagképe jelentésből gyúrták utólag)? Hiszen a Vadász nem egy csillagból kell álljon, hanem ez egy, a pártus-perzsa [[T/Tír\|Tír]]-rel azonos csillagkép kellett legyen.  
 Aztán ott van még az, hogy [[N/Nefilim\|Nefilim]] címnél is láttunk adatot arra nézve, hogy az arámi Nephila Orion, de más(ok) szerint(?) Szíriuszra utaló lenne. Akkor ez is egy komplett csillagkép, mely magában hordozná Szíriuszt is?  
 
 ## Vadászterület

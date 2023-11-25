@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-10T06:47"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-25T12:00"}
 ---
 
 
@@ -39,7 +39,7 @@ Molnár V. József könyvének 98-99. oldalán folytatja:
 PJI tehát MA-hoz hasonló ideákat vet fel, de szépen kibővítve, ugyanakkor a [[H/HOL\|HOL]]/[[H/HÓL\|HÓL]] fehérségéről nem szól.  
 Ezen Hol elemet Jankovics Marcell Mély a múltnak kútja című könyvének 106. oldalán is kiemeli. Ő mindenféle magyar és idegen szóban a K-R és azzal rokon vázat keresi. [[K/KAR\|KAR]] címnél legutóbb írottak alapján valóban értelmezhető HOL, de nem fényes, hanem [[K/KOL\|KOL]] kör értelme alapján.  
 
-A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]]nál a Hold felbontása HU-UD, ahol HÚD fénnyel eláraszt, fény. [[H/HUD\|HUD]] a Fény Helye, asztális jelentésében (tellurisan víz: lásd [[H/Hugya\|hugya]] és [[H/Hydro\|hydro]]). Egyébként elképzelhető, hogy itt még igaza is lehet, hisz a Hold a Nap ([[U/UD\|UD]]) helyét veszi át világítólag éjszaka[^4], míg a [[H/HU\|HU]]/[[K/KU\|KU]] valóban égitest (csillag) jelentésű, de [[H/HUD\|HUD]] > [[H/Húgy\|húgy]], [[H/Hugya\|hugya]] is csillag jelentésűek. (Márpedig a Holdra, mint égitestre egyszerre tekintettek csillagként és bolygóként (lásd [[H/Hét bolygó\|hét bolygó]]).)  
+A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]]nál a Hold felbontása HU-UD, ahol HÚD fénnyel eláraszt, fény. [[H/HUD\|HUD]] a Fény Helye, asztrális jelentésében (tellurisan víz: lásd [[H/Hugya\|hugya]] és [[H/Hydro\|hydro]]). Egyébként elképzelhető, hogy itt még igaza is lehet, hisz a Hold a Nap ([[U/UD\|UD]]) helyét veszi át világítólag éjszaka[^4], míg a [[H/HU\|HU]]/[[K/KU\|KU]] valóban égitest (csillag) jelentésű, de [[H/HUD\|HUD]] > [[H/Húgy\|húgy]], [[H/Hugya\|hugya]] is csillag jelentésűek. (Márpedig a Holdra, mint égitestre egyszerre tekintettek csillagként és bolygóként (lásd [[H/Hét bolygó\|hét bolygó]]).)  
 
 Jankovics Marcell Ahol a madár se jár című könyvében ír arról, hogy a Magyar Nyelv Történeti és Etimológiai Szótára megemlíti, hogy a köznyelv etimológiai kapcsolatot teremtett a húgy és a Hold között (l. a húgy `hóggya` változatát), ami tartalmi kapcsolatot is jelent, mivel a Holdat tekintették a régiek a vizek planetáris felelősének.  
 \[Ezzel egy újabb értelem született, melyet a Hold névbe bele kellett passzírozni.\]  
@@ -192,7 +192,7 @@ Orosz Zsolt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] adataira alapozott intern
 > Fia, Kingu, nevének két része Kin és Gu. A Kin Király, a Kény, Kün, Ken, stb. rokona, a Gu itt Fő, Fej jelentésű. Kin-Gu tehát egy Fő-Király, aki valamilyen erőszak ellen fellázadt, és harcolni kezdett. Az angol King ebből a magyar névből származik, jelentése tehát Fő-Király.  
 > Tiámat elvesztette a harcot, fiát, Kingut is megölték a győztesek. A mítosz mai értelmezése nem fogadható el teljesen, tovább kell még kutatni a rejtélyeket.  
 
-Több klasszikus szerző megegyezik abban, hogy sok ezer évvel ezelőtt az Indiai-óceánban nagy szárazföld feküdt Afrika, Arábia és Hindusztán között: [[G/Gondwana\|Gondwana]]. Akkoriban, teszik hozzá, a **Hold még nem volt az Égen**, s ezért a görög írók e földrész lakóit proszeléneknek, hold előtti embereknek nevezték (Szeléné = hold), mint [[A/Árkádia\|Árkádia]] lakói magukat[^17]:  
+Több klasszikus szerző megegyezik abban, hogy sok ezer évvel ezelőtt az Indiai-óceánban nagy szárazföld feküdt Afrika, Arábia és Hindusztán között: [[G/Gondwana\|Gondwana]]. Akkoriban, teszik hozzá, a **Hold még nem volt az Égen**, s ezért a görög írók e földrész lakóit proszeléneknek, hold előtti embereknek nevezték (Szeléné = hold), mint [[A/Árkádia\|Árkádia]] lakói magukat[^17]\:  
 > All ages have had a great esteem and veneration for antiquity; and not only of men, but of families, cities, and countries, the most ancient have always been accounted the most honourable. Hence arose one of the first and most universal disputes that ever troubled mankind; almost every nation, whose origin was not very manifest, pretending to have been of an equal duration with the earth itself. Thus the Egyptians, Scythians, and Phrygians, fancied themselves to be the first race of mankind; and the Arcadians boasted that they were προσελενοι, or before the moon.  
 
 Az árkádiai mondáról RHA is tesz említést könyvében:  
@@ -210,7 +210,7 @@ Egy saját elmélet szerint nem elképzelhetetlen (de nem is bizonyítható), ho
 [[A/Árgyilus\|Árgyilus]] címnél is szerepelt, hogy egyszerre lehet Szíriusz/Nap és a Hold is.  
 
 Péterfai János adata is szerepelt ott, miszerint a farkasból kutyává válás illetve a [[K/Kutya háziasítása\|kutya háziasítása]] csak\[?!\] 12-14000 éve jött volna létre.  
-Kynologia című írásában Kátay-Barba Rafael Péter is érinti a témát:  
+Kynologia című írásában Kátay-Barba Rafael Péter is érinti a témát:  
 > Évekkel ezelőtt a Magyar Rádió egyik "tudományos" műsorában elhangzott, hogy a kutya háziasítása a korábban gondoltnál lényegesen korábban zajlott le. Ebben az összefüggésben idéztek egy 130 ezer éves farkas-kutya koponya leletet az ősember tűzhelyének közvetlen közeléből, mint őskutyát. Sajnálatos, de a lelet kapcsán egyetlen konkrét adat sem hangzott el, mint például: a feltáró régész neve, a lelőhely, feltárás időpontja, stb. Kétségtelen, hogy e sorok írójának is vannak fenntartásai a köztudatban elterjedt, s az általánosan elfogadott 10-14 ezer évvel ezelőtti domesztikációs datálással kapcsolatban, de ezen nézetét a tudományos kutatás eredményeinek ismeretében alakította ki.  
 
 Ez a kormeghatározás azért (lett volna) érdekes, mert épp 13000 éve voltunk a felső ágon és ez újfent felveti, hogy a Hold nem-e a Szíriusz rendszerből lett megörökölve: az Árgyilus név és a kutya, mint egyszerre Szíriusz- és Holdállat is erre engedhetne következetni, csakhogy mindez azt jelentené, hogy az egész [[H/Hunor és Magor\|Hunor és Magor]] történet és az emberiség eredete és a magyar nyelv is ilyen 13000 éves régi kellene legyen és ez nem lehet igaz. Inkább tűnik úgy, hogy a kataklizmák (pólusváltások) eltüntetik a nyomokat vagy talán hogy a magyar és hun nép és a kutyatisztelet ősiségét illetve ezzel a Szíriusz jelentőségét is ismerők korlátozzák le időben a dolgokat (ez azért nem valószínű).  
