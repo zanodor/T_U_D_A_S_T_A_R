@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adita/","title":"Adita","tags":["formatted🟢","containstransclusions"],"created":"2023-10-19T10:41","updated":"2023-10-21T03:30"}
+{"dg-publish":true,"permalink":"/A/Adita/","title":"Adita","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-19T10:41","updated":"2023-11-30T10:44"}
 ---
 
 
@@ -9,15 +9,21 @@
 
 ...című tanulmányában írja:  
 > Arábia történelme egészen a prehisztórikus időkre néz vissza, és jellegére nézve kusita eredetű. Nem hiába, hogy ez időtájt Arábiát ősi nevén Ethiópiának, a kusiták hazájának ismerték. A leghíresebb nemzetős neve mindenek előtt "Ad" személye volt, akit Thamuddal együtt óriás termetű embernek, gigásznak tartottak. Itt tűnik fel először, a később Kaldeából ismert **Kamar** törzs is, amely egykor dél-Arábia egyik legnevesebb prehisztórikus törzsei közé tartozott.  
-> A szóbanforgó arab félsziget legelső történelemelőtti uralkodóját Sed-Ad-ben-Ad-nak, őslakóit pedig innen, a bibliai Kám patriárka leszármazottjától Ad-ról elnevezve, "Aditáknak" hívták. A szumir hagyományok által, a Folyamközben élő "`sarku` = világos" fajtól gyakran megkülönböztetett **aditák vagy Adamiták**, 12 nemzetséget számláltak. Ezek voltak; Ad, Thamád, Dzsátis, Amlik, Umajim, Abil, Dzsurhum, Vabar, Dzsásm, Antem, Tasm, és Hasem törzsei.  
+> A szóban forgó arab félsziget legelső történelemelőtti uralkodóját Sed-Ad-ben-Ad-nak, őslakóit pedig innen, a bibliai Kám patriárka leszármazottjától Ad-ról elnevezve, "Aditáknak" hívták. A szumir hagyományok által, a Folyamközben élő "`sarku` = világos" fajtól gyakran megkülönböztetett **aditák vagy Adamiták**, 12 nemzetséget számláltak. Ezek voltak; Ad, Thamád, Dzsátis, Amlik, Umajim, Abil, Dzsurhum, Vabar, Dzsásm, Antem, Tasm, és Hasem törzsei.  
 > Donnelly határozottan állítja, hogy; "The great Ethiopian or Khusite empire was the empire of Dionysos, the empire of Ad..." vagyis, a hatalmas Ethióp vagy Kusita birodalom, Dióniszosz birodalma, Ad birodalma volt. Kinek uralkodása alatt, úgy Egyiptom mint a távoli India, az aditák fennhatósága alá tartozott. Ezért nevezték még [[I/India\|Indiá]]t is hajdan: "Kis-Ethiópiának."  
 - Kamar bekerült [[K/Khamor\|Khamor]] címhez. A `sarku` = világos [[S/Saracen\|saracen]] címhez.  
 
-#### Magyar Adorján Ősműveltségében írja:
+#### Magyar Adorján Ősműveltség...  
 
+...című könyvében írja:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/ad/#6wwhql" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+$<div class="markdown-embed-title">
+
+# clean
+
+</div>
 
 
 > Ad, adni igénknek pontosan megfelel annak árja, de megfordított da, darc alakja, csakhogy az egytagú szavak megfordítása a mi nyelvünk sajátsága lévén, ebből az következik, hogy ad igénk e megfordított da alakja a mi ősnyelvünkben is megvolt, és az árja nyelvekbe éppen emez alakja ment át. Egyébként is az adás, aktív, pozitív, tehát hímségi dolog lévén (a nőiségi tűrés, fogadás ellentéte), eszerint e szó az atya, török `ata`, szumer `adda` = atya szóval is természetes összefüggésben van, amely szó eredetileg még hím férfi jelentéssel is bírt, amit tanúsit \[az [[A/Ádám\|Ádám]] címnél is említett\] török `adam` = ember, férfi, valamint a bibliai [[A/Ádám\|Ádám]] név is.  
