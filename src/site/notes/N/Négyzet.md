@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","tags":["dg_uploaded"],"created":"2023-10-26T05:19","updated":"2023-11-02T04:36"}
+{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","tags":["dg_uploaded"],"created":"2023-10-26T05:19","updated":"2023-11-25T11:20"}
 ---
 
 
@@ -13,7 +13,7 @@ Sípos Erzsébet az Ősi Gyökér 2006/2. sz. megjelent aranymetszésről szól�
 Ugyanezt leírta JM [[N/Négyszögletes Föld\|négyszögletes Föld]] címnél:  
 > Az eget egyetemes ősi felfogás szerint a kör jelével szimbolizálták, a földet négyzettel. Az égi körnek a földi négyszög felel meg – az isteni szándék emberi megvalósítása a kör négyszögesítése.  
 
-Falvay Károly Nagyboldogasszony című könyvének 149. oldalától bőségesen szól a négyzetről és négyszögletességről, jelképiségéről.  
+Falvay Károly Nagyboldogasszony című könyvének 149. oldalától bőségesen szól a négyzetről és négyszögletességről, jelképiségéről.  
 
 A mellékelt kép Molnár V. József Világ-Virág című könyvéből való, de nem találom a hozzá való szöveget. Mint kiderül, George Mitchell The Hindu Temple című könyvében szerepel és **Purusha** istenséget ábrázolja.  
 ![assets/Négyzet_image1.jpeg](/img/user/N/assets/N%C3%A9gyzet_image1.jpeg)  

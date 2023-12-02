@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["formatted🟢"],"created":"2023-10-22T03:46","updated":"2023-10-22T03:46"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2023-11-25T11:15"}
 ---
 
 
@@ -7,8 +7,9 @@
 
 Labirintus, útvesztő.  
 
-#### Paksi Zoltán adata lehetett:
+#### Paksi Zoltán...
 
+...adata lehetett:  
 > Kréta szigetén volt legjelentősebb a bikakultusz. Minosz fiát a marathoni síkon egy bika gázolja halálra, sőt felesége egy bikával csalja meg! Ebből a nászból születik a félig bika, félig embertestű lény, a Minotaurusz. Minosz szégyenében egy labirintust építtet, s ebbe zárja a szörnyet. Ám minden kilencedik évben hét fiút és hét leányt áldoz a Minotaurusznak. Végül Thészeusz győzi le a bikát, és talál ki a labirintusból Ariadné segítségével. De miről is szól a hősi küzdelem? A szörny bika a bennünk lakozó lehúzó erő, melyre rátalálva, majd azt legyőzve találhatunk ki a labirintusból, vagyis a földi élet csapdákkal teli világából! A bika ugyanakkor más üzenetet is hordoz, hiszen maga Zeusz is megjelenik bika képében! Tehát a legmagasabb teremtő erő lehetősége is benne rejlik! Ne feledjük, hogy az égbolt minden csillagzata bennünk is megvan, így a Taurus stáció lehetőségei és feladatai nálunk is megjelennek! Tekintsünk az égre, és nézzük meg, hogy mit is szimbolizál ez az égi kép!  
 
 #### Magyar Adorján írja:  
@@ -18,7 +19,7 @@ Labirintus, útvesztő.
 
 #### Péterfai János...
 
-...egyenesen lábérintős szót hoz (ami viszont az alanti infokkal nem egyeztethető össze):  
+...egyenesen lábérintős szót hoz (ami viszont az alanti infókkal nem egyeztethető össze):  
 > Egy másik mítosz szerint évi adó fejében szüzeket és ifjakat kellett küldeni Minósznak, aki a megérkezett szűzeket és ifjakat a Labirinthusba vetette. A Labirinthus sok részből álló palota, ahol a szüzek és ifjak eltévedhettek. A mítosz nem veszi figyelembe a Labirinthus Lábérintős jelentését, egyiptomi előfordulását, és ősmagyar nyelvűségét. Ettől függetlenül a Labirinthus az egyiptomi és krétai civilizáció jellegzetessége. Ha növényekből alkotnak labirinthust, akkor nem szabad a növényeken áthatolni játék közben, mivel csak lábbal lehet érinteni a talajt.  
 
 Úgy tűnik, PJI nem számol azzal, hogy itt az emberi belekhez hasonlíttatott [[A/Anyaméh\|anyaméh]]ről[^1], az abba való behatolásról, azaz szexuális szimbolikáról van szó. Arról másutt is volt szó, hogy a [[L/LÁB\|láb]] – mint "harmadik láb" – ezen kontextusokban a \[Napot nemző Napatya – mint [[A/Apam Napat\|Apam Napat]]\] hímvesszőjét jelképezi, sőt, új, [[L/Labia\|labia]] címnél álló adat alapján a női nemi szervre is utalhat!  
@@ -50,7 +51,7 @@ A témát kifejtve, újraértelmezve lásd még [[L/Love\|love]].
 Egy fontos szót JM sehol sem említ: a latin-francia-angol [[L/Labour\|labour]] jelentése szülés.  
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd [[T/Téli napforduló\|téli napforduló]].  
-Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így ![assets/Labyrinth_image2.png|undefined](/img/user/L/assets/Labyrinth_image2.png) (Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogrammból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
+Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így ![assets/Labyrinth_image2.png](/img/user/L/assets/Labyrinth_image2.png) (Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogrammból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
 GYÁ cikke záró sorában kimondja, hogy a barlang-labirintus az ősanya Boldogasszony méhének szimbóluma, mélytudatunk legrejtettebb pontja; mégsem sikerült a cikkben megfelelően kifejteni, mi is a Bak jelentősége és a Magyar és Magur nevek hogyan és miért jelennek meg keleten.  
 
 Dr. Gyárfás Ágnes egy másik cikkében is szól csigavonalról. [[U/Újév\|Újév]] és [[K/Kalács\|kalács]] címnél ábrával szereplő írását lásd.  
@@ -63,11 +64,15 @@ Egyiptomi párhuzamát a jelnek lásd [[M/Magor\|Magor]], ahol több Gyárfás f
 
 #### Acharia S The Christ Conspiracy...
 
-...című könyvéből származó passzusa [[L/Lingam\|lingam]] és [[Y/Yoni\|yoni]] címnél is szerepelt:  
+...című könyvéből származó passzusa [[P/Phallic\|phallic]], [[V/Vulva\|vulva]], [[L/Lingam\|lingam]] és [[Y/Yoni\|yoni]] címnél is szerepelt:  
 > Despite its antisex attitude and pretensions, Christianity incorporated many sexual images, including the ancient and ubiquitous [[L/Lingam\|lingam]] symbol, evident in the church steeple, and the [[Y/Yoni\|yoni]] or womb, symbolized by the church nave. From the earliest times, in fact, temples and churches themselves served as wombs, into which the priest, with his phallus-shaped hat would enter, beseeching the Deity for fertility and fecundity. As Allegro says:  
 > The temple was designed with a large measure of uniformity over the whole of the Near East now recognizable as a microcosm of the womb. It was divided into three parts: the Porch, representing the lower end of the vagina up to the hymen, or Veil; the Hall, or vagina itself; and the inner sanctum, or Holy of Holies, the uterus. The priest, dressed as a penis, anointed with various saps and resins as representing the divine semen, enters through the doors of the Porch, **the "labia" of the womb**, past the Veil or "hymen" and so into the Hall.  
+> —  
+> Antiszexuális hozzáállása és igényessége ellenére a kereszténység számos szexuális képet épített be, beleértve az ősi és mindenütt jelenlévő [[L/Lingam\|lingam]] szimbólumot, amely a templomtoronyban látható, és a [[Y/Yoni\|yoni]] vagy méh, amelyet a templomhajó szimbolizál. A legkorábbi időktől fogva a templomok és a templomok maguk is méhként szolgáltak, ahová a pap fallosz alakú kalapjával belépett, és termékenységért és termékenységért könyörgött az Istenséghez. Ahogy Allegro mondja:  
+> A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba.  { #dgfln7}
 
-Hasonló téma jön elő Falvay Károly Nagyboldogasszony c. k. 234. oldalán, ahol írja:  
+
+Hasonló téma jön elő Falvay Károly Nagyboldogasszony c. k. 234. oldalán, ahol írja:  
 > Egészen az 1500-as évekig a házasulandó felek az egyezséget egész Európában a templom kapujában kellett kimondják.  
 
 Azt nem mondja, hogy ez utalás lenne a szűz/menyasszony [[V/Vulva\|vulvá]]jára. Egyénként a latin-angol [[V/Vestibule\|vestibule]] szónak is van ilyen (anatómiai szakszóként is jelenlévő) értelme.  
