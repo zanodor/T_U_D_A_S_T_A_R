@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","tags":["formatted🟢"],"created":"2023-10-21T04:40","updated":"2023-10-21T04:40"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","tags":["dg_uploaded"],"created":"2023-10-21T04:40","updated":"2023-12-04T01:10"}
 ---
-
-
 
 
 # Ábrahám
@@ -35,7 +33,7 @@ Oláh Imre tanulmányában, egy arab hagyomány alapján az is kiderül, hogy Á
 Ábrahám nevében akkor találunk-e Égatyára utaló etimont? Úgy tűnik, igen, hiszen épp fentebb, [[A/Ábra\|ábra]] címnél ilyen ég, felhő jelentésű (ha nem is sémi, de árja – és a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak szerint az avar-hunok a közös kapocs a vallások és nyelvcsaládok között – eredetű) szavak előjöttek. Viszont nem biztos, hogy jó helyen járunk. Mi lenne, ha a [[H/Héber\|héber]] (Eb-Úr) [[H/Habur\|Habur]] változatának rontásával lenne dolgunk? Ábrám-Ábrahám nevében egy ugyanolyan -Ám végződés is van, mint [[A/Ádám\|Ádám]] nevében, amely hasonló lehet, mint az Uram (és [[N/Numi Tórem\|Numi Tórem]]) nevekben. Eképpen Ábrám annyi lehetne, mint Eb-Uram. Ugyanakkor a hun-arab [[A/AB\|AB]] = apa fogalmát is kereshetjük benne. Eképpen Apa-Uram értelmű is lehet.  
 Alant még az Apiru/[[H/Habiru\|Habiru]] névvel is rokonság kerestetik.  
 Figyeljük meg, a télen ([[H/Hibernate\|hibernate]] eredete is innen) látható Orion (plusz Szíriusz)ról van itt szó. Mindegyik szó, legyen [[A/Avar\|avar]] (ennek a szláv `obor` = óriás változata ismét egyértelmű utalás Orionra és így [[H/Habur\|Habur]]-on keresztül Abramra), vagy a germán [[O/Over\|over]], mind ugyanarra az égi mozgatóra, az Ég Urára, Orionra utal.  
-Erre legutóbb a [[C/Cŵn Annwn\|Cŵn Annwn]] címnél a waleszi `cŵn wybr` (sky hounds) összetételt meglátva is ismételten rá kellett jönnöm: Ábrahám és a szláv `Obor` = Óriás ötlött fel, majd az alábbi szóváltozatok alapján az [[A/Air\|air]] szó eredetére is ráleltem.  
+Erre legutóbb a [[C/Cŵn Annwn\|Cŵn Annwn]] címnél a walesi `cŵn wybr` (sky hounds) összetételt meglátva is ismételten rá kellett jönnöm: Ábrahám és a szláv `Obor` = Óriás ötlött fel, majd az alábbi szóváltozatok alapján az [[A/Air\|air]] szó eredetére is ráleltem.  
 A walesi nyelvben `wybr` és `wybren` = ég, menny és `awyr` = lég (levegő); ég. Utóbbit hehezetesen is megtalálni a neten: a hawyr forma viszont már a kabír/[[H/Habur\|Habur]]/[[H/Héber\|héber]]/[[A/Avar\|avar]] neveket idézi. Nyilvánvaló, hogy itt égistenről van szó, de mivel Orion (Obor = Abram = Ábrahám Óriás/Vadász) a Tejútfolyam mellett van (férje az istenanyának), ezért, ahogy erről máshol is volt szó, a neveket egymás között cserélhetik (de már eleve az Égisten is lehet anya, ha az éji eget vesszük alapul).  
 
 Ábrahám Nyilazóságának egy másik nyelvi bizonyítéka, hogy az ív fogalma kapcsán érintett [[B/Brow\|brow]] is ilyen alakú (\[A-\]B-R). (Ezen gondolatmenet folytatását lásd [[P/Próba\|próba]]/[[P/Prove\|prove]].)  
