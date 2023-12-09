@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-11-25T11:18"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-12-04T06:55"}
 ---
 
 
@@ -38,7 +38,7 @@ Lewis Freemantle a The Thirteenth Stone című könyvében írja:
 > Bár a Szentírás nem támasztja alá ezt az elképzelést, Mária Magdolnát prostituáltként ismerik. Allegro szerint a neve 'fodrászt' jelent, ami a héber nyelv görögösített formája. Én azt javaslom, hogy ő egy szent prostituált. Jézus életében három kiemelkedő nőt találunk. Az egyik Mária, az édesanyja. A többiek segítenek a Háromfejű Istennő három elemét alkotni, és így egyek. Alapvetően Jézus anyját, feleségét és a boszorkányt, aki eltemeti őt, jelképezik. Az első nyomot a Lukács 7:38-ban találjuk, ahol egy meg nem nevezett nő a hajával törli meg Jézus lábát. Az adott körülmények között ezt jelentősnek kell tekintenünk. Lukács szerint a nő egy "bukott asszony". A keresztény hagyomány úgy gondol rá, mintha egy lenne Mária Magdolnával. A Szentírás szerint ez nem helytálló. Ő volt az, aki először látta az üres sírt, amikor a követ elhengerítették. Ő volt az is, akinek Jézus először mutatta meg a feltámadását. A harmadik a betániai Mária, aki Márta és Lázár nővére.  
 > Jézus életében kevés a nő, közülük azonban hármat neveznek Máriának.  
 
-A Mária-hármasságról ...
+A Mária-hármasságról...  
 
 #### Robert Graves The White Goddess...
 
@@ -113,7 +113,7 @@ A [[M/Mare\|mare]] = tenger jelentése kapcsán felvetődött, hogy mi van, ha i
 Másutt:  
 > 'Moiria' also suggests the Greek word `moira`, a share, lot or distribution. If 'Moriah' is the answer to the first of these five unsolved riddles, it must be linked with 'I have been bard of the harp to Deon of Lochlyn'; and we must credit the scholarly Gwion with interpreting the word as meaning Mor-Iah, or Mor-Jah, 'the god of the sea', the word 'Mor' being the Welsh equivalent of the Hebrew 'Marah' (the salt sea).  
 > —  
-> A "Moiria" szó a görög `moira` szóra is utal, amely részesedést, sorsot vagy elosztást jelent. Ha a "Moriah" a válasz az öt megfejtetlen rejtvény közül az elsőre, akkor ez a következővel függ össze: "Én voltam a hárfa bárdja Deon of Lochlynnak"; és a tudós Gwionnak kell hitelt adnunk, aki úgy értelmezi a szót, hogy az Mor-Iah vagy Mor-Jah, "a tenger istene", mivel a "Mor" szó a héber "Marah" (a sós tenger) waleszi megfelelője.  
+> A "Moiria" szó a görög `moira` szóra is utal, amely részesedést, sorsot vagy elosztást jelent. Ha a "Moriah" a válasz az öt megfejtetlen rejtvény közül az elsőre, akkor ez a következővel függ össze: "Én voltam a hárfa bárdja Deon of Lochlynnak"; és a tudós Gwionnak kell hitelt adnunk, aki úgy értelmezi a szót, hogy az Mor-Iah vagy Mor-Jah, "a tenger istene", mivel a "Mor" szó a héber "Marah" (a sós tenger) walesi megfelelője.  
 - Az utolsó szó ismét egészen hasonló a Mária névhez.  
 
 RG másutt ([[A/ANA\|ANA]] címnél – több – is szerepelt):  
@@ -172,7 +172,7 @@ A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
 A Mária marhából való közvetlen eredeztetésének az is ellentmond, hogy az (általán területek nevére alkalmazott) -[[I/Ia\|ia]] végződés más nevekben is szerepel; például Kornélia, Natália, a gall fenyő (nem tölgy?) istennő [[D/Druantia\|Druantia]], a tölgy (nem inkább éger?) istennő [[E/Egeria\|Egeria]], a szintén Tejút/kígyóistennő [[L/Lamia\|Lamia]], illetve PJI Atlantiszról szóló írásában azt írja, hogy az ír [[E/Eriu\|Eriu]] (lásd róla illetve a passzust [[E/Eire\|Eire]]) nevében is az -ia végződés lenne meg.  
 
-Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is inkább a Magyar < Mahar < Maar < Már-ia levezetésre, melyet a Quora cikkbe is felírtam. Csak hónapokkal ezután találkoztam ...
+Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is inkább a Magyar < Mahar < Maar < Már-ia levezetésre, melyet a Quora cikkbe is felírtam. Csak hónapokkal ezután találkoztam...  
 
 #### Pap Gábor...
 
@@ -187,7 +187,7 @@ Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is i
 
 A következő sorokból [[T/Tigris\|Tigris]] és [[U/Urgula\|Urgula]] valamint [[M/Magura\|Magura]] címhez is jutott:  
 > Az ókori mezopotámiai `mahgar` név `magur` változata például oroszlánt jelent, ennek szabályos hangalaki párja, a `nahar` pedig Indiában tigrist. Széchenyi Zsigmond egyik, vadászatairól szóló könyve éppen ezt a címet viselte.  
-> (A `magura` névváltozat jelentése viszont "forrásbarlang", és ezzel a szemközti Vízöntőt idézi meg.) Mármost Máriát – a "magyar" népnéven át – oroszlánnal, illetve tigrissel párosítani – nem túlzás ez? Netán blaszfémia? Nono! Gondolkozzunk csak egy kicsit: hova is esik Nagyboldogasszony ünnepe az évkörben? [[A/Augusztus 15\|Augusztus 15]]. - ez bizony az Oroszlán, precessziós nagyságrendben fogalmazva a Tigris hava! Má(há)ria, íme, benyújtotta a névjegyét.  
+> (A `magura` névváltozat jelentése viszont "forrásbarlang", és ezzel a szemközti Vízöntőt idézi meg.) Mármost Máriát – a "magyar" népnéven át – oroszlánnal, illetve tigrissel párosítani – nem túlzás ez? Netán blaszfémia? Nono! Gondolkozzunk csak egy kicsit: hova is esik Nagyboldogasszony ünnepe az évkörben? [[A/Augusztus 15\|Augusztus 15]]. - Ez bizony az Oroszlán, precessziós nagyságrendben fogalmazva a Tigris hava! Má(há)ria, íme, benyújtotta a névjegyét.  
 - Folytatást lásd [[M/Magyar Ilona\|Magyar Ilona]].  
 
 [[B/Babba Mária\|Babba Mária]] címnél szó volt Jámbor János Az ősi Boldogasszony tisztelet című cikkében kifejtett Ma-Ri-A felbontásról:  
@@ -278,7 +278,7 @@ Napja [[J/Január 23\|január 23]]. Lásd MVJ írását ott.
 
 ## Mária Boldogasszonnyal való megfeleltetése
 
-Mégegyszer: [[K/Kisasszony\|Kisasszony]] címnél szerepelt a tisztázás.  
+Még egyszer: [[K/Kisasszony\|Kisasszony]] címnél szerepelt a tisztázás.  
 
 ## Mária magyar tisztelete – Szűz Mária Magyarország királynője
 
