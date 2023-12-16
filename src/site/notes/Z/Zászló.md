@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["formatted🟢"],"created":"2023-10-17T09:23","updated":"2023-10-17T09:25"}
+{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","created":"2023-10-17T09:23","updated":"2023-11-08T04:23"}
 ---
 
 
@@ -32,8 +32,9 @@ A Szimbólumtár anyaga:
 
 ## Lófarkas zászló – "száz ló"
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > Vitekind szerint lófark volt a magyarok zászlója, ami ismét a törökökkel közös szokás, vittek azon fölül a sereg előtt kecskefőt, herculesi buzogányt s Márs kardját, a buzogány vezérbot volt, milyennel Báthori István, mint lengyel király a kozákok hetmanját feldiszité, egyszersmind királyi zászlót vagy lófarkot és pecsétet adván neki. ([Lásd 159. old.](zotero://open-pdf/library/items/DFI47XPY?page=159&annotation=HN6F72WB))
 >
 > A mongol földön még ma is a lófarkok, zászlók helyett használtatnak, Tsengiskán kilencz lófarkot hordatott maga előtt, a mi a főhatalom jele, a kilencz szám most is szentszám a mongoloknál. ([Lásd 159. old.](zotero://open-pdf/library/items/DFI47XPY?page=159&annotation=LMUAYIZ8))

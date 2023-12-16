@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","tags":["formatted🟢"],"created":"2023-10-11T04:38","updated":"2023-10-21T03:37"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2023-11-08T03:30"}
 ---
-
-
 
 
 # Álmos
@@ -19,7 +17,7 @@
 
 Az [alábbi](https://youtu.be/GNA9-pOTuyA) A mindenséggel mérd magad 16/4. című Szántai Lajos előadásban 52:55-nél szól arról, hogy felolvasott forrása alapján Álmos neve onnan ered, hogy születését álom jelezte előre. Viszont itt megemlíti a könyvet olvasva, hogy latinul `almus` = szent jelentésű...  
 Az [alábbi](https://youtu.be/FJ-ohuCS9Rw) ÁKTV műsorban KT 1:51:46-nál az Anonymous-nál előforduló Almus név kapcsán olvassa fel a képileg mellékelt szöveget.  
-![assets/Álmos_image1.jpeg|undefined](/img/user/A/assets/%C3%81lmos_image1.jpeg)  
+![assets/Álmos_image1.jpeg](/img/user/A/assets/%C3%81lmos_image1.jpeg)  
 Igen ám, de valójában nem ez az eredeti értelme, hiszen a latin `almus` = tápláló, táplálékadó, és innen másodjelentésében jótékony, áldott, áldásárasztó, kegyes jelentésekkel álló. Tápláló és táplálékadó jelentései pedig női-anyai-istenanyai szerepkörre mutatnak rá, ahogy [[A/Alma\|alma]] és [[A/Alma Mater\|Alma Mater]] címnél erről volt is szó.  
 Még egy zárójeles dolgot ide. Mi lenne, ha itt az álom, almus kapcsán az `anima` = lélek szó eredetét kellene keresni? Ugyanis az újlatin nyelvekben a lélek `alma` alakú. Almus > animus teljesen elképzelhető változás. Igen ám, de a görög `anemosz`[^1] = szél megléte miatt ez mégsem jó ötlet.  
 
@@ -56,8 +54,9 @@ Az Almus név mellett előjön egy másik hasonló név. TGY írja:
 
 Borbola János Ősmagyarul című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében egy alternatív olvasatát adja a névnek: Ál-Mos nála az "Élő Mása"...  
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > A bolgár ismaeliták már rokonfajuak lévén a magyarokhoz, mint a Jakutból felhozott fölebbi nyilatkozat is mutatja, a volga bolgároknak szinte **Almus** nevű fejedelmek is lévén, s Luitprandis e rokonság mellett szólván, Damasek isten neve ennyiben magyarnak is vétethető, ámbár őseink Bachmuthot vagy Mohammedet nem tisztelték, mint azt a magyar földi ismaeliták tették. ([Lásd 24. old.](zotero://open-pdf/library/items/DFI47XPY?page=24&annotation=T9NH4VH7))  
 
 ## Álmos király volt – bizonyítja Isteni származása – Álmos és Jézus párhuzamok

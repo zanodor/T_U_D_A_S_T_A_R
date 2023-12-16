@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions","formatted🟢"],"created":"2023-10-11T06:16","updated":"2023-10-11T06:16"}
+{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions"],"created":"2023-10-11T06:16","updated":"2023-11-08T03:35"}
 ---
 
 
 # Böszörmény
 
+Bognár Ferenc Az Életfa csillag-gyökerei című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében szaracén és böszörmény néven feltűnő izmaelitákról szól; bolgár eredetű, mohamedán vallású népként történik beazonosítási kísérlet. Írja még, hogy az izmaeliták kereskedelmi és pénzverési kiváltságokat kaptak királyainktól.  
 
+#### Pálfi Károly A magyar nemzet ősvallása...  
 
-Bognár Ferenc Az Életfa csillag-gyökerei című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében szaracén és böszörmény néven feltűntő izmaelitákról szól; bolgár eredetű, mohamedán vallású népként történik beazonosítási kísérlet. Írja még, hogy az izmaeliták kereskedelmi és pénzverési kiváltságokat kaptak királyainktól.  
-
-#### Pálfi Károly A magyar nemzet ősvallása című könyvében írja:
-
+...című könyvében írja:  
 > A nyelvészek, így Gombócz-Melich is, böszörményt az izmaelita `bezirmen`-ból és a török `busurman`-ból származtatják. ([Lásd 52. old.](zotero://open-pdf/library/items/QVETUTRJ?page=52&annotation=55ID3595))  
 
 Másutt írja:  

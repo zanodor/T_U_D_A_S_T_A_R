@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet","formatted🟢"],"created":"2023-10-14T06:47","updated":"2023-10-14T06:47"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2023-11-08T04:16"}
 ---
 
 
 # Sumér és magyar nyelvek – melyik volt előbb
-
-
 
 Szögezzük le: a sumér a magyarnál fiatalabb nyelv, bár az is igaz, hogy a mai magyar szókincs több korból, rétegből áll össze. Tehát a [[S/Ság\|ság]] fő jelentése kapcsolható lehet vagy mondjuk úgy, megfejthető lehet a sumér alapszóból illetve annak segítségével. Viszont a sumér szó eredete akkor mi? Az óegyiptomi [[S/Sah\|Sah]]? És az óegyiptomi nem ugyanúgy ősi magyar nyelv (származéka)?  
 
@@ -40,7 +38,7 @@ Persze ez lehet éppen óvatosság vagy a szumér erények kisebbítének szánd
 ## Magyart sumérből levezetők és eljárásaik
 
 [[N/Novotny Elemér\|Novotny Elemér]], [[D/Dudás Rudolf\|Dudás Rudolf]], [[F/Farkasinszky Tibor\|Farkasinszky Tibor]], [[B/Badiny Jós Ferenc\|Badiny Jós Ferenc]], [[G/Gyárfás Ágnes\|Gyárfás Ágnes]] és sokan mások [[R/René Labat\|René Labat]] adatai alapján haladva állítják össze a magyar szavak értelmét a sumér alapján, ami helytelen. Maga az eljárás már azért is kritizálandó, mert indo-európaiak készítették a sumér-akkád szótárat, de már a sumér maga is önkényesen bánik a szórészekkel: önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. Az igaz, hogy PJI is részint ezek alapján határozza meg az alapszavak jelentéseit. A sumér mankó, de nem az alapnyelv.  
-Ennél merészebb és kiábrándítóbb már csak az, amikor hosszabb magyar szókapcsolatokat, szövegeket sumerizál valaki (mint Dudás a Tápiószentmárton nevet) és azok helyérték szerinti értelmezésén keresztül használja fel az általunk tökéletesen értett magyar szöveg értelmi "feltuningolására." Az Ősi Gyökér 1974/2-6. sz. megjelent Badiny Jós Ferenc által is leközölt cikkében – próbálom visszafogni magam a jelzővel – "garázdálkodó" – más esetekben oly éleseszűnek mutatkozó Novotny Elemérre gondolok (a szöveg eredetijét könyvében is megtaláltam; majd óvakodni kell tőle (is)).  
+Ennél merészebb és kiábrándítóbb már csak az, amikor hosszabb magyar szókapcsolatokat, szövegeket sumerizál valaki (mint Dudás a Tápiószentmárton nevet) és azok helyérték szerinti értelmezésén keresztül használja fel az általunk tökéletesen értett magyar szöveg értelmi "feltuningolására." Az Ősi Gyökér 1974/2-6. sz. megjelent Badiny Jós Ferenc által is leközölt cikkében – próbálom visszafogni magam a jelzővel – "garázdálkodó" – más esetekben oly éleseszűnek mutatkozó Novotny Elemérre gondolok (a szöveg eredetijét letöltésre elérhetőkönyvében is megtaláltam; majd óvakodni kell tőle (is)).  
 Novotny Elemér csúcsra járatta nyelvünk sumér nyelven keresztüli bemutatását. Így jár az, aki – a történelmet nem ismerve, vagy például Horvát István írásait nem ismerve – a sumér nyelvből akarja a magyart meghatározni. Ha a fejlődési irányt megfordítjuk, akkor ilyen megborult elmék elméletei jönnek elő alapjában véve értelmes emberektől.  
 Mit csinál Novotny? Veszi a legrégebbinek tartott szövegeinket, kiemel belőle valami neki tetszőt és sumerizálja. Például:  
 A Halotti Beszédben megtetszik neki a következő szöveg: *Halalnek halalaal holz.*  
@@ -170,7 +168,7 @@ Azaz a természetes írásos formájú gondolatközlésben nem szab gátat a tec
 Götz László Keleten kél a Nap című könyvének 965-967. oldalán taglalja a [[V/Verse\|vers]]elés sumér eredetét. Magyar párhuzamokat is bemutat és még van győződve a sumér eredetről. Viszont a költészet és [[Z/Zene\|zene]] az emberiség ősállapotába és nem 6000 évre tekint vissza. A magyar mesék ősisége minimum a legkésőbbi korok csillagmitológiai közegében keresendő. Továbbá a magyar nyelv ragozó volta és [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|hajlítás]]okkali szó- és rímalkotó képessége is legalább annyira alkalmassá tette verselésre, mint az európai eredetű sumér.  
 [[L/Ludas Matyi\|Ludas Matyi]] címnél is szóba került sumér-magyar párhuzam.  
 
-- - -
+---
 
 A [[T/Tatárlakai napvárta-korong\|tatárlakai korongon]] talált írás régisége (a sumér ékírásos táblák idejével szemben sok kutató elsőként hozza fel a magyarság "ősibbsége" bizonyítékául) kapcsán itt most nem szólanék (lehet ugyanis, hogy nem is írás van rajtuk, továbbá KT és GL friss adatai szerint nem régebbi az).  
 
@@ -179,8 +177,9 @@ Az [alábbi](http://www.hebraisztika.hu/attachments/00000353.pdf) oldalon még a
 > A sumer nyelv a ma ismert nyelvek közül egyetlennel sem áll rokonságban, egy ún. szigetnyelv. Az ismert rokon nyelvek hiánya is magyarázza, hogy számtalan más nyelvvel próbálták rokonítani, köztük a magyarral is. Ezek a próbálkozások azonban kivétel nélkül nyelvészetileg megalapozatlanok; a sumer-magyar állítólagos rokonságához lásd [[K/Komoróczy Géza\|Komoróczy Géza]] igen szórakoztató munkáját (1976), és legutóbb \[a főleg [[T/Turanizmus\|turanizmus]] címnél ömlengést bemutató Hegedűs József mellett itt-ott idézett finnugrász\] Rédei Károly könyvének vonatkozó fejezetét (1998, 85-105).  
 - Lásd még Halevy fentebbi, Bakostól származó véleményét is. Vérlázító.  
 
-#### Bakos Attila A Duna Evangéliuma című könyvében írja:  
+#### Bakos Attila A Duna Evangéliuma...  
 
+...című könyvében írja:  
 > A sikeres ásatások kezdetén lelkendezve csak az írásfeltalálók nyelve címmel illették a sumér írást. Mindaddig, míg ki nem derült, hogy agglutináló, ragozó szerkezetű ősturáni nyelv. Lenormant szerint ez a nyelv a magyarhoz áll legközelebb, sőt, így nyilatkozott:  
 > "Ez az ősnyelv lesz a turáni nyelvek közös magyarázója; ugyanaz, ami a szanszkrit az indoeurópai nyelvcsaládban!"  
 > Az elfogulatlan tudósok, mint Oppert, Rawlinson, Sayce, Lenormant (és ezen a helyen még nem említjük a zseniális magyar tudósokat) tehát elfogulatlanul megállapították, hogy az írást a turáni fajú sumér nép találta fel ([[T/Torma Zsófia\|Torma Zsófia]] munkássága és [[T/Tatárlakai napvárta-korong\|Tatárlakai leletei]] kapcsán erre még visszatérünk).  

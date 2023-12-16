@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tame/","title":"Tame","tags":["formatted🟢"],"created":"2023-10-17T08:15","updated":"2023-10-17T08:15"}
+{"dg-publish":true,"permalink":"/T/Tame/","title":"Tame","tags":["containstransclusions"],"created":"2023-10-17T08:15","updated":"2023-11-08T04:19"}
 ---
 
 
 # Tame
 
 Megszelídít, háziasít (német párja `zäumen`); házi, megszelídített. Idomít szavunkból eredhetne(?), szóeleji lekopással.  
-VK üt (PJI-nél [[U/UTU\|UTU]]) szavunk származékának tartja mindkét szót. Lásd inkább gyám-olít vonalon [[T/TAM\|TAM]].  
+VK `üt` (PJI-nél [[U/UTU\|UTU]]) szavunk származékának tartja mindkét szót. Lásd inkább gyám-olít vonalon [[T/TAM\|TAM]].  
 Vélhetően a keresett fogalom a fékezés, lekötés, igába hajtás.  
 
 #### Magyar Adorján Ősműveltségében...
@@ -25,8 +25,8 @@ Vélhetően a keresett fogalom a fékezés, lekötés, igába hajtás.
 
 A szóforma más nyelvekben is megvan. Lásd Falk Nóra írásából:  
 > A rén igavonóvá szelídítését, betanítását jelentő lapp `dápmat` (> fi. `taamoa` 'ua.') szó ősi skandináv átvétel (vö. norv. `tämja` 'ua.', SSA 3: 248.), amiből mégsem következik, hogy a rén szelídítése skandináv mintára történt volna.  
-
-Arról [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél volt szó, hogy sok szó kerülhetett a germánba tőlük.  
+- Arról [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél volt szó, hogy sok szó kerülhetett a germánba tőlük.  
 
 Vesd még össze [[T/Timid\|timid]].  
+Vagy inkább figyelembe ajánlandó [[T/Teem\|teem]], ahol a szarvas szintén szóba került.  
 
