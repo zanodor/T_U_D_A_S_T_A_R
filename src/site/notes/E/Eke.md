@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched","formatted🟢"],"created":"2023-10-20T01:30","updated":"2023-10-20T01:30"}
+{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-20T01:30","updated":"2023-12-23T08:29"}
 ---
-
-
 
 
 # Eke 1)
@@ -37,7 +35,7 @@ Az alábbi...
 
 # Eke 2)
 
-Kiegészít, kipótol (*eke out* igekötős frázisban általában). Gyökét, jelentését tekintve egyező vele az [[A/Auxiliary\|auxiliary]], [[A/Augment\|augment]] és [[W/Wax\|wax]] szavak gyöke. Természetesen azt mondani, hogy fokoz igénkből ered, nehéz ide is erőszakolni, mikor egész-ít szavunk ég/egy gyökével egyezik ezen modern angol `eke` és elődei (lásd Eric Partridge Origins című könyvének 926.o.).  
+Kiegészít, kipótol (*eke out* igekötős frázisban általában). Azt mondani, hogy fokoz igénkből ered, nehéz ide is erőszakolni, mikor egész-ít szavunk ég/egy gyökével egyezik ezen modern angol `eke` és elődei (lásd Eric Partridge Origins című könyvének 926.o.).  
 
 [[F/Forrai Zoltán Tamás\|Forrai Zoltán Tamás]] egyszerűen csak az [[E/Eke\|eke]] szavunkat látja benne, az *eke out a living* (kihasítani egy megélhetést) idióma alapján. Tény, hogy a német `egge` = boronáló szó is eke szavunkból ered.  
 VK is említi Rend a szóhalmazban című dolgozatában e szót: üt (úgy) szavunkból eredűnek tartja.  
