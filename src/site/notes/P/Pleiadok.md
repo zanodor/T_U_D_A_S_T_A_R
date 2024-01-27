@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2023-12-04T01:17"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-01-25T12:47"}
 ---
 
 
@@ -136,7 +136,7 @@ Az Alcyone-nal kapcsolatos történet folytatható lehet azzal, hogy...
 > A vad törzsek éppúgy jól ismerték a Plejádokat, mint az ókori és modern civilizáció emberei; Ellis pedig a Társaság és a Tonga-szigetek bennszülöttjeiről írt, akik ezeket a csillagokat Matarii[^2], Kis Szemeknek nevezték:
 > Az év két évszakát a Plejádok osztották meg; az első, Matarii i nia, a Plejádok fent, akkor kezdődött, amikor este ezek a csillagok megjelentek a horizonton, és addig tartott, amíg napnyugta után fent voltak. A másik évszak, a Matarii i raro, a Plejádok lent, akkor kezdődött, amikor napnyugtakor megszűntek látszani, és addig tartott, amíg este ismét a horizont felett jelentek meg.  
 > Gill egy hasonló történetet közöl a Hervey-csoportból, ahol a Kis Szemek Matariki, és egy időben csak egyetlen csillag volt, amely olyan fényes, hogy istenük, Tane irigységében megragadta Aumeát, a mi Aldebaranunkat, és Mere, a mi Szíriuszunk kíséretében üldözőbe vette a támadót, aki egy patakba menekült. Mere azonban lecsapolta a vizet, Tane pedig Aumeát a szökevényre hajította, és hat darabra törte, amit most látunk, innen ered a szilánkok bennszülött neve, Tauono, a Hat, amelyet Flammarion Tau-ként idéz, mindkét elnevezés különös módon hasonlít a latin Taurusra.  
-- Ebben a szövegben hemzsegnek a magyar-rokon nevek. Szíriusz Mere neve [[M/MIR\|MIR]] etimonnal, Isten Tane neve [[T/TEN\|TEN]]-nel, Matariki neve Madárral, fentebb a raro szó [[R/Ráró\|ráró]]val (betéve) szépen összecsengenek. Ezen egyezések is sarkalltak arra, hogy [[C/Cook-szigetek\|Cook-szigetek]]ről szerepeljenek adatok és arra, hogy letöltsek egy maori-angol szótárat, valamint hogy a [[M/Maori\|maori]] csillagisméket is egy csokorba szedjem.  
+- Ebben a szövegben hemzsegnek a magyar-rokon nevek. Szíriusz Mere neve [[M/MIR\|MIR]] etimonnal, Isten Tane neve [[T/TEN\|TEN]]-nel, Matariki neve Madárral, fentebb a `raro` szó [[R/Ráró\|ráró]]val (betéve) szépen összecsengenek.  
 - A Hamlet Malmában is előjön Matariki neve:  
 > Ami a Makalii szót illeti (a maoriban Matariki, a mikronéziai és melanéziai nyelvjárásokban Maharika, s más efféle alakok), ez a Pleiadok (Fiastyúk) neve, bár gyakrabban találkozunk a "Makalii hálója" kifejezéssel (a helyes alak: Huihui-o-Matariki, azaz Matariki csomója v. fürtje. Makalii "személye", akié a háló, továbbá egy másik alak, akit okunk van a Hyádokkal (Méhkas v. Kikelet hírmondó) azonosítani, a sötétben marad.  
 
@@ -200,7 +200,7 @@ Ugyanez az araboknál, RHA könyvéből:
 
 ## Szófejtés
 
-RHA Star Names című könyvében előjön, hogy a Pleiadok nevét a görög `plein` = hajózni szóból kívánták levezetni. (Merthogy a Pleiadok májusi heliákus kelése a nyitotta meg és késő őszi lemente vetett véget a hajózásnak.) Mások szerint a `pleos` = teljes, teli lenne a név eredete. Végül is megengedi, hogy **Pleione** volt a görög mitológiában a hét lánytestvér anyja, és csak róla kapta nevét. (Persze akkor mit jelent Pleione?)  
+Richard H. Allen Star Names című könyvében előjön, hogy a Pleiadok nevét a görög `plein` = hajózni szóból kívánták levezetni. (Merthogy a Pleiadok májusi heliákus kelése a nyitotta meg és késő őszi lemente vetett véget a hajózásnak.) Mások szerint a `pleos` = teljes, teli lenne a név eredete. Végül is megengedi, hogy **Pleione** volt a görög mitológiában a hét lánytestvér anyja, és csak róla kapta nevét. (Persze akkor mit jelent Pleione?)  
 RHA folytatja:  
 > Some of the poets, among them Athenaeus, Hesiod, Pindar, and Simonides, likening the stars to Rock-pigeons flying from the Hunter Orion, wrote the word Πελειάδες, which, although perhaps done partly for metrical reasons, again shows the intimate connection in early legend of this group with a flock of birds.  
 > —  
