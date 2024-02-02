@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["formatted🟢"],"created":"2023-10-04T02:14","updated":"2023-10-04T02:48"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-02T02:30"}
 ---
 
 
 # Habiru
 
-
-
 Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|héber]]eket. Az interneten egy doktoriban talált info szerint:  
-> A 'termékeny félhold' országaiban a habiru szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
+> A 'termékeny félhold' országaiban a `habiru` szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
 
-[[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy Ever-től kezdve lehet habirukról beszélni.  
+[[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy **Ever**-től kezdve lehet habirukról beszélni.  
 ![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)  
-
 A cikket is ezen név említésével nyitja:  
-"Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
-A csak angol nyelven elérhetőnek mutatkozó cikkben azt írja még, hogy RG adatához kapcsolódva **Apiru** néven is hívták őket az egyiptomiak (falfeliratokon olvashatók) és abban az időben munkások voltak náluk (szolgasorban, ahogy divatos náluk mondani, majd említi a habiruk gyakorlatilag lopás általi terjeszkedésüket).  
-Ezután rátér a sumér forrásokra, amelyek a habirukat említik, majd asszír és újra egyiptomi kapcsolatokat mutat be. Nem tudom, hogy ezen rejtélyes, interneten sehol sem lekövethető Hargita Csaba írta-e a szöveget, vagy mástól származik, mindenesetre erősen a héberek magasabb rendűségét (továbbá a hykszoszok sémi jellegét) bemutatóan fogalmaz és a weboldala is a cigányok és a héberek kulturális tevékenységét mutatja be, nyilván a magyarság kárára. Jó lesz vigyázni vele, holott a Nevek titka című dolgozatában sok hasznos adatot mutatott be. (Nos, mint kiderül, egyes írásokban csak társszerző, de a másik nevet nem tudtam kideríteni.)  
+> "Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
+> —  
+> "Sém, 'Ever minden gyermekének atyja..." Bereshyit 10:21  
+
+A csak angol nyelven elérhetőnek mutatkozó cikkben azt írja még, hogy Robert Graves adatához kapcsolódva **Apiru** néven is hívták őket az egyiptomiak (falfeliratokon olvashatók) és abban az időben munkások voltak náluk (szolgasorban, ahogy divatos náluk mondani, majd említi a habiruk gyakorlatilag lopás általi terjeszkedésüket).  
+Ezután rátér a sumér forrásokra, amelyek a habirukat említik, majd asszír és újra egyiptomi kapcsolatokat mutat be. Nem tudom, hogy ezen rejtélyes, interneten sehol sem lekövethető Hargita Csaba írta-e a szöveget, vagy mástól származik, mindenesetre erősen a héberek magasabb rendűségét (továbbá a hikszoszok sémi jellegét) bemutatóan fogalmaz és a weboldala is a cigányok és a héberek kulturális tevékenységét mutatja be, nyilván a magyarság kárára. Jó lesz vigyázni vele, holott a Nevek titka című dolgozatában sok hasznos adatot mutatott be. (Nos, mint kiderül, egyes írásokban csak társszerző, de a másik nevet nem tudtam kideríteni.)  
 
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban azt írják, hogy [[A/Ábrahám\|Ábrahám]]ot az egyiptomiak egyértelműen \[a fentebbi apiru változataként számítható\] **apir**ként azonosították, de azt tudjuk, hogy az apir kifejezés nem egy jól meghatározott nemzetiséget jelölt, hanem sokkal inkább társadalmi helyzetet.  
 
@@ -37,38 +37,45 @@ Fáy Elek A magyarok őshona című könyvének 70. oldalán említi a [[H/Habur
 Fáy Elek A magyarok őshona című könyvének 114. oldalán a [[H/Habur\|Habur]] folyó (ami az Euphratesz mellékfolyója; Khaburnak is írják; Kabur írásmódja GYÁ részéről helytelen) mellé párosítja a zemplén-megyei Habura község- és pataknevet.  
 
 Szintén Fáy Elek A magyarok őshona című könyvének 70. oldalán említi a Habur folyó melléki sumér illetve szingarországi Magarisz város nevét, ahogy fentebb is szerepelt.  
-Namost a Habur/Habiru nevek kapcsán előjön alant a Szíriusz arab neve, **Al-Habur**, de Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. Kovács Sándor adatát, aki a Labat szótár segítségével kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum). \[Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum, Ősi Gyökér 1999. Másik cikkében Mahgar-nak írja.\]  
-Namost nem-e ezen Magarisz város az, amely az égre helyezve Magarként kiolvasott? Hiszen Magar, Magor, Magur a Solaris Nap neve és nem lehetne Szíriusz neve is. Hacsak nem arról van szó, hogy a [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél felfejtett téma nyomán vitetett át a név Szíriuszra, mert a téli napfordulón vele együttállás van:  
+Na most a Habur/Habiru nevek kapcsán előjön alant a Szíriusz arab neve, **Al-Habur**, de Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. Kovács Sándor adatát, aki a Labat szótár segítségével kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum). \[Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum, Ősi Gyökér 1999. Másik cikkében Mahgar-nak írja.\]  
+Na most nem-e ezen Magarisz város az, amely az égre helyezve Magarként kiolvasott? Hiszen Magar, Magor, Magur a Solaris Nap neve és nem lehetne Szíriusz neve is. Hacsak nem arról van szó, hogy a [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél felfejtett téma nyomán vitetett át a név Szíriuszra, mert a téli napfordulón vele együttállás van:  
 Valószínűleg, mivel több nyelvben a Bakban születő Nap neve révén a Bak neve lett és ilyenkor együttállás történik a Szíriusszal, az elnevezés még átment arra is. Vagy valamilyen kontextusbeli hiba van Kovácsnál is, mint Sitchinnél. Sajnos ha nincs meg a forrás, nehéz bármit mondani.  
 Másutt GYÁ Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
 Az ír kutyát jelentő madadh és madra szavakat ugyan [[M/Magyar\|magyar]]ral azonosítottam, mondván, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] között a kutyának is kell lennie.  
-Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékelnem a dolgokat (bár közben született egy [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] cím is).  
+Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékelnem a dolgokat (viszont közben született egy [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] cím is).  
 
 A helyzet az, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a [[H/Héber\|héber]]ek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a [[K/Kabar\|kabar]]ok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből.  
 Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum\|kentum]]os) kiejtése lehet.  
-Namost ezen Kabir viszont előjön az araboknál (láttam Quora választ ilyen kérdésben), mint Allah jelzője, mely Allah-hal kapcsolatosan pedig előjön a Szíriusszal azonosítás. Nem nehéz így belátni, hogy Kabir = Eb-Úr szintén.  { #d05agb}
+Na most ezen Kabir viszont előjön az araboknál (láttam Quora választ ilyen kérdésben), mint Allah jelzője, mely Allah-hal kapcsolatosan pedig előjön a Szíriusszal azonosítás. Nem nehéz így belátni, hogy Kabir = Eb-Úr szintén.  { #d05agb}
 
-
-Még kentum-szatem témában (is) érdekes, hogy a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szó (mely [[S/Szatem\|szatem]] változatának is tarthatjuk a francia savoir és a spanyol `saber` = ismer, tud szavakat) eredhet a [[H/Habur\|Habur]] Tejút(folyam) elnevezésétől, mint ahogy a mi [[T/Tud\|tud]] szavunk eredete is lehet Teut-Tejút (hacsak nem a [[K/KAP\|KAP]] (ismeretet) igénk áll egyszerűen mögötte, ahogy a latin `habere` mögött is).  
+- Még kentum-szatem témában (is) érdekes, hogy a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szó (mely [[S/Szatem\|szatem]] változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat) eredhet a [[H/Habur\|Habur]] Tejút(folyam) elnevezésétől, mint ahogy a mi [[T/Tud\|tud]] szavunk eredete is lehet Teut-Tejút (hacsak nem a [[K/KAP\|KAP]] (ismeretet) igénk áll egyszerűen mögötte, ahogy a latin `habere` mögött is).  
 
 Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója:  
-> The Khabur River (Arabic: الخابور al-khābūr, Kurdish: Xabûr, Syriac: ḥābur/khābur, Turkish: Habur, Ancient Greek: Χαβώρας or Ἀβόρρας or Ἀβούρας - Chaboras, Aborrhas, or Abura, Latin: Chabura) is the largest perennial tributary to the Euphrates in Syrian territory. Although the Khabur originates in Turkey, the karstic springs around Ra's al-'Ayn are the river's main source of water. Several important wadis join the Khabur north of Al-Hasakah, together creating what is known as the Khabur Triangle, or Upper Khabur area. From north to south, annual rainfall in the Khabur basin decreases from over 400 mm to less than 200 mm, making the river a vital water source for agriculture throughout history. The Khabur joins the Euphrates near the town of Busayrah.  
+> The Khabur River (Arabic: الخابور al-khābūr, Kurdish: Xabûr, Syriac: ḥābur/khābur, Turkish: Habur, Ancient Greek: Χαβώρας or Ἀβόρρας or Ἀβούρας – Chaboras, Aborrhas, or Abura, Latin: Chabura) is the largest perennial tributary to the Euphrates in Syrian territory. Although the Khabur originates in Turkey, the karstic springs around Ra's al-'Ayn are the river's main source of water. Several important wadis join the Khabur north of Al-Hasakah, together creating what is known as the Khabur Triangle, or Upper Khabur area. From north to south, annual rainfall in the Khabur basin decreases from over 400 mm to less than 200 mm, making the river a vital water source for agriculture throughout history. The Khabur joins the Euphrates near the town of Busayrah.  
+> —  
+> A Habur folyó (arabul: الخابور al-khābūr, kurdul: Xabűr, szír: ḥābur/khābur, török: Habur, ógörög: Χαβώρας vagy Ἀβόρρας vagy Ἀβούρας – Chaboras, Aborrhas vagy Abura, latinul: Chabura) az Eufrátesz legnagyobb évelő mellékfolyója Szíria területén. Bár a Habur Törökországban ered, a Ra's al-'Ayn környéki karsztforrások jelentik a folyó fő vízforrását. Al-Haszakától északra több fontos wadis csatlakozik a Khaburhoz, amelyek együttesen alkotják a Khabur-háromszög vagy Felső-Khabur területét. Északról dél felé haladva a Khabur medencéjében az éves csapadékmennyiség 400 mm-ről 200 mm alá csökken, így a folyó a történelem során a mezőgazdaság számára létfontosságú vízforrássá vált. A Khabur Busayrah városa közelében egyesül az Eufrátesszel.  
 
 [[U/Urshanabi\|Urshanabi]] címnél is említett adat szerint Hubur Mezopotámiában a Halál/Holtak folyama volt (mely ugyanúgy a Tejút, ahogy Styx is). A Wiki szerint is azonos a fentiekben taglalt folyóval:  
-> Hubur (ḪU.BUR, Hu-bur) is a Sumerian term meaning "river", "watercourse" or "netherworld." It is usually the "river of the netherworld."  
+> Hubur (`ḪU.BUR`, Hu-bur) is a Sumerian term meaning "river", "watercourse" or "netherworld." It is usually the "river of the netherworld."  
 > A connection to Tiamat has been suggested with parallels to her description as "Ummu-Hubur". Hubur is also referred to in the Enuma Elish as "mother sea Hubur, who fashions all things". The river Euphrates has been identified with Hubur as the source of fertility in Sumer.  
 > \[...\]  
 > Delitzch has suggested the similar Sumerian word Habur probably meant "mighty water source", "source of fertility" or the like.  
+> —  
+> Hubur (`ḪU.BUR`, Hu-bur) egy sumér kifejezés, amely "folyót", "vízfolyást" vagy "alvilágot" jelent. Általában az "alvilág folyója".  
+> Felvetődött a Tiamathoz való kapcsolódás az ő "Ummu-Hubur"-ként való leírásával való párhuzamossággal. Huburra az Enuma Elishben is úgy hivatkoznak, mint "anyatenger Hubur, aki mindent megformál". Az Eufrátesz folyót azonosították Huburral, mint a sumér termékenység forrásával.  
+> \[...\]  
+> Delitzch szerint a hasonló sumér Habur szó valószínűleg "hatalmas vízforrást", "termékenység forrását" vagy hasonlót jelentett.  
 - A Wiki oldal szerkesztői nem jönnek rá, hogy az Élet folyója a Halál folyója is egyben.  
-
 Azt jegyezzük meg egyébként, hogy az indo-európai nyelvcsaládba sorolt örmény nyelvben `hawaṙi` = víz kilóg a sorból[^3], talán mert Habúr eredetre megy vissza.  
 
-Namármost, a letöltött Sirius in Ancient Greek and Roman Literature című cikkben Al-Habur (másutt Al-Abur[^4]) előjön a [[S/Szíriusz\|Szíriusz]] arab neveként:  
+Na mármost, a Sirius in Ancient Greek and Roman Literature című cikkben Al-Habur (másutt Al-Abur[^4]) előjön a [[S/Szíriusz\|Szíriusz]] arab neveként:  
 > In Carmina Burana, based on the pastoral songs of the 13th century, the whiteness of Sirius is compared to that of ivory. Geoffrey Chaucer, in 1391, relates that the Arabians call Sirius Al-Habur, the beautiful white star.  
+> —  
+> A 13. századi pásztorénekeken alapuló Carmina Buranában a Szíriusz fehérségét az elefántcsonthoz hasonlítják. Geoffrey Chaucer 1391-ben arról számol be, hogy az arabok a Szíriuszt Al-Haburnak, a gyönyörű fehér csillagnak nevezik.  
 
-Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meglepő, hogy a folyó neve vitetett át a csillag nevére. Ami még itt érdekes, hogy az elefáncsont-fehérség is szóba jön. Márpedig az [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél előjövő latin ebur és kelta ebor és főleg Eb-Úr, és a [[S/Szíriusz\|Szíriusz]] címnél szereplő passzusnál említett [[A/Ábra\|ábra]] és [[O/Over\|over]] címnél előjövő szavak is hasonló alakúak mind. Közben lásd [[H/Hab\|hab]] cím alján szereplő adatokat is, új felfedezéssel.  
+Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meglepő, hogy a folyó neve vitetett át a csillag nevére. Ami még itt érdekes, hogy az elefáncsont-fehérség is szóba jön. Márpedig az [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél előjövő latin `ebur` és kelta `ebor` és főleg Eb-Úr, és a [[S/Szíriusz\|Szíriusz]] címnél szereplő passzusnál említett [[A/Ábra\|ábra]] és [[O/Over\|over]] címnél előjövő szavak is hasonló alakúak mind. Közben lásd [[H/Hab\|hab]] cím alján szereplő adatokat is, új felfedezéssel.  
 
-[[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél szerepelt J. Ellard Gore adata, kinek Astronomical Curiosities c. könyve letöltésre elérhető. Ebben levélben írja:  
+[[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél szerepelt J. Ellard Gore némi adata, kinek Astronomical Curiosities c. könyvében írja:  
 > The Proper Motion of Sirius.  
 > GENTLEMEN, —  
 > The Persian Astronomer, Abd-Al-Rahman Al-Sûfi, in his interesting 'Description of the Fixed Stars,' written in the 10th century, says with reference to Sirius, "The Arabians call the brilliant and great star which is in the mouth, al-schira al-abúr, Sirius which has passed across, also al-schira al-Jumanija, Sirius of Yémen. It is called al-abúr, because it has passed across the Milky Way into the Southern region." He then relates a mythological story of why Sirius "fled towards the south," and "passed across the Milky Way towards Suhail ([[C/Canopus\|Canopus]])." Now it seems to me a remarkable fact that the large proper motion of Sirius (about 1.31" in the direction of position-angle 204°) would have carried it across the Milky Way in a period of about 60,000 years.  
@@ -76,15 +83,32 @@ Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meg
 > With reference to [[P/Procyon\|Procyon]], Al-Sufi says that when Sirius "passed across the Milky Way" Procyon "remained in the region to the North-east of the Milky Way." This is also correct, for the proper motion of Procyon (1.25" on an angle of 214.5°) is very similar in direction and amount to that of Sirius, and 60,000 years ago it was in the constellation Cancer, not far from the star η Cancri.  
 > 60,000 years hence, Procyon will be near the star θ Canis Majoris, and will then, in its turn, have passed across the Milky Way.  
 > Yours faithfully, Dublin, 1903, Sept. 8. J. ELLARD GORE.  
-- Úgy tűnik, JEG hibát vét akkor, amikor egy arab igére és mesére alapoz. Hiszen az igékből nem szabad kiindulni. Az arab (vagy bármely) nyelv és szavai nem hitelesek, azért, mert a szent magyar nyelv lerontásai és az adott szavakhoz saját értelmet párosítanak. Ettől még kell őket vizsgálni.
+> —  
+> A Szíriusz sajátmozgása.  
+> Uraim,  
+> A perzsa csillagász, Abd-Al-Rahman Al-Sűfi, a 10. században írt érdekes "Az állócsillagok leírása" című művében a következőket írja a Szíriusszal kapcsolatban: "Az arabok a ragyogó és nagy csillagot, amely a szájban van, al-schira al-abúrnak, a Szíriusznak nevezik, amely átment, továbbá al-schira al-Jumanija, a Yémen Szíriuszának. Azért hívják al-abúrnak, mert átment a Tejúton a déli térségbe." Ezután egy mitológiai történetet mesél el arról, hogy a Szíriusz miért "menekült dél felé", és "miért haladt át a Tejúton a Szuhail ([[C/Canopus\|Canopus]]) felé". Nos, számomra figyelemre méltó ténynek tűnik, hogy a Szíriusz nagy sajátmozgása (kb. 1,31" a 204° pozíciószög irányában) mintegy 60 000 év alatt vitte volna át a Tejútrendszeren.  
+> Lehetséges, hogy az arab történet azon a hagyományon alapul, amely szerint a Szíriuszt a kőkorszak emberei a Tejút túlsó, vagyis keleti oldalán látták. Bárhogy is legyen, a Szíriusz sajátmozgásának mértékéből és irányából tudjuk, hogy a fent említett időszakon belül át kellett haladnia a Tejútrendszeren. Az arab al-abúr elnevezés tehát nem fantázianév, hanem egy tényleges tényt jelöl. A Szíriusz sajátmozgását a régiek nem ismerhették, mivel azt csak pontos modern mérésekkel sikerült feltárni.  
+> A [[P/Procyon\|Procyon]]ra utalva Al-Sufi azt mondja, hogy amikor a Szíriusz "áthaladt a Tejúton", a Procyon "a Tejúttól északkeletre eső területen maradt". Ez is helyes, mert a Procyon sajátmozgása (1,25" 214,5°-os szögre) nagyon hasonló irányú és nagyságú, mint a Szíriuszé, és 60 000 évvel ezelőtt a Rák csillagképben volt, nem messze az η Cancri csillagtól.  
+> 60 000 év múlva a Procyon a θ Canis Majoris csillag közelében lesz, és akkor a maga részéről már át fog haladni a Tejútrendszeren.  
+> Tisztelettel, Dublin, 1903, szeptember 8. J. ELLARD GORE.  
+- Úgy tűnik, JEG hibát vét akkor, amikor egy sémi igére és mesére alapoz. Hiszen az igékből nem szabad kiindulni. Látjuk, hogy a [[H/Héber\|héber]] nevet is egyszerűen egy átkelni igére vezetik vissza. Az arab (vagy bármely) nyelv és szavai nem hitelesek, azért, mert a szent magyar nyelv lerontásai és az adott szavakhoz saját értelmet párosítanak. Ettől még kell őket vizsgálni.
 
 Ugye itt a helyzet az, hogy sok helyen azt írtam mostanában, hogy a Szíriusz az [[O/Orion övcsillagai\|Orion övcsillagai]]hoz és a Tejúthoz (ténylegesen és mítoszok szintjén) annyira szervesen kapcsolódik, hogy nem szabadna változtassa a helyét (bármennyire is szerettem volna korábban). Igen ám, de ez lehet, hogy csak elmúlt 1-2 ezer évben látszik így, innen, a Halakból nézve. Hol az igazság?  
+
+#### Noah Brosch könyvéből tallózva:  
+
 > Gore[^5] (1903) based on one of the Arabic names of Sirius: al-schira al-abur ("Sirius which has passed across"). Gore linked this name with Al Sufi's mention of a mythological explanation that Sirius crossed the Milky Way in the direction of Canopus. This obviously happened during the Stone Age and, if correctly representing the human memory of an astronomical event, is truly amazing.  
 > 60,000 years ago Sirius was located on the eastern border of the Milky Way, whereas it is now located on its western border. This is the result of its proper motion, a combination of its orbit around the center of the Milky Way galaxy and of the similar motion of the Sun and Earth.  
+> —  
+> Gore[^5] (1903) a Szíriusz egyik arab neve alapján: al-schira al-abur ("Szíriusz, amely átment"). Gore összekapcsolta ezt a nevet azzal, hogy al-Szufi egy mitológiai magyarázatot említett, miszerint a Szíriusz a Canopus irányában keresztezte a Tejútrendszert. Ez nyilvánvalóan a kőkorszakban történt, és ha helyesen reprezentálja egy csillagászati esemény emberi emlékét, akkor valóban elképesztő.  
+> 60 000 évvel ezelőtt a Szíriusz a Tejútrendszer keleti határán helyezkedett el, míg most annak nyugati határán. Ez a sajátmozgásának eredménye, amely a Tejútrendszer galaxis középpontja körüli pályájának, valamint a Nap és a Föld hasonló mozgásának kombinációja.  
 
 Gore könyvében az eredeti szöveg így áll:  
 > According to Al-Sufi, the Arabians called Sirius al-schira al-abûr," Sirius which has passed across," also al-schira al Jamânija, "the Sirius of Yemen." He says it is called al-abûr, "because it has passed across the Milky Way into the southern region."  
 > He relates a mythological story why Sirius "fled towards the south" and passed across the Milky Way towards Suhail ([[C/Canopus\|Canopus]]). The same story is told by Albufaragius (thirteenth century). (The story was probably derived from Al-Sufi.)  
+> —  
+> Al-Sufi szerint az arabok a Szíriuszt al-schira al-abűr-nak, "Szíriusznak, amely átkelt", illetve al-schira al Jamânija, "jemeni Szíriusznak" nevezték. Azt mondja, azért hívják al-abúrnak, "mert átment a Tejúton a déli régióba".  
+> Elmond egy mitológiai történetet, hogy a Szíriusz miért "menekült dél felé", és miért haladt át a Tejúton a Szuhail ([[C/Canopus\|Canopus]]) felé. Ugyanezt a történetet meséli Albufaragius (XIII. század). (A történet valószínűleg Al-Sufitól származik).  
 
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban értesítenek, hogy a \[Habur-ral azonosnak vehető\] **Habor** név a Bibliában is szerepel:  
 > ʺHóséa uralkodásának kilencedik évében elfoglalta Asszíria királya Samáriát, Izráelt pedig fogságba hurcolta Asszíriába, és letelepítette őket Halahban és a Hábórnál, Gózán folyójánál, meg a médek városaibanʺ (2.Királyok 17:6.).  
@@ -96,13 +120,17 @@ Közben [[H/Héber\|héber]], [[E/Éber\|éber]] és [[I/Ibér\|ibér]] címnél
 [[A/Ábrahám\|Ábrahám]] eredeti Ábrám nevéről megállapíttatott, hogy akár Apa- vagy Eb-Uram olvasata lehet.  
 A magyar [[G/Gábor\|Gábor]] név egy az egyben megfelel a Habur alakjának és fogalmának, mint kiderül.  
 
+### Átkel akkor a Szíriusz a Tejúton vagy sem?
+
+Csillagászati szempontból, nem tudnám megmondani, de nyelvészeti és csillagmitológiai szempontból azt igen, hogy az átkelés [[P/Pészah\|Pészah]] és [[H/Héber\|héber]] címnél is a Napra vonatkozott. Ergo az arab beszámolók már konflációt tartalmaznak és a Tejút másik oldalára történő átkelés, áthaladás ágense a Szíriusz és nem a Nap, mely Földről nézett útján áthalad a Tejút sávján.  
+
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
 Robert Graves The White Goddess című könyvében azt írja, hogy az egyiptomiak voltak azok, akik habirunak hívták a hébereket.  
 
 [^2]: Lábjegyzet:  
-Sok őstörténész a zsidókat az ókori habiru néppel azonositja, ami feltehetőleg igaz is. \[Práczki István\]  
+Sok őstörténész a zsidókat az ókori habiru néppel azonosítja, ami feltehetőleg igaz is. \[Práczki István\]  
 
 [^3]: Lábjegyzet:  
 https://en.m.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%82ep-  
@@ -111,4 +139,4 @@ https://en.m.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%82ep
 William Tyler Olcott Star Lore of All Ages című könyvében **Al-Abur** formában jön elő.  
 
 [^5]: Lábjegyzet:  
-J. Ellard Gore – Astronomical Curiosities című könyve letöltésre elérhető. (Közben az ő anyaga is bekerült ide.)  
+J. Ellard Gore Astronomical Curiosities című könyve letöltésre elérhető. (Közben az ő anyaga is bekerült ide.)  
