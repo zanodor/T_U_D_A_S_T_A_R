@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T07:54","updated":"2023-11-02T04:39"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T07:54","updated":"2024-02-02T03:58"}
 ---
 
 
@@ -46,7 +46,7 @@ Babilonban Szíriusz neve MUL.KAK.SI.DI: a Hamlet Malma írói szerint, "aki meg
 > ![assets/Szirnyil_image3.jpeg](/img/user/S/assets/Szirnyil_image3.jpeg)  
 
 A [[T/Tír\|tír]] valóban nyíl ma is a perzsában (CzF a tör (vagy tőr?) szóhoz rokonítja).  
-A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódással, JM-től és Tilaktól származó passzussal kiegészítve lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]].  
+A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódással, Jankovics Marcelltől és Tilaktól származó passzussal kiegészítve lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]].  
 
 #### Gavin White Babylonian Star-Lore...
 
@@ -56,8 +56,8 @@ A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódássa
 > Pabilsag nyílvesszője a Nyíl csillagképpel azonosítható (helyesebben a Szíriusz csillaggal, amely a nyári napfordulót jelzi), skorpiófarkát pedig a Skorpió fullánkjával. A Pabilsag és [[N/Ninurta\|Ninurta]] közötti szoros rokonság hozzájárulhatott ezekhez a különleges azonosításokhoz, mivel mind a Nyíl, mind a Skorpió fullánkja szorosan kapcsolódik Ninurtához az asztrológiai hagyományokban.  
 
 Fentebb volt arról szó, hogy a brahmanista hinduknál is Szíriusz a Nyilazó/Vadász:  
-A hinduknál ismert Szíriuszra a Mrigavyadha = Szarvasölő elnevezés. RHA könyvéből az derül ki, hogy ő a vadász és a nyila magából a három övcsillagból tevődik ki, azaz a csillagképek teljesen máshogy voltak megformálva.  
-Másutt RHA azt írja, hogy a [[N/Nakshatra\|nakshatra]]-névként is szereplő Mrigaçiras (Szarvas Feje) volt még a hinduk neve Orion övére, a nyílra, valamint létezett egy Isus Trikāndā neve is.  
+A hinduknál ismert Szíriuszra a Mrigavyadha = Szarvasölő elnevezés. Richard H. Allen könyvéből az derül ki, hogy ő a vadász és a nyila magából a három övcsillagból tevődik ki, azaz a csillagképek teljesen máshogy voltak megformálva.  
+Másutt Richard H. Allen azt írja, hogy a [[N/Nakshatra\|nakshatra]]-névként is szereplő Mrigaçiras (Szarvas Feje) volt még a hinduk neve Orion övére, a nyílra, valamint létezett egy Isus Trikāndā neve is.  
 Minden továbbit erről, Tilak Orionját követve is lásd [[M/Mrigashira\|Mrigashira]].  
 
 #### Noah Brosch...
