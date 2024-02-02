@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["formatted🟢"],"created":"2023-10-21T03:58","updated":"2023-10-22T03:32"}
+{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2024-02-02T02:39"}
 ---
 
 
@@ -12,7 +12,7 @@
 > Mindenek előtt azonban ki kell emelnünk a következő egyezéseket:  
 > A magyarság hagyományában [[T/Toldi Miklós\|Toldi Miklós]] kedvese: **Magda**. (Láttuk, hogy Toldi Miklós azonos ősi Napistenünkkel.)  
 
-#### Bakos Attila A Duna Evangéliuma",
+#### Bakos Attila A Duna Evangéliuma
 
 ...című könyvének 248. oldalán olyanról tud, hogy Arany János ezt a Magdát idegen névnek tartva lecserélte Piroskára.  
 > A Bibliában a [[J/Jézus\|Jézus]]sal közelebbi kapcsolatba hozott leány neve (Magdalai Mária (Mária Magdaléna/Magdolna; lásd még róla [[M/Mária\|Mária]]), aki a hagyomány szerint így azért neveztetett mivel Magdala városából származott \[megjegyzés: a város neve sokszor sokszor csak "vezetéknévként" való magyarázat[^1]\]. Említettük, hogy Jézus is tulajdonképen Napisten, illetve *amennyiben létezett is*, de utóbb annyi ősi naphitrege alkalmaztatott rá, hogy e mondai anyag a történelmit teljesen elborította.  
@@ -55,9 +55,11 @@ Az ír `maighdean` és ónémet `magd`, `magda` szavakat lásd még [[M/Maid\|ma
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Olyan ez, mint hogy Helene apja Tynderaosz. Kiről PJI írja:  
+Olyan ez, mint hogy Helene apja Tynderaosz. Kiről Péterfai János írja:  
 Spárta királya Tündaraosz, a Tündér Király. Két lánya van, Tündér Ilona és Kültaimnésztár. Van még két fia is, akiket most hagyjunk. Tündaraosz neve egyértelműen magyar nyelvű. Tün-Da-Ra-O formában Tünde-Ember-Úr nevének jelentése. Kétségtelenül magyar nyelvű név. A király neve azt a magyar dinasztiát jelöli meg, amelyik Spártát alapította és uralta. A betörő dórok a királyi családot nem elpusztították, hanem magukénak tekintették. A dór invázióban ez a jelenség furcsa is lehet annak a történésznek, aki nem ismerte fel a dórok magyar bosszúálló jellegét. A dórok az akhájok elpusztítására indultak, bosszúhadjáratra.  
 
 [^2]: Lábjegyzet:  
 Sophia Menache Dogs, God's Worst Enemies című dolgozatában (melynek kivonatát lásd [[K/Kutyaellenesség\|kutyaellenesség]]) is írja:  
 Widows, for example, were urged to avoid keeping dogs so as to exclude any possibility of bestiality (Baba Metzia, 71 a), an injunction much later incorporated into the medieval code of Jewish Law, the Shulhan Aruch.  
+—  
+Az özvegyeket például felszólították, hogy kerüljék a kutyatartást, hogy kizárják a bestiális kapcsolat lehetőségét (Baba Metzia, 71a), és ez a felszólítás jóval később bekerült a középkori zsidó törvénykönyvbe, a Sulhán Aruchba.  
