@@ -1,20 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["formatted🟢"],"created":"2023-10-13T01:24","updated":"2023-10-13T01:24"}
+{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["Englishtexttranslated"],"created":"2023-10-13T01:24","updated":"2024-02-02T03:32"}
 ---
 
 
 # Naga
 
-
-
 #### Bakos Attila A Duna Evangéliuma...
 
-...című könyvének 169. oldalán írja hogy a [[F/Fa\|fa]] és a [[K/Kígyó\|kígyó]], valamint a [[K/Kereszt\|kereszt]] imádatának eredetét Indiában a Nagák terjesztették el. Jól látja, hogy a Naga a Nagy fogalmát jelenti:  
+...című könyvének 169. oldalán írja hogy a [[F/Fa\|fa]] és a [[K/Kígyó\|kígyó]], valamint a [[K/Kereszt\|kereszt]] imádatának eredetét Indiában a Nagák terjesztették el. Jól látja, hogy a Naga a [[N/Nagy\|Nagy]] fogalmát jelenti:  
 > A hét csakrát s egyben a hét bolygót szimbolizáló Naga-Sésa, azaz naga-magyarul a Nagy-Kígyó, innen ered a szanszkrit nyelv tudományos meghatározása a Déva-Nagari, vagyis jóval az indo-germánok indiai bevándorlása előtt keletkezett Isteni-Nagar, azaz mai nyelvünkön Magyar, az emberiség ősnyelve.  
 
 #### Péterfai János...
 
-...BA könyve megjelenése után írja:  
+...BA könyve megjelenése után írhatja:  
 > A Naga [[K/Kígyó\|kígyó]] neve a mai Nagy szavunk változata, továbbá a Nagák az egyik fontos ősi magyar nép. Na-Ga értelemben Nagy-Ház magyarul, ami az égboltra vonatkozik. A nagák szkythafélék, vagyis magyarok a csudaországból. A Nagák, mint tipikus magyar nép, nyugatról indultak útnak, és keleten messze Japánig jutottak. Japán egyik magyar törzse, akik betelepítették a nagy szigeteket.  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...
@@ -34,15 +32,16 @@ Arról másutt is volt szó, hogy a kígyó és a sárkány sokszor ugyanígy ke
 
 A Kígyó a Tejút, ami Út. Ezért lehet az arab `nahj` (názs) = út, ösvény.  
 
-DGW könyvében említi a ma is élő Naga néppel kapcsolatban, hogy a [[S/Szabir\|szabir]] népnevünkkel azonosuló Sabara néphez hasonlóan nagy tiszteletben tartják a kutyát és magukat is tőlük származtatják:  
+David Gordon White könyvében említi a ma is élő Naga néppel kapcsolatban, hogy a [[S/Szabir\|szabir]] népnevünkkel azonosuló Sabara néphez hasonlóan nagy tiszteletben tartják a kutyát és magukat is tőlük származtatják:  
 > The Sabaras are among the few indigenous peoples in India today for whom the dog plays an auspicious role. Pet dogs, whom they honor as brothers, are given burial rites by the Sabaras. The Ao Nâgas, another tribal group, also revere the dog, and are the sole people of the subcontinent to have a dog ancestry myth. One cannot discount the possibility that the orthodox association of these peoples with the dog had a certain ethnographic element.  
+> —  
+> A szabarák azon kevés őslakos népek közé tartoznak ma Indiában, akik számára a kutya szerencsehozó szerepet játszik. A szabarák temetési szertartást tartanak a házi kutyáknak, akiket testvérként tisztelnek. Az ao-nagák, egy másik törzsi csoport, szintén tiszteli a kutyát, és ők az egyetlen nép a szubkontinensen, amelynek van egy kutya-ősökről szóló mítosza. Nem zárható ki annak a lehetősége, hogy e népek kutyával való ortodox társításának volt egy bizonyos néprajzi eleme.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 169-171. oldalán mint az atlantiszi kultúra átmentőit tárgyalja a mayákat, naga-mayákat (amennyiben figyelembe veendő). A 183. oldalról a Rámáyana költemény naga-mayáit tárgyalja.  
 
 A szanszkrit `naga` = hegy jelentéséhez még jól passzol az óperzsa `nagan` = kenyér (hegy és kenyér jelentésű szavak mögött Napnevek állnak), melyből lett összehúzva a pahlavi/perzsa/ind `nân` = kenyér. De hol itt a Napnév? Nagy szabunk a Magy-Ar illetve a Na-Ga összetételből is levezethető. Folytatást lásd [[N/Nagy\|nagy]].  
 
 [[M/Magyar\|Magyar]] címnél, amikor a sémi `nahar` = folyó szóról (mely az arab Al Nahr = Tejút nevet is adja) volt szó, felvetődött bennem, hogy mivel az égi folyam égi kígyó, hogy a Naga név igenis lehet a Nagar (mely amúgy nemcsak a sémiben, hanem Indiában is ismert alak) és így a [[M/Magyar\|magyar]] névből származó.  
-Annál is inkább, mert létezett egy Magoraga nevű kígyóistenség m-előhangosan (a The Devine Serpent című írásból idézek):  
-> We find the serpent in Buddhism, including the Buddhist god, **Magoraga**, but the further Buddhism moved from its Hindu roots and the more philosophical it became the less room there was for any god, much less a serpent god.  
+Annál is inkább, mert létezett egy [[M/Magoraga\|Magoraga]] nevű kígyóistenség m-előhangosan.  
 
 Lásd még [[N/Nagar\|nagar]]. Lásd még [[N/Naga Vasuki\|Naga Vasuki]].  
