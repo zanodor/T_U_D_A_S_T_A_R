@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2023-11-23T12:19"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-02-02T03:25"}
 ---
 
 
 # Makara
 
-Lásd alant, [[M/Makara Sankrati\|Makara Sankrati]] címnél RHA könyvéből származó adatot, miszerint a Szarvas (antilop) csillagzatról van szó. (De jó lenne egy ind égtérkép.)  
+Lásd alant, [[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvéből származó adatot, miszerint a Szarvas (antilop) csillagzatról van szó. (De jó lenne egy ind égtérkép.)  
 Ennek megfelelően a csillagképről kapta a Makara szoláris hónap (a szintén mag-os [[M/Maghā\|Magha]] a hozzá tartozó holdhónap neve) a nevét: Makara a gregorián naptárunk január-februárjának felel meg.  
 
 #### John Major Jenkins Galactic Alignment...
@@ -28,7 +28,7 @@ A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvé
 Tilak Orionjában is volt szó szájról, de ott arról volt szó, hogy a nakshatrakban kimért év száját, vagy a nakshatrak száját hívták az év kezdőjének. Lehet, hogy lényegében egy és ugyanarról van szó, téli napfordulós évkezdésről (hogy ezt az évkezdést most még viszonyították első holdtöltéhez, vagy sem, most mindegy is). Lásd erről [[M/Makara Sankrati\|Makara Sankrati]].  
 A [[M/Magyar\|magyar]] címnél említett japán (sintoista ünnepekre értett) `matsuri` = ünnep szó is könnyen lehet, hogy évkezdő (akár téli napfordulós) ünnep neve volt eredetileg.  
 
-Iain Forbes a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet MA Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
+Iain Forbes a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
 Itt még csak annyit, hogy a mellékelt képen [[G/Ganga\|Ganga]] (Tejútistennő) "járműve" a Makara.  
 ![assets/Makara_image1.png](/img/user/M/assets/Makara_image1.png)  
 
@@ -43,7 +43,7 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában írja ((nyilván k
 Úgy tűnik, a Makara név a Bakban megszülető Nap (Makar, Magur) nevéről vítetett át az őt szülő szörny illetve tengeri lény nevére.  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a kakkab mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa (forrása alapján) megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).)  
-[[M/Makara Sankrati\|Makara Sankrati]] címnél RHA könyvében is történik utalás Brown adataira; lásd ott.  
+[[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvében is történik utalás Brown adataira; lásd ott.  
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkében ugyan ezen Magurt nem azonosítja a Bakkal, de Magur nevet említ, azaz kerülgeti a forró kását. Lásd adatait [[L/Labyrinth\|labyrinth]] (mely mint a Tejútanya méhe, szülőhelyére is rámutat Magur Napnak) és [[T/Téli napforduló\|téli napforduló]].
 
@@ -51,7 +51,7 @@ A közben talált [[M/Makardhwaja\|Makardhwaja]] név és a karakter születése
 
 Az év végi toldaléknapokra vonatkozó asszír-babiloni [[M/Magru\|magru]] = bajt hozó (ilyen jelentéssel adatolja VN) jelentésű szó nyilván a Magur formának változata és arra utal, hogy ezen napokat az év végére szokták tenni (de akár a balos, csálé, ökör és más eredete is lehetne a szónak).  
 
-A Constellations oldal szerzője, az RHA Star Names című könyvének adatait feldolgozó Anne Wright [ezen](https://www.constellationsofwords.com/nashira/) oldalon egy babiloni **Mahar** nevet hoz:  
+A Constellations oldal szerzője, az Richard H. Allen Star Names című könyvének adatait feldolgozó Anne Wright [ezen](https://www.constellationsofwords.com/nashira/) oldalon egy babiloni **Mahar** nevet hoz:  
 > Gamma (γ Nashira) marked the 27th Babylonian ecliptic asterism, Mahar sha hi-na Shahu, the Western One in the Tail of the Goat.  
 —  
 > Gamma (γ Nashira) jelölte a 27. babiloni ekliptikai csillagképet, Mahar sha hi-na Shahu-t, a Nyugatit a Kecskefarokban.  

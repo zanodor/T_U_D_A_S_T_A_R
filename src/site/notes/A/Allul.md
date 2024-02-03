@@ -1,23 +1,7 @@
 ---
-title: Allul
-aliases: []
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-11-12T02:46
-dg-updated: 2024-01-20T03:58
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2024-01-20
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/A/Allul.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/A/Allul.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/A/Allul.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/A/Allul.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/A/Allul.md
+{"dg-publish":true,"permalink":"/A/Allul/","title":"Allul","tags":["Englishtexttranslated"],"created":"2023-11-12T02:46","updated":"2024-02-02T01:22"}
 ---
+
 
 # Allul
 
@@ -27,7 +11,7 @@ A mellékelt ábra és szöveg...
 
 #### Gavin White Babylonian Star Lore...
 
-...című könyvéből származik. Legyen meg magyarul is:  
+...című könyvéből származik:  
 > In astrology texts the Crab is usually written 'Mul Al-lul'  
 > The Sumerian term has been borrowed into Akkadian as `alluttu` - a 'crab'. The plural form of the Akkadian name may have been used to designate 'tongs or pincers'.  
 > Although one source suggests that the Crab's name means 'the deceptive digger', it is, in truth, impossible to be certain. Its component elements are as follows:  
@@ -52,13 +36,10 @@ Ennek folytán okszerűnek tekinthető az alul szavunkra bökni, és az akkád `
 - Ez mai fejjel június 21, de mindenképpen a nyári napforduló. Ellenpárja a [[T/Turul\|Turul]], Vetráb szerint.  
 Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél írottakkal.  
 
-#### Gavin White Babylonian Star Lore...
-
-...című könyvének további adatai kerülnek bemutatásra:  
+Gavin White Babylonian Star Lore című könyvének további adatai kerülnek bemutatásra:  
 
 > THE SUMMER SOLSTICE PERIOD  
 >
-> ![assets/Allul_image2.png](/img/user/A/assets/Allul_image2.png)  
 > The next distinct group of symbols is made up from the constellations that rise during the summer. These stars mark the hot dry season, which, unlike the milder climes of Europe, is regarded as the time of death in Mesopotamia. At this time the lands are ravished by drought and plague, and even nature herself becomes barren – the life-giving rains have ceased and river levels decline, the harvest is finished and all vegetation dies back under the scorching summer sun.  
 > As the sun approached the peak of his powers, [[T/Tammuz\|Dumuzi]] had foreboding dreams of his own death. His premonitions came true at the summer solstice and his funeral rites were performed amidst wailings and lamentations in month 4, immediately after the solstice. As Dumuzi walked the path of the dead, he took the sorrows of the worlds with him to the land of the shades.  
 > Rituals dedicated to the dead also dominated month 5, which fell in late summer. At this time, when the veil between life and death was at its thinnest, the great Brazier festival was celebrated. This festival commemorated the ancestors, who were invited back to the world of the living for an annual feast in their descendant's homes. The rites involved lighting torches and braziers to guide the departed ghosts of the ancestors back from the darkness of the underworld. The stars rising around the time of the summer solstice are thus fittingly informed by images of death, war and travel between the worlds.  
@@ -72,10 +53,12 @@ Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél �
 >
 > The Lion has a number of inter-related themes woven into its symbolic nature. As king of the beasts he can naturally represent the king; as a ferocious predatory beast he can also symbolise war and death – the Lion's astrological omens mostly concern the vagaries of war and the occurrence of natural disasters such as famine; and as a seasonal symbol he represents the heat of high summer – his radiant mane being a simple metaphor for the overbearing rays of the summertime sun.  
 > The goddess of war is also portrayed among the summertime stars in the form of the Bow-constellation. Together with her sacred Lion, she marks the summer as the season of war, when campaigns commenced in the spring finally come to fruition. She grants glory and victory to her royal favourites who are represented in the heavens by the King Star, which stands at the Lion's breast.  
->
+> 
 > —  
+> 
 > A NYÁRI NAPFORDULÓS IDŐSZAK
->
+> 
+> ![assets/Allul_image2.png](/img/user/A/assets/Allul_image2.png)
 > A szimbólumok következő különálló csoportját a nyár folyamán felkelő csillagképek alkotják. Ezek a csillagok a forró, száraz évszakot jelölik, amelyet Mezopotámiában – ellentétben Európa enyhébb éghajlatával – a halál időszakának tekintenek. Ebben az időszakban a földeket aszály és járványok sújtják, és még maga a természet is meddővé válik – az életadó esőzések elmaradnak, a folyók vízszintje csökken, a termésnek vége, és a perzselő nyári nap alatt minden növényzet visszahal.  
 > Ahogy a nap közeledett hatalma csúcsához, [[T/Tammuz\|Dumuzi]] vészjósló álmokat látott saját haláláról. Előérzései a nyári napforduló idején valóra váltak, és a temetési szertartásokat jajgatás és siránkozás közepette a 4. hónapban, közvetlenül a napforduló után végezték el. Ahogy Dumuzi végigjárta a holtak útját, magával vitte a világok bánatát az árnyak földjére.  
 > A halottaknak szentelt szertartások uralták az 5. hónapot is, amely a nyár végére esett. Ebben az időszakban, amikor az élet és a halál közötti fátyol a legvékonyabb volt, ünnepelték a nagy brazíri fesztivált. Ez a fesztivál az ősökre emlékezett, akiket évente meghívtak az élők világába, hogy a leszármazottaik otthonában lakomát tartsanak. A szertartások során fáklyákat és parazsat gyújtottak, hogy az ősök eltávozott szellemeit visszavezessék az alvilág sötétségéből. A nyári napforduló idején felkelő csillagok így a halál, a háború és a világok közötti utazás képeihez illeszkednek.  
@@ -92,13 +75,11 @@ Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél �
 
 > THE CRAB  
 >
-> ![assets/Allul_image3.png](/img/user/A/assets/Allul_image3.png)  
 > The Crab is described in a 1st millennium astrology text as having a number of stars on its sides, and containing within its centre a group of stars that are 'pressed together' – these stars are none other than the open cluster known in Greek star-lore as the Manger or Beehive. Like the Greek figure of Cancer, its latter-day namesake, the Babylonian Crab is set astride the ecliptic with its claws pointing towards the Lion.  
 > Strangely enough there are no known depictions of a crab on any entitlement stones \[[[Kudurru\|kudurru]]s\], a circumstance that has led some commentators to suggest that it may be represented on these monuments by the figure of a turtle. This is, in fact, very plausible as the Crab's name can be written as Kušu, a 'water creature', which according to the lexicon can refer to a crab as well as a snapping turtle. The turtle gives every impression of being an important symbol on entitlement stones. It commonly occurs as an individual symbol, and is occasionally combined with the Goatfish. These two symbols, as well as the Ram-headed staff, which is also commonly found in combination with the Goatfish (see fig 69), are all attributed to the wise god Enki.  
 > As the Goatfish and Ram-headed staff undoubtedly represent Capricorn and Aries, it is therefore very likely that the turtle represents Cancer – the three symbols then have an added significance in that they each mark one of the equinoxes or solstices. In the era when the [[M/Mulapin\|MulApin]] was composed the Crab occupied the most northerly section of the ecliptic, where the sun, moon, and planets reached their most northerly positions. This fact probably informs its description in Mul-Apin where the constellation is called the 'seat of Anu'. The god Anu, who is literally the god of 'heaven', rules the highest and most remote of the three superimposed heavens found in Babylonian cosmology, it is thus fitting that he should rule the highest sector of the ecliptic. Perhaps for the same reason the special station of Jupiter, the 'king of the planets', is traditionally stationed between the Lion and the Crab, an association that has survived into modern times where his astrological exaltation is located in Cancer. As a creature of the waters, the Crab is used in astrological omens to predict the coming floods. The fundamentals of the scheme are expressed in binary form: 'If the stars of the Crab scintillate: high floods will come'. 'If the stars of the Crab are faint: high floods will not come'. This basic scheme is developed further in the Great Star List where the front stars of the Crab specifically represent the waters of the Tigris, and its rear stars are used to foretell the water levels of the Euphrates.  
 > The association of the Crab with rivers is so strong that the following omen is understood to refer to the Crab even though it isn't explicitly mentioned: 'If the moon is surrounded by a river: there will be great floods and cloudbursts' – the Crab stands in the halo of the moon. Reflecting the same symbolism, late astrology texts sometimes refer to the Crab simply as 'the Waters' (A-meš).  
->
-> ![assets/Allul_image4.png](/img/user/A/assets/Allul_image4.png)  
+> 
 > In Greek star-lore, the origins of the Crab as a celestial figure can be found among the Labours of Hercules. For his second Labour, Hercules is set the task of defeating the monstrous Hydra, a multiple-headed serpent that was terrorising the swamplands around the town of Lerna. At the height of the combat a gigantic crab emerged from the swamp to distract the hero by nipping his foot – but to no avail, as Heracles simply crushed the hapless creature underfoot. After his victory the goddess Hera reverently placed the crab into the heavens as Cancer. It has often been thought that this episode involving the crab was inserted into the Labours by an over zealous astrologer with the aim of assimilating the 12 Labours to the 12 signs of the zodiac. However, the various elements of this myth can all be found to have striking parallels in the mythology of the Mesopotamian god [[N/Ninurta\|Ninurta]]. His exploits against a series of fantastic monsters called the Slain Heroes are now widely thought to provide the inspiration for Hercules' Labours. Listed among the monsters which Ninurta defeated is a seven-headed dragon, which is an obvious prototype for the Greek Hydra; the illustration (fig 40) dating to the Early Dynastic period, shows an unnamed hero severing one of the dragon's heads. Hercules' encounter with the crab is directly paralleled by another episode in Ninurta's mythology where he battles with a turtle. The story tells how Ninurta coveted the powers and symbols of civilised life (called the [[M/ME\|ME]] in Sumerian) for his own selfish ends. But Enki, the wise god of the Abyss, divined Ninurta's selfish intent, and fashioned a turtle to battle with him. The adversaries, locked in mortal combat, fell into a pit where the turtle kept 'gnawing Ninurta's feet with his claws'.  
 >
 > Although it is well beyond the scope of this book to make a comparative study of Greek and Mesopotamian myths, one significant theme emerging from this material does deserve to be mentioned – in both sets of myths the crab or turtle is either newly created or newly placed into the stars – in other words the myths detail the actual creation of Cancer as a constellation. As I have argued elsewhere, the creation of many constellations is due in large measure to the long-term effects of [[P/Precesszió\|precession]]. This phenomenon slowly causes the stars to rise later and later in the calendar, thus necessitating the periodic creation of new constellations. As I hope to show in the final section, the Crab has actually inherited its principle symbolic traits from the much older figure of the Serpent.  
@@ -108,12 +89,13 @@ Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél �
 > —  
 >
 > A RÁK  
->
+> 
+> ![assets/Allul_image3.png](/img/user/A/assets/Allul_image3.png)  
 > A Rákot egy 1. évezredbeli asztrológiai szöveg úgy írja le, hogy oldalain számos csillag található, és a középpontjában egy "összepréselt" csillagcsoportot tartalmaz - ezek a csillagok nem mások, mint a görög csillagászatban Jászol vagy Méhkas néven ismert nyílt csillaghalmaz. A Rák görög alakjához, a mai névadójához hasonlóan a babiloni Rák is az ekliptikán helyezkedik el, karmai az Oroszlán felé mutatnak.  
 > Furcsa módon a [[K/Kudurru\|kudurru]] köveken nincs ismert rák ábrázolás, ami egyes kommentátorok szerint arra enged következtetni, hogy a rákot egy teknősbéka alakja ábrázolja ezeken az emlékműveken. Ez valójában nagyon is hihető, mivel a Rák neve Kušu, 'vízi lény' szóval írható, ami a lexikon szerint rákra és csattogó teknősre egyaránt utalhat. A teknős minden jel szerint fontos szimbólum a jogosultsági köveken. Általában önálló szimbólumként fordul elő, és alkalmanként a kecskehallal kombinálják. Ezt a két szimbólumot, valamint a kosfejű botot, amely szintén gyakran fordul elő a kecskehallal kombinálva (lásd a 69. ábrát), mind a bölcs Enki istennek tulajdonítják.  
 > Mivel a Kecskehal és a Kosfejű bot kétségtelenül a Bakot és a Kos-t jelképezi, ezért nagyon valószínű, hogy a teknős a Rákot - a három szimbólumnak további jelentősége van, mivel mindegyik a napéjegyenlőségek vagy napfordulók egyikét jelöli. Abban a korban, amikor a [[M/Mulapin\|MulApin]] keletkezett, a Rák az ekliptika legészakibb szakaszát foglalta el, ahol a Nap, a Hold és a bolygók a legészakibb helyzetüket érték el. Valószínűleg ez a tény határozza meg a Mul-Apinban található leírását, ahol a csillagképet "Anu székhelyének" nevezik. Anu isten, aki szó szerint az "ég" istene, a babiloni kozmológiában található három egymásra helyezett égbolt közül a legmagasabbat és legtávolabbiat uralja, ezért helyénvaló, hogy az ekliptika legmagasabb szektorát uralja. Talán ugyanezen okból a Jupiter, a "bolygók királya" különleges állomása hagyományosan az Oroszlán és a Rák között helyezkedik el, és ez a kapcsolat a modern időkben is fennmaradt, ahol asztrológiai kiemelkedése a Rákban található. Mivel a Rák a vizek teremtménye, az asztrológiai ómenekben a közelgő árvizek előrejelzésére használják. A séma alapjai bináris formában vannak kifejezve: "Ha a Rák csillagai szikráznak: nagy árvizek jönnek". "Ha a Rák csillagai halványak: nem jönnek nagy árvizek". Ezt az alapsémát továbbfejlesztik a Nagy Csillagjegyzékben, ahol a Rák első csillagai kifejezetten a Tigris vizét jelképezik, a hátsó csillagai pedig az Eufrátesz vízszintjét jelzik előre.  
 > A Ráknak a folyókkal való kapcsolata olyan erős, hogy a következő ómen a Rákra vonatkozik, még ha nem is említi kifejezetten: "Ha a Holdat folyó veszi körül: nagy áradások és felhőszakadások lesznek" - a Rák a Hold glóriájában áll. Ugyanezt a szimbolikát tükrözve a kései asztrológiai szövegek néha egyszerűen "a vizek" (A-meš) néven említik a Rákot.  
->
+> ![assets/Allul_image4.png](/img/user/A/assets/Allul_image4.png)
 > A görög csillagászatban a Rák mint égi alak eredete Herkules munkái között található. Második Munkája során Herkules azt a feladatot kapja, hogy legyőzze a szörnyűséges hidrát, egy többfejű kígyót, amely a Lerna városa körüli mocsárvidéket rettegésben tartotta. A harc csúcspontján egy óriási rák bukkant elő a mocsárból, hogy megzavarja a hőst azzal, hogy megharapdálja a lábát – de hiába, Héraklész egyszerűen szétzúzta a szerencsétlen teremtményt a lába alatt. Győzelme után Héra istennő tiszteletteljesen az égbe helyezte a rákot, mint Rákot. Gyakran gondolják, hogy ezt a rákos epizódot egy túlbuzgó asztrológus illesztette be a Munkák könyvébe azzal a céllal, hogy a 12 Munkát a 12 állatövi jegyhez hasonlítsa. E mítosz különböző elemei azonban mind feltűnő párhuzamot mutatnak a mezopotámiai [[N/Ninurta\|Ninurta]] isten mitológiájában. Az ő hőstettei egy sor fantasztikus szörnyeteggel szemben, amelyeket a Megölt Hősöknek neveznek, ma már széles körben úgy tartják, hogy ezek adták az ihletet Herkules Munkáihoz. A Ninurta által legyőzött szörnyek között szerepel egy hétfejű sárkány, amely nyilvánvalóan a görög hidra prototípusa; a kora dinasztikus korból származó illusztráció (40. ábra) egy meg nem nevezett hőst ábrázol, amint levágja a sárkány egyik fejét. Herkules találkozása a rákkal közvetlenül párhuzamba állítható Ninurta mitológiájának egy másik epizódjával, amelyben egy teknőssel küzd meg. A történet arról szól, hogy Ninurta saját önző céljai érdekében megkívánta a civilizált élet hatalmát és szimbólumait (amelyeket sumérul [[M/ME\|ME]]-nek neveztek). Enki, a mélység bölcs istene azonban megsejtette Ninurta önző szándékát, és egy teknőst formált, hogy harcoljon vele. Az ellenfelek halálos harcba keveredve egy gödörbe zuhantak, ahol a teknős folyamatosan "karmaival Ninurta lábát rágta".  
 >
 > Bár a görög és mezopotámiai mítoszok összehasonlító tanulmányozása meghaladja e könyv kereteit, egy jelentős téma, amely ebből az anyagból kirajzolódik, mégis említést érdemel – mindkét mítoszban a rák vagy teknős vagy újonnan jön létre, vagy újonnan kerül a csillagok közé – más szóval a mítoszok részletezik a Rák mint csillagkép tényleges teremtését. Amint máshol már kifejtettem, más csillagképek létrejötte nagymértékben a [[P/Precesszió\|precesszió]] hosszú távú hatásainak köszönhető. E jelenség hatására a csillagok lassan egyre később kelnek fel a naptárban, ami új csillagképek időszakos létrehozását teszi szükségessé. Amint remélem, az utolsó szakaszban be tudom mutatni, a Rák valójában a sokkal régebbi Kígyó alakjától örökölte alapvető szimbolikus vonásait.  
@@ -122,4 +104,4 @@ Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél �
 
 Gavin White könyvének interneten elérhető kivonataiban tallózva az előző jegy a (Nagy) Ikrek [[M/Mastabbagalgal\|Mastabbagalgal]], a következő jegy pedig az Oroszlán [[U/Urgula\|Urgula]].  
 
-A fenti szövegben szerepel, hogy későbbi csillagászati szövegekben a Rák jegy neve A-MES (Vizek), melyre úgy asszociál GW, hogy értelme egybevág az azt megelőző sorokkal. Igen ám, de [[M/MES\|MES]]-nek egész más jelentéseit (is) ismerjük. Továbbá a Ráknak utalni kell [[H/Holtpont\|holtpont]]ra. Lásd PZ írását [[R/Rák csillagkép\|Rák csillagkép]].  
+A fenti szövegben szerepel, hogy későbbi csillagászati szövegekben a Rák jegy neve A-MES (Vizek), melyre úgy asszociál GW, hogy értelme egybevág az azt megelőző sorokkal. Igen ám, de [[M/MES\|MES]]-nek egész más jelentéseit (is) ismerjük. Továbbá a Ráknak utalni kell [[H/Holtpont\|holtpont]]ra. Lásd Paksi Zoltán írását [[R/Rák csillagkép\|Rák csillagkép]].  

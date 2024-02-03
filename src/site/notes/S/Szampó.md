@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","tags":["formatted🟢"],"created":"2023-10-10T03:42","updated":"2023-10-10T03:42"}
+{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","created":"2023-10-10T03:42","updated":"2024-02-02T03:45"}
 ---
 
 
 # Szampó
-
-
 
 Több helyen ([[K/Kampó\|kampó]], [[K/Komp\|komp]], [[C/Comb\|comb]], [[J/Jump\|jump]], [[H/Hamlet malma\|Hamlet malma]], [[P/Precesszió\|precesszió]] és legutóbb [[D/Daru\|daru]] címnél) volt róla szó.  
 A mellékelt képhez hasonlóak MA jóvoltából előjöttek [[M/Mestergerenda\|mestergerenda]] és [[M/Motolla\|motolla]] címnél.  
@@ -23,4 +21,4 @@ Hogy a japán `szanpo` = sétál, jár szó tartható-e a fentiekhez, nem tudni.
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Ki sokatmondóan kőszálon himbálódzott(!). Vigyázat viszont, mert Páz külön Isten jelentéssel adatolt. Igaz, akkor az meg honnan ered? Besenyő szócsoportbeli, ahogy MA mondaná? Ebből a névből alakult lehet a VZs által adatolt vogul `pasis` = fényes, derült szó is. (Vesd össze a szanszkrit fényes, nappal jelentésű gyököt az Isten Div nevével.)  
+Ki sokatmondóan kőszálon himbálódzott(!). Vigyázat viszont, mert Páz külön Isten jelentéssel adatolt. Igaz, akkor az meg honnan ered? Besenyő szócsoportbeli, ahogy MA mondaná? Ebből a névből alakult lehet a Varga Zsigmond által adatolt vogul `pasis` = fényes, derült szó is. (Vesd össze a szanszkrit fényes, nappal jelentésű gyököt az Isten Div nevével.)  

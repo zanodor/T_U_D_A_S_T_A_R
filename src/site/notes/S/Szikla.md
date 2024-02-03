@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2023-11-02T04:39"}
+{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2024-02-02T03:47"}
 ---
 
 
@@ -21,7 +21,7 @@ A [[K/Kufu\|Kufu]] piramis is lényegében egy ilyen szikla, csak sokkal "többe
 
 Amiről viszont nem szó, hogy a szikla hegy-alakját tekintve utalhat a nyári napfordulós kulminációs pontra, melyről [[S/Sacchar-\|sacchar-]] címnél is volt szó. Lám, az ott említett tamil `szigaram` = hegycsúcs szóban (szikaram-ként írják de inkább g-sen ejtik; az -am a végéről megint csak lenyisszandó) szóban is ezt a szóformát látjuk.  
 
-De ha már napforduló szóba került, Szik-La lehetne még a [[C/Charybdis\|Charybdis]] címnél talált info szerint, PJI adata szerint **Szűk-La olvasat**tal akár, itt már a téli napfordulós Nyilasban tartózkodó Nap helyére, a Tejútra/Tejútfaistennőre utaló is (annál is inkább mert ...
+De ha már napforduló szóba került, Szik-La lehetne még a [[C/Charybdis\|Charybdis]] címnél talált info szerint, Péterfai János adata szerint **Szűk-La olvasat**tal akár, itt már a téli napfordulós Nyilasban tartózkodó Nap helyére, a Tejútra/Tejútfaistennőre utaló is (annál is inkább mert ...
 
 John Major Jenkins Galactic Alignment című könyvének 158. oldalán az alant előjövő [[S/Szümplegádok\|szümplegádok]]at Coomaraswamy adatát követve északi kapura vonatkozó helyre értve hozza (annak mondjuk a másutt általa is délinek mondott Nyilasban kell lennie).  
 
@@ -46,7 +46,7 @@ Jankovics Marcell A Nap könyve című könyvének szól a gnomónokról.
 > Nemcsak kőszirt, hanem élőfa is lehetett természet adta gnómon. A fák a "nézők" sok-sok nemzedékét kiszolgálhatják, bár nem halhatatlanok, s hogy fontos szerepet játszhattak a csillagászati mérésekben, arra a [[F/Fa\|fa]] és a Nap (valamint a többi égitest) szoros és eleven hiedelmi kapcsolatából következtethetünk. Fa tövén kelő, fa ágai közt lebegő Nap képével minden műveltségben találkozunk. Megtaláljuk szibériai sámándobon (27. rajz), japán selyemfestményen, kínai írásjelen, egyiptomi bronzedényen, mexikói kódex-miniatúrán, a keresztény művészetben, a népművészetben, egyszóval mindenütt. Százszámra idézhetnénk a fa-Nap kapcsolat szöveges példáit.  
 - Lásd ezeket A fa mitológiájából kimásolva [[F/Fa\|fa]], [[F/Fa és nő\|fa és nő]], [[N/Nut\|Nut]] és [[T/Tejút\|Tejút]].  
 
-Ami még JM-től ide tehető:  
+Ami még Jankovics Marcelltől ide tehető:  
 > Az ún. szümplegád-motívum minden nép mitikus-mesei hagyományában föllelhető, és lényegében mindenütt ugyanazt is szimbolizálja: a halál és az (újjá)születés terein való áthaladás nehézségeit, aminek minden, ami "él": a kozmikus "élőlények", így a Nap is ki van téve. A példa ezért azt is kifejezi, hogy az ősműveltség, rétegzettségében jelentésének gazdagságában is kiterjedtebb, mint az egzaktságra törekvő újabb kori gondolkodás. A szümplegádok a vándorló hős (lélek, ős, Nap) útjában álló, nyíló-csukódó sziklák, amelyeken egyebek mellett az égen a Tejút ágait értették, a földön a nő férfit átkapcsoló, születő gyermekének utat engedő combjait, s amelyeket az eszkimó a kajakját összeroppantó jégtáblákhoz hasonlít, a görög Argó-mítosz a Boszporusz szikláinak nevez, a magyar és török népmesékben vagy mint egy óriás állkapocs alsó és felső fogsora vagy hegymélyi kincseskamra nyíló-csukódó ajtaja szerepel. Szibériai népek a vasból szőtt égsátor föl- s lebillenő szegélyeként emlegetik, vagy az átkelőhelyen bunkójával csapkodó vak emberként írják le, akit látó, de kezetlen társa irányít. És tudták is, miről beszélnek: a szümplegádokat az ógörög szerző, KALLIMAKHOSZ (az ég) ,"sötétkék szikláinak", az ausztrál őslakók a "Tejút tüzes, legördülő szikláinak" nevezik.  
 
 A James Frazer The Golden Bough című könyvében előjövő bennszülött ausztrál gyakorlat is ilyen példának hozható fel:  

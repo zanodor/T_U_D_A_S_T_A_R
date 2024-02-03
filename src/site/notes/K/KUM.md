@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T04:40","updated":"2023-12-04T01:16"}
+{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["Englishtexttranslated"],"created":"2023-11-09T04:40","updated":"2024-02-02T03:14"}
 ---
 
 
 # KUM
 
-A [[K/KUN\|KUN]] Napnév és a [[H/HUM\|HUM]] variánsa. A szamojéd `kum` (Nap)Ember. (MA-nál az áll, hogy a vogul nyelvben is `hum` = ember, férfi[^1].)  
+A [[K/KUN\|KUN]] Napnév és a [[H/HUM\|HUM]] variánsa. A szamojéd `kum` (Nap)Ember. (Magyar Adorjánnál az áll, hogy a vogul nyelvben is `hum` = ember, férfi[^1].)  
 A zürjének önelnevezése, a [[K/Komi\|komi]] is ilyen név lehet, de a [[H/Hun\|hun]] szóval is rokonítható. Sőt, maga a [[H/Hun\|hun]] minden nép atyja vagy valamilyen rokona. Valójában [[H/Hun\|hun]] címnél írottak alapján a Tejút fényhonából érkező (Menny Fia) embert jelenti. A [[K/Koma\|koma]] is ilyen alakú szó.  
 Jegyezzük meg azt is (erről [[S/Szamojéd\|szamojéd]] és [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél is muszáj volt szólnunk), hogy az [alábbi](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/gum%C3%B4) oldalon taglalt, latin `homo` = ember szó párjaként készített proto-germán \*gumô eredettel megjelölt óangol `guma` is ilyen alakú szó (ahogy [ezen](https://www.wordsense.eu/human/) oldalon is írják, ezt váltotta fel aztán a [[H/Human\|human]]).  
 
 A törököknél a Kum a [[H/Homok\|homok]]sivatag neve.  
-Előjön Kum (Hum) RHA Star Names című könyvében, a [[V/Vízöntő csillagkép\|Vízöntő csillagkép]] régi neveit vizsgálva:  
+Előjön Kum (Hum) Richard H. Allen Star Names című könyvében, a [[V/Vízöntő csillagkép\|Vízöntő csillagkép]] régi neveit vizsgálva:  
 #### Richard H. Allen írja:
 
 > On the Ganges, as in China, **Acquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba \[[[Humbaba\|[Humbaba]]?\], which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  

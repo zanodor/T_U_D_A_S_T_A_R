@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2023-11-02T03:44"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2024-02-02T03:49"}
 ---
 
 
@@ -24,9 +24,9 @@ Ahogy [[J/Jász#Jászok zsidó vallása – jazidi vallás\|jászok zsidó vall�
 ...című az Ősi Gyökér 2008/3-4. sz. megjelent cikkének alábbi sorai talán segítenek megmagyarázni miről lehet szó:  
 > A múlt században a szintén iráni médektől származó kurdoknak, még két kasztjáról lehetett tudni: asszíret (jassziret) és jezide akik állattenyésztők, valamint a guránok akik meg földművelők voltak, és mintha megint csak a jász és agarenus népnevek állnának elénk, sőt az ősi felfogás beszédessége által, foglalkozási ágakról szólnak. Vallási szektájuk: a természet-imádó kizilbas, és az **ármány-imádó jezidak**, írja a Révay Lexikon. Tudunk **az anyavallást megtartó turáni hunokra szintén rámondva volt a sátán-imádó címké**ről, ebben is egyeznek a jezidákkal[^1].  
 
-Szutek lehetséges, hogy Napisten (Nap az Orionban?) (ezzel [[S/Széth\|Széth]]-nek valóban meg is felelne), és ha a [[S/Sötét félév\|sötét félév]]re utal, akkor méginkább. ([[Z/Zsidó\|Zsidó]] címnél is kitértünk erre.)  
+Szutek lehetséges, hogy Napisten (Nap az Orionban?) (ezzel [[S/Széth\|Széth]]-nek valóban meg is felelne), és ha a [[S/Sötét oldal\|sötét félév]]re utal, akkor méginkább. ([[Z/Zsidó\|Zsidó]] címnél is kitértünk erre.)  
 
-Korábban is írtam már itt arról, hogy Práczki István gondolata, hogy [[G/Gárdonyi Géza\|Gárdonyi Géza]] Láthatatlan emberének főszereplője "Zéta, a Szittya" volt, aki a hunok istene volt. Szutek és Széth valóban ismert istenek voltak. Lehetséges, hogy Szutek valójában [[S/Szutyok\|szutyok]] értelmű? A [[S/Süt\|süt]] ellenpárja? Akárhogy is nézzük, a [[S/Sötét félév\|sötét félév]]re utaló név.
+Korábban is írtam már itt arról, hogy Práczki István gondolata, hogy [[G/Gárdonyi Géza\|Gárdonyi Géza]] Láthatatlan emberének főszereplője "Zéta, a Szittya" volt, aki a hunok istene volt. Szutek és Széth valóban ismert istenek voltak. Lehetséges, hogy Szutek valójában [[S/Szutyok\|szutyok]] értelmű? A [[S/Süt\|süt]] ellenpárja? Akárhogy is nézzük, a [[S/Sötét oldal\|sötét félév]]re utaló név.
 
 Csodaszarvasában MA is Napistent ír és természetesen süt szavunkat veszi alapul:  
 > [[S/Süt\|Süt]] szavunk a [[T/Tűz\|tűz]] szavunknak csak megfordított kiejtése lévén (az egytagú szavak megfordítása ősnyelvünkben pontosan meghatározható törvények szerint igazodott, de ami ismertetése nem tartozik ide) és az **egyiptomi Szutek Napisten** nevével valamint a mai árja nyelvek szüd, szud = dél (világtájra vonatkozólag) szavával így egyezvén, ez velünk azt sejteti, hogy csoda vagy [[C/Csuda\|csuda]] szavunknak eredetileg fényesség, ragyogás értelme kellett hogy legyen.  
@@ -52,7 +52,7 @@ A hikszoszok bizonyos ([[S/Széth\|Széth]]tel azonosított) Sutekh (Süt-Ég, S
 > —  
 > Bár Szetet eredetileg Ré és az egyiptomi királyok fiának és védelmezőjének tekintették, az emberek körében az Ozirisz-kultusz térhódításával párhuzamosan megítélése is romlott. Az eredetileg vegetációs isten, Ozirisz az egyiptomi panteon egyik kiemelkedő istene lett. Az ő imádata a megtestesült erőszak szerepét hangsúlyozta: Szet a testvére gyilkosa és trónbitorlója volt, aki ahelyett, hogy Hórusz mellett állt volna, örök ellensége lett. Ez a Szet-kép a második köztes korszakban erősödött meg, amikor Egyiptomot megszállták a nyugat-ázsiai hükszoszok, akiknek istenét, **Sutekh-et azonosították Szettel**.  
 
-The Greeks equated Set or Sutekh with the monster [[T/Typhon\|Typhon]], írja még a Wiki, ami visszavezet a [[H/Hykszosz\|hykszosz]] címnél PJI által írottakhoz.  
+The Greeks equated Set or Sutekh with the monster [[T/Typhon\|Typhon]], írja még a Wiki, ami visszavezet a [[H/Hykszosz\|hykszosz]] címnél Péterfai János által írottakhoz.  
 
 ## Szutek másnevei
 

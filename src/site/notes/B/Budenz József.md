@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/B/Budenz József/","title":"Budenz József","tags":["formatted🟢"],"created":"2023-10-13T12:39","updated":"2023-10-13T12:39"}
+{"dg-publish":true,"permalink":"/B/Budenz József/","title":"Budenz József","created":"2023-10-13T12:39","updated":"2024-02-02T01:35"}
 ---
 
 
 # Budenz József
-
-
 
 "Az összehasonlító finnugor nyelvtudomány atyja"-ról [ezen](https://m.nyest.hu/hirek/a-magyarorszagi-finnugrisztika-megalapozoja-budenz-jozsef-175-eve-szuletett) Nyest cikkben emlékeznek meg.  
 
@@ -16,10 +14,10 @@ Ellenben a 37. fal ~ fél, oldal és 38. fene ~ kutya azért érdekesek, mert mi
 
 Alkalomadtán ezeket majd Budenztől (Magyar-Ugor Összehasonlító Szótár) meg lehet nézni, az ugor `pene` = kutya szóval és egyáltalán a kutyával kapcsolatos témák mindig érdekesek.  
 
-Az 50-es, domb ~ sziget megint stimmel, több nyelv alapján is. GL ezekről nem tudott.  
+Az 50-es, domb ~ sziget megint stimmel, több nyelv alapján is. Götz László ezekről nem tudott.  
 A 60-as, ember ~ "lég gyermeke" valójában stimmel, a lélek szintjén, ahogy a [[M/Man\|man]] is egyeztethető [[M/Men\|men]]-nel.  
 
-GL abban sem látott logikát, hogy az [[A/Átok\|átok]] hogy lehet az [[A/Áld\|áld]] szóval kapcsolatba hozható (itt viszont nemcsak Budenzet látta ludasnak, hanem a TeSz megokolását sem tudta mire vélni).  
+Götz László abban sem látott logikát, hogy az [[A/Átok\|átok]] hogy lehet az [[A/Áld\|áld]] szóval kapcsolatba hozható (itt viszont nemcsak Budenzet látta ludasnak, hanem a TeSz megokolását sem tudta mire vélni).  
 
 #### Götz László Keleten kél a Nap...
 

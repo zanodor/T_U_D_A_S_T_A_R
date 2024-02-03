@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","tags":["formatted🟢"],"created":"2023-10-03T11:35","updated":"2023-10-03T11:38"}
+{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","created":"2023-10-03T11:35","updated":"2024-02-01T11:14"}
 ---
 
 
 # Atum
-
-
 
 Nem összekeverendő [[A/Aton\|Aton]]nal.  
 
@@ -34,7 +32,7 @@ Nem összekeverendő [[A/Aton\|Aton]]nal.
 
 Hogy a kétnemű Atum, a Napisten [[R/RÁ\|RÁ]]/[[R/RÉ\|RÉ]] mellett [[P/Ptah\|Ptah]] ki lehet, hát akkor legyen az Atya-Isten Orion.  
 
-DGW Myths of the Dog-Man című könyvének adata szerint az egyiptomi Halottak Könyve [[K/Kutyafejű\|kutyafejű]] démonnak írja le Atumot. Nos, [[S/Szíriusz\|Szíriusz]] valóban [[A/Androgün\|androgün]] azzal, hogy [[S/Széth\|Széth]] és [[S/Satet\|Satet]] is lehet, de még sok más egyiptomi páros ráhúzható.  
+David Gordon White Myths of the Dog-Man című könyvének adata szerint az egyiptomi Halottak Könyve [[K/Kutyafejű\|kutyafejű]] démonnak írja le Atumot. Nos, [[S/Szíriusz\|Szíriusz]] valóban [[A/Androgün\|androgün]] azzal, hogy [[S/Széth\|Széth]] és [[S/Satet\|Satet]] is lehet, de még sok más egyiptomi páros ráhúzható.  
 
 Fontos passzus a Hamlet Malma c. könyvből arra vonatkozóan, miképpen válik rosszá, gonosszá, bűnössé, üldözötté az előző kor:  
 > Ami **Atum**ot illeti, ő úgyszólván megelőzi az isteni hierarchiát. Bár csak metafizikai stílusban leírva, ő az a rejtélyes entitás, melyből az Egész sarjadt: lehetne a neve Kezdet-és-Vég \[[[SZAT\|[SZAT]]-nak is ez a jelentése\]. Ilymódon ő a Jelenlét és a titkos Terv, melyet szívesen azonosítanánk magával a csillagos éggel. Az ő rendelése bizonyára maga a változatlan tökély. De most úgy tűnik, vannak erők, melyek titokban gonoszságot (jogtalanságot) műveltek. Ezek az erők mindenütt megjelennek, és rendszerint megkapják az, "erőszakos (hatalmaskodó)" vagy "gonosz (igazságtalan)" jelzőt, vagy mindkettőt. De ezek az "erők" nem gonoszak kezdettől fogva: csak az idők folyamán derül ki róluk, hogy gonoszak, illetve azzá válnak. Csak az Idő változtatja a titánokat, az Aranykor hajdani urait "gonoszságok művelőivé" (vö. 2. függelék). A kijelölt vagy beleértett mérték képzete mutatja meg e "vétkezők" alapvető bűnét: az elrendelt fok túlszárnyalásáról, túl-lépéséről van szó, és ez betű szerint értendő.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-31T11:12","updated":"2023-11-02T03:43"}
+{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-31T11:12","updated":"2024-02-02T03:48"}
 ---
 
 
@@ -62,7 +62,7 @@ A Kus-Kos nyilas témát itt még nem fejeztük be, ugyanis [ezen alábbi](https
 
 Dobos Csanád az [alábbi](https://magyarmegmaradasert.hu/kozerdeku/olvasoink-irjak/item/4754-z) cikkben szintén foglalkozik a szivárvánnyal de nem tekint túl rajta (nem gondol félrefordításra).  
 
-A PJI által említett Kasszita[^1] nem lehet más, mint a [[B/Banana\|banana]], [[N/Nyilas csillagkép\|Nyilas csillagkép]] és [[K/KUS\|KUS]] címnél is előjövő bibliai-héber `qĕšĕt` szó, mely a [[Z/Zsidó zodiákus\|zsidó zodiákus]] címnél a-hangosan, **Kasshat**-ként (Nyilas) kerül elő, csakhogy a [[K/Khamor\|Khamor]] címnél taglalt akkád **Kumaru** és a [[S/Szkíta\|szkíta]] címnélt taglalt (Sagittarius-Nyilassal szemben lévő) [[I/Íj csillagkép\|Íj csillagkép]] témái alapján elvileg ez a név a másik, szemközti Nyilazó neve is lehet, tekintve, a hogy a Kasszita kapcsán is taglalt Kazár, Kattar nevek, ahogy [[K/Kazár\|kazár]] címnél taglaljuk, Orionra utalnak.  
+A Péterfai János által említett Kasszita[^1] nem lehet más, mint a [[B/Banana\|banana]], [[N/Nyilas csillagkép\|Nyilas csillagkép]] és [[K/KUS\|KUS]] címnél is előjövő bibliai-héber `qĕšĕt` szó, mely a [[Z/Zsidó zodiákus\|zsidó zodiákus]] címnél a-hangosan, **Kasshat**-ként (Nyilas) kerül elő, csakhogy a [[K/Khamor\|Khamor]] címnél taglalt akkád **Kumaru** és a [[S/Szkíta\|szkíta]] címnélt taglalt (Sagittarius-Nyilassal szemben lévő) [[I/Íj csillagkép\|Íj csillagkép]] témái alapján elvileg ez a név a másik, szemközti Nyilazó neve is lehet, tekintve, a hogy a Kasszita kapcsán is taglalt Kazár, Kattar nevek, ahogy [[K/Kazár\|kazár]] címnél taglaljuk, Orionra utalnak.  
 
 Felvetődik itt még, hogy a [[F/Frigyláda\|frigyláda]], angolul *Ark of the Covenant*, nem lenne más mint Arc of the Covenant? Persze nem az angol fordításokból kell kiindulni és a Genesis-ben nincs is róla szó.  
 
@@ -73,5 +73,5 @@ Persze lehet szó Sugár-Fény összetételről is. Akárhogy is, a [[S/Sacchar-
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Az [[A/Agathyrs\|Agathyrs]] címnél taglalt akatzirokról PJI tulajdonképpen azt írja, hogy (elő)[[K/Kazár\|kazár]]ok voltak (a Kasszu nép nevéből indul ki):  
+Az [[A/Agathyrs\|Agathyrs]] címnél taglalt akatzirokról Péterfai János tulajdonképpen azt írja, hogy (elő)[[K/Kazár\|kazár]]ok voltak (a Kasszu nép nevéből indul ki):  
 Az Akacirok ellen Atilla hadjáratot vezetett. A Kaukázusoktól északra laktak. A népnévben nem nehéz felismerni az A-Kasz-Ir nevet. A Kasz a magyarok klasszikus hét törzséből a hetedik, ők a Kassu nép, a Kassziták, a Kassziterit névadói, akik 6.000 éve már Dunaújváros mellett is a bronzkészítésen szorgoskodtak. Atilla idején a kazárok tehát a Kaukázus északi előterében voltak, törökök már csak ezért sem lehettek. A zsuan-zsuan vereségig a törökök nem tudtak nyugat felé terjeszkedni.  

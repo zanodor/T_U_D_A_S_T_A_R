@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","tags":["formatted🟢"],"created":"2023-10-13T02:12","updated":"2023-10-13T02:12"}
+{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2024-02-02T03:18"}
 ---
 
 
 # Kéz
-
-
 
 #### Péterfai János Baráth Tibort idézi:
 
 > A magyar Kéz, régiesen `Kete`, az egyiptomiban és sumérben `Ket`, ugyanez a szó a vogulban `Kat`, osztjákban `Ket`, cseremiszben `Ked`, votjákban `Ki`, lappban `Ket`, észtben `Keszi`, finnben `Kete`. Ezek a tanúszavak azt mondják, hogy a balti és urali nyelvek nagyszerűen beilleszkednek a magyar ősnyelv családjába, azok is a Régi Kelet gyermekei.  
 
 Kéz szavunk éppúgy levezethető [[K/Két\|két]] szavunkból (kéz kezünk van[^1]), mint [[K/Köz\|köz]] a [[K/Köt\|köt]]ből.  
-A kéz, kész, továbbá [[K/Kezdet\|kezdet]] szavakról PJI írt. Fentebb a **kacs** szóról is volt szó, mely, mint látjuk, a kéz szó változata:  
+A kéz, kész, továbbá [[K/Kezdet\|kezdet]] szavakról Péterfai János írt. Fentebb a **kacs** szóról is volt szó, mely, mint látjuk, a kéz szó változata:  
 > Egyik kéz szavunk a Ka, amely a Kacs, Kacsó nevek alapszava. Van egy Ke formájú kezet jelentő szavunk is, amely a Kettő alapszava, a minoszi Krétán Ke-to volt a formája Kettő jelentéssel. Mindkét szó, a Ka és Ke is, a Kő szócsoporttal kapcsolatos. A Ka a hattiban Kéz, fontos alapszónak látszik. Eszerint a Kéz, Kész és sok rokona a Két, Kettő fogalmat is tartalmazza, a kőeszközök készítését két kézzel végeztük. Ellenben [[S/Suta\|sutá]]cska a kezünk, legtöbbször, ha csak egy kézzel dolgozunk. A félkéz, félkar eszmeisége nagyon ősi.
 
 Amiről közvetlenül kéz kapcsán nem írt ([[S/SU\|SU]] és sugár kapcsán igen), hogy a kéz a Napisten keze (mit alátámasztani látszik, hogy a [[N/Nap\|Nap]] címnél is szereplő adat szerint a dakota/lakota [[N/Nape\|nape]] = kéz).  
 
-#### Jankovics Marcell A Nap könyve című könyvében is írja:  
+#### Jankovics Marcell A Nap könyve...
 
+...című könyvében is írja:  
 > A kéz később valóban napjelkép lett. Szimbolizálhatta magát a sugaras napkorongot, a napsugarat, a legfőbb istenség kezét, amivel a teremtés műveként kimérte a világot (az ősi mértékegységek testre szabottak, a nevük is mutatja; hüvelyk, tenyér, arasz, könyök, öl, láb, lépés); vagy amivel a napisten számol, ír, fegyvert forgat, és amiből ajándékait osztogatja. A perui inkák az újévi "Új Tűz" szertartás alkalmával a napsugarakról – gyújtott tűzre azt mondták, hogy a "Nap kezéből" származik.  
 - Könyve 155. oldalán más kultúrákból is tallóz.  
 
@@ -28,14 +27,14 @@ Ahol a madár se jár című könyvében pedig:
 Ahogy a Napisten (illetve Nimrud) fallosza a [[P/Penis\|penis]] is, és karja is visszavezethető Napnévre ([[K/KAR\|KAR]], továbbá [[K/KER\|KER]], [[K/Kör\|kör]]), úgy a kéznek is kell, hogy legyen Napnevet jelentő előképe.  
 
 Amennyiben rokonításokkal próbáljuk felderíteni a kéz szó kilétét, hasonló a [[G/Gaze\|gaze]], [[G/Géza\|Géza]] neve és a [[G/Geci\|geci]] szó is.   
-Ezen a ponton az is érdekes, hogy PG adata szerint a kéz a [[L/Lélek\|lélek]] közvetlen, a beszéd a közvetett megnyilatkozója.  
+Ezen a ponton az is érdekes, hogy Pap Gábor adata szerint a kéz a [[L/Lélek\|lélek]] közvetlen, a beszéd a közvetett megnyilatkozója.  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians c. könyvének (második kötetének) 197. oldalán a török-tatár `qis`, `qiz` = tűz, melegség, vörösség és az ujgur `qis` = tüzes szavakat hozza fel, melyek bővítményes formái persze a [[G/Gazella\|gazella]] és más címnél már taglalva voltak vörös, piros kapcsán.  
 
 Hasonló név lehetne még az etruszk (lemenő) Napisten [[C/Cautha\|Cautha]] neve, de nem bizonyító értékű. Ott, nevénél, [[K/Kutya\|kutya]] is szóba került. Márpedig a kutya az, akinek négy keze vagy négy lába van. A [[N/Négy\|négy]] a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] száma.  
 
 A K-Z, K-SZ vázú szavak is a hatalmas K-T szóvázú (melyeket lásd eddig összefoglalva de legalább is említve [[K/KU\|KU]] és [[H/HAT\|HAT]]) szócsoport tagjai. A K-T szóváz kifejezi, hogy minden össze van [[K/Köt\|köt]]ve, minden kapcsolatban áll mindennel.  
-MA Ősműveltség PDF-ének 718. oldaláról származó sorait lásd [[K/Kezd\|kezd]].  
+Magyar Adorján Ősműveltség PDF-ének 718. oldaláról származó sorait lásd [[K/Kezd\|kezd]].  
 
 #### Supka Géza Kalandozás a kalendáriumban...
 

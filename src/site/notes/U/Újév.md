@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-25T11:28"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-02T04:09"}
 ---
 
 
@@ -130,7 +130,7 @@ Ezen hiperkozmikus Nappal kapcsolatban írja:
 > The existence of two suns in the Platonic tradition (one visible and one hypercosmic) is derived from the Chaldaean Oracles, a collection of enigmatic writings from the second century A.D. The Hypercosmic Sun is accessed through the galactic gateway between Sagittarius and Scorpio, strongly suggesting that the Galactic Center is behind this ancient cosmoconception.  
 > —  
 > David Ulansey, "Mithras and the Hypercosmic Sun", in Hinnells, Studies in Mithraism; Ulansey honlapján is megtalálható: www.well.com/user/davidu/.
-> A két nap létezése a platóni hagyományban (egy látható és egy hiperkozmikus) a káldeus orákulumokból származik, egy rejtélyes írások gyűjteményéből a Kr. u. II. századból. A hiperkozmikus Napot a Nyilas és a Skorpió közötti galaktikus kapun keresztül lehet elérni, ami erősen arra utal, hogy a Galaktikus Központ áll ezen ősi kozmokoncepció mögött.  
+> A két nap létezése a platóni hagyományban (egy látható és egy hiperkozmikus) a káldeus orákulumokból származik, egy rejtélyes írások gyűjteményéből a Kr. u. II. századból. A hiperkozmikus Napot a Nyilas és a Skorpió közötti galaktikus kapun keresztül lehet elérni, ami erősen arra utal, hogy a Tejútközpont áll ezen ősi kozmokoncepció mögött.  
 - Az ottani ábrán szereplő kutyát is (melyet Ulansey az égi egyenlítőn lévő Kis Kutyával azonosított) Szíriusszal hozzák kapcsolatba.
 
 > As Ulansey points out, the Pleiades are located precisely where the dagger slays the bull (see fig. 8.3). What can we make of this? First off, it identifies the Pleiades as a significant pole in the Mithraic tauroctony, associated with the Taurean gateway that leads the soul into manifestation (genesis). We have already described how the Pleiades are the general marker of the Galactic Anticenter. Now, the dog in the tauroctony represents Sirius, and he is lunging wildly at the wound that locates the Pleiades. Significantly, Sirius is on the same meridian as the Galactic Anticenter - that is, it passes through the southern meridian at the same time as the Galactic Anticenter, although it is lower in altitude.  
@@ -172,7 +172,7 @@ Szintén szerepelt [[T/Tavaszi évkezdés\|tavaszi évkezdés]]nél:
 [[C/Canopus\|Canopus]] és a [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél is szerepelt a Hamlet Malmából származó passzus:  
 > A babilóniai **újév** rituális szövege így szólítja meg a Szíriuszt: "mulKAK.SI.DI, aki megméri a tengerek mélyét". A [[M/MUL\|MUL]] egy csillagokat jelölő előképző, KAK.SI.DI jelentése "nyílvessző", s épp ez a nyílvessző áll a legtöbb meghökkentő íjásztörténet hátterében. Az íj, melyből kiröpítik, az Argó és Canis Maior csillagaiból alkotott csillagkép, s jól ismert Mezopotámia, Egyiptom és Kína Övezeteiben. És mivel Istár nevén Vénusz és Szíriusz osztozik, lehet tudni, ki "keveri föl az Apszút Ea előtt".  
 
-Az "[[I/Istenfa\|istenfá]]ját" és "kutyafáját" kifejezéseink, amennyiben ugyanarra vonatkoznak, ismét rámutathatnak-e, hogy kutya ([[K/Khuda\|Khoda]], gott/[[G/God\|God]]) = isten? VN csak ezt írja (a későbbi felfogással kapcsolatban):  
+Az "[[I/Istenfa\|istenfá]]ját" és "kutyafáját" kifejezéseink, amennyiben ugyanarra vonatkoznak, ismét rámutathatnak-e, hogy kutya ([[K/Khuda\|Khoda]], gott/[[G/God\|God]]) = isten? Várkonyi Nándor csak ezt írja (a későbbi felfogással kapcsolatban):  
 > A "kutyafád" kifejezés blaszfémikus, istenkáromló megsértése a hívőnek: istenfáját, azaz bálványát alacsonyítja le egy megvetett alvilági állat szintjére.  
 
 [Ezen](https://m.nyest.hu/hirek/gyorstalpalo-karomkodasbol-mikor-miert-hogyan-karomkodunk) oldal cikkírója szerint:  
@@ -242,7 +242,7 @@ Lásd még Zsuzsanna névben is: [[S/Szűzanya\|Szűzanya]]!
 Érdekes, hogy a boldog szót ilyen összefüggésben említi, mert nálam is Bol-Dog a téli téridő-pontra utal..  
 
 [^3]: Lábjegyzet:  
-Szó szerint lehetne "fényépítés," fényt derítés, ugyanis az ógörög, csángó επι- (épi-) prefix – VCs adata szerint – épít szavunkat takarná (de a szótár hivatalosan rá, fölé, fölötte jelentésekkel azonosítja), míg a `ϕαεινóς` (faeinósz) fényes jelentésű. A hivatalos levezetés a görög `epiphainein` igét adja meg eredetként, ami szó szerint így "ráfényel" jelentésű.  
+Szó szerint lehetne "fényépítés," fényt derítés, ugyanis az ógörög, csángó επι- (épi-) prefix – Varga Csaba adata szerint – épít szavunkat takarná (de a szótár hivatalosan rá, fölé, fölötte jelentésekkel azonosítja), míg a `ϕαεινóς` (faeinósz) fényes jelentésű. A hivatalos levezetés a görög `epiphainein` igét adja meg eredetként, ami szó szerint így "ráfényel" jelentésű.  
 Utótagját lásd még [[F/Fancy\|fancy]] és [[F/Fantasy\|fantasy]] szavakban; hasonló [[E/Euphemism\|euphemism]], [[P/Prophet\|prophet]] és [[B/Blasphemy\|blasphemy]] utótagjához is.  
 
 [^4]: Lábjegyzet:  

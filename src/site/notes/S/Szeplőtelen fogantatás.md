@@ -1,25 +1,7 @@
 ---
-title: Szeplőtelen fogantatás
-aliases:
-  - szeplőtelen fogantatás
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-  - containstransclusions
-share: true
-dg-publish: true
-dg-created: 2023-11-13T01:57
-dg-updated: 2024-01-20T04:04
-dg_upload_status: VNC done
-date created: 2023-04-07
-date modified: 2024-01-20
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-02-02T03:46"}
 ---
+
 
 # Szeplőtelen fogantatás
 
@@ -68,7 +50,7 @@ Az alábbiakban elsősorban a napfiúk szeplőtelen fogantatásáról lesz szó[
 
 Még [[A/Álmos\|Álmos]]sal kapcsolatosan felmerült másutt is, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és Árpád nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban (az Erpat-Árpád név kapcsán is taglalt) [[O/Ozirisz\|Ozirisz]] nevét felvették, hogy vele azonosuljanak.  
 
-[[V/VAN\|VAN]], [[V/VÁN\|VÁN]], [[V/VÁNY\|VÁNY]], [[V/Vain\|vain]], [[W/Want\|want]] szavaknál írtuk, hogy bár PJI Ványt a fény módosulataként tekinti, a latin `vanus` (lásd [[V/Vain\|vain]]) és angol [[W/Want\|want]] ige éppenhogy a fény hiányát, várva várt befogadását fejezik ki.  
+[[V/VAN\|VAN]], [[V/VÁN\|VÁN]], [[V/VÁNY\|VÁNY]], [[V/Vain\|vain]], [[W/Want\|want]] szavaknál írtuk, hogy bár Péterfai János Ványt a fény módosulataként tekinti, a latin `vanus` (lásd [[V/Vain\|vain]]) és angol [[W/Want\|want]] ige éppenhogy a fény hiányát, várva várt befogadását fejezik ki.  
 Szeplőtelen azaz szűzen fogantatásról lásd még [[P/Parthenogenesis\|parthenogenesis]].  
 Jankovics Marcell Jelkép-kalendárium című könyvének azonos című fejezetében írottakat is lásd ott és másutt.  
 Közben ott arról is szó volt, hogy **félrefordítás történt** (a héber `almah` = maiden, nem virgin):  
@@ -102,7 +84,7 @@ Előtte már MA megírta mindezt:
 > A napisten atyja az ég ura, anyja az ég (Tejút) és a Föld istennője, de ha leszáll a Földre (megtestesül), földi szülei is lesznek; hérósztörténetekben rendszerint királyi pár.  
 > Többnyire a mesehős is királyi sarj, de hogy igazi atyja égi lény, arra jelek utalnak. Első helyen: gyermektelen házaspár általában istentől kér és kap gyermeket. Ez nem egyszerűen jámborságukat mutatja, az isteni adomány valóságos csoda – éppúgy, mint a bibliai Sára vagy Mária esetében. Például gyermektelen asszony Istentől gyermeket kér. Húsvét napján (!) tizenkettőt szül egyszerre (Jankó meg az aranyhajú leány).  
 > Gyermektelen házaspárnak koldus (Isten álruhában) ad egy szem borsót, hogy ültessék el. A borsó kihajt, s rajta kivirágzik egy kis gyermek (Mesetöredék Babszem Jankóról).  
-> Gyermektelen asszony lefekvés előtti imájában kéri Istent, adjon neki gyermeket. Nyugtalanul alszik, álmában szellent egyet, s máris ott az első fia, Este. Hasonló módon ad életet második és harmadik fiának, Éjfélnek és Hajnalkának (Hajnalka). A hangnem tréfás, de a mondanivaló komoly: az élő lélek, ami Ádámot életre kelti, szintén szél, Isten lehellete. A 3 "szüllentés" oka a babszem (bablélek), amit egy változatban egy öregasszony tanácsára a gyermektelen asszony lenyelt. (A "babszél" hiedelmi jelentőségére nézve l. a Jelkép-kalendáriumban írtakat.)  
+> Gyermektelen asszony lefekvés előtti imájában kéri Istent, adjon neki gyermeket. Nyugtalanul alszik, álmában szellent egyet, s máris ott az első fia, Este. Hasonló módon ad életet második és harmadik fiának, Éjfélnek és Hajnalkának (Hajnalka). A hangnem tréfás, de a mondanivaló komoly: az élő lélek, ami Ádámot életre kelti, szintén szél, Isten lehelete. A 3 "szüllentés" oka a babszem (bablélek), amit egy változatban egy öregasszony tanácsára a gyermektelen asszony lenyelt. (A "babszél" hiedelmi jelentőségére nézve l. a Jelkép-kalendáriumban írtakat.)  
 > Egy asszony 7 éve imádkozik fiúmagzatért. Álmában megjelenik egy ezüstszakállú, aranyhajú "ősz" ember, és megjósolja, hogy hamarosan fiút szül, akit addig kell szoptatnia, míg az erdőben a hetedik fát tövestül ki nem tépi (Erős Jancsi).  
 
 Ugyanebben a könyvében másutt:  
@@ -241,7 +223,7 @@ Az elterjedt hiedelem szerint a lélek a napsugárral jut az anya testében növ
 Amikor az [alábbi](https://youtu.be/n5DW35ch1kg) ÁKA előadásban (a spirituális kérdéseket kicsit nehezen magyarázó, kicsit nehezen követhető) Bars Mária 59:31-nél és másutt, korábban is a szeplőtelen fogantatásról szól, az embernek az az érzése, hogy nem csak a testre vonatkozik a kifejezés (nos, valóban asztrális vonatkozású, hiszen Jézus is Napgyermek).  
 
 [^3]: Lábjegyzet:  
-Kollarics Gábor DCS Zep Tepis oldalán a Nílus áradásakori, nyári időszaknál írja ezt (épp 6 hónappal arrébb járunk, csak itt a Nap kel fel, nem maga a csillagkép):  
+Kollarics Gábor Dobos Csanád Zep Tepis oldalán a Nílus áradásakori, nyári időszaknál írja ezt (épp 6 hónappal arrébb járunk, csak itt a Nap kel fel, nem maga a csillagkép):  
 [[S/Sothis\|Sothis]]szal kapcsolatban bátorít minket Borbola, hogy használjuk a magyar nyelvet. Nekem a szőtt, szőttes és a szűz, szűzies ötlött fel, ami inkább arra utalna, hogy a Nílus áradásakor a Szűz csillagképből kelt fel a Nap.  
 
 [^4]: Lábjegyzet:  

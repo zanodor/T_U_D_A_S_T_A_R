@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aladár/","title":"Aladár","tags":["formatted🟢"],"created":"2023-10-17T08:02","updated":"2023-10-21T03:35"}
+{"dg-publish":true,"permalink":"/A/Aladár/","title":"Aladár","created":"2023-10-17T08:02","updated":"2024-02-01T10:44"}
 ---
 
 
@@ -12,4 +12,4 @@ Ebből az is kiderülhet, hogy az older és a Magor nevek azok, illetve egyik a 
 #### Péterfai János írja:
 
 > Az Ala-Dár jelentése Magas-Csillag, vagyis fiú. Mivel az Al, Ala jelent Elsőt is, valószínű, hogy Aladár volt az Első Fiú, aki a trónra jogosult volt. De mivel apjuk, Atilla olyan jóslatokat kapott táltosaitól, mágusaitól, sámánjaitól, hogy Csaba lesz az, aki a Turul nemzetséget tovább viszi, ezért Csabára tekintett örököseként. Ebből aztán nagy háború lett Csaba és Aladár között, a testvérharc a birodalom összeomlását idézte elő. Kária fővárosa Alabanda, ebben a névben is előfordul az Ala név. Az biztos, hogy Aladár neve magyar nyelvű, és nem német.  
-- Nos, a helyzet az, hogy a történetírásban már az utódnyelvi nevek megjelenhetnek (lásd Csaba-Kuber esetét), ezért nem biztos, hogy magyar a név. Inkább itt TGY felfogását érdemes követni. Az más kérdés, hogy a Magas Csillag és Fiú értelmezés logikailag megfelel, de az idősebb fiú kérdését [[H/Hunor\|Hunor]] megfelelő (évköri) értelmezése nyomán kell kibontani.
+- Nos, a helyzet az, hogy a történetírásban már az utódnyelvi nevek megjelenhetnek (lásd Csaba-Kuber esetét), ezért nem biztos, hogy magyar a név. Inkább itt Tóth Gyula felfogását érdemes követni. Az más kérdés, hogy a Magas Csillag és Fiú értelmezés logikailag megfelel, de az idősebb fiú kérdését [[H/Hunor\|Hunor]] megfelelő (évköri) értelmezése nyomán kell kibontani.

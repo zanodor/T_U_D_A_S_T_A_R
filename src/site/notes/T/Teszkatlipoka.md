@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Teszkatlipoka/","title":"Teszkatlipoka","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T04:41","updated":"2023-11-02T04:42"}
+{"dg-publish":true,"permalink":"/T/Teszkatlipoka/","title":"Teszkatlipoka","tags":["Englishtexttranslated"],"created":"2023-10-29T04:41","updated":"2024-02-02T04:04"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Jankovics Marcell írja:
 
-> Az első azték napisten \[VN-nél istennő?!\], Teszkatlipoka neve azt jelenti "Füstölgő [[T/Tükör\|tükör]]". A név az obszidiánra, a tükörnek is használható természetes fekete üvegre és az éjszakai égre utal (obszidiánból pattintották az áldozati kőkést is, amit szintén ő személyesített meg). Az isten bőrszíne fekete volt, hiszen az éj urának tekintették, birodalmának a központja, az "ég köldöke" a circumpoláris csillagok északi övezetében található, az ég legsötétebb részén, ott, ahol nem jár a Nap, örök sötétség uralkodik. Az égnek ez a része valóban felfogható a délen ragyogó nap sötét tükörképének. Az isten csillagos alakját mintha a [[S/Sarkcsillag\|Sarkcsillag]]gal (a [[S/Szaturnusz\|Szaturnusz]] csillaglelkével) és a Nagy [[G/Göncöl\|Göncöl]]lel azonosították volna.  
+> Az első azték napisten \[Várkonyi Nándornál istennő?!\], Teszkatlipoka neve azt jelenti "Füstölgő [[T/Tükör\|tükör]]". A név az obszidiánra, a tükörnek is használható természetes fekete üvegre és az éjszakai égre utal (obszidiánból pattintották az áldozati kőkést is, amit szintén ő személyesített meg). Az isten bőrszíne fekete volt, hiszen az éj urának tekintették, birodalmának a központja, az "ég köldöke" a circumpoláris csillagok északi övezetében található, az ég legsötétebb részén, ott, ahol nem jár a Nap, örök sötétség uralkodik. Az égnek ez a része valóban felfogható a délen ragyogó nap sötét tükörképének. Az isten csillagos alakját mintha a [[S/Sarkcsillag\|Sarkcsillag]]gal (a [[S/Szaturnusz\|Szaturnusz]] csillaglelkével) és a Nagy [[G/Göncöl\|Göncöl]]lel azonosították volna.  
 > \[...\]  
 > A Sarkcsillag jogán a Szaturnusz lehet az "ős Nap" Teszkatlipoka égi teste, amennyiben a Sarkcsillag az idő kerekének égi tengelycsapszege, Saturnus-Khronosz pedig maga az Idő, vagy ahogy mondták, az idő kerekét forgató isten. A Göncölszekér jogán pedig a "fekete Nap[^1]", vagyis a Hold az isten planétája, 7 csillagos tükre.  
 > A Holdat több minden összeköti a Göncölszekérrel. A leglényegesebb: a Holdat az élő Nap, a [[G/Göncöl\|Göncöl]]szekeret a halott napisten járművének tekintették. A Szaturnusz is sok szálon kapcsolódik a Holdhoz. Például: a Szaturnusznak annyi év a keringési ideje, ahány nap a Holdé; s a holdsarló volt Saturnusnak mint gabona-, halál- és időistenségnek a szerszáma, fegyvere.  
