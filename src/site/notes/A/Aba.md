@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aba/","title":"Aba","tags":["titleandheadingonedontmatch","multipleentries","stitched","formatted🟢"],"created":"2023-10-12T07:13","updated":"2023-10-12T07:13"}
+{"dg-publish":true,"permalink":"/A/Aba/","title":"Aba","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-12T07:13","updated":"2024-02-05T02:41"}
 ---
 
 
 # Aba 1)
-
-
 
 [[A/Apa\|Apa]] jelentésű, ahogy Aba Sámuel nevében is megvan; az arab [[A/Abu\|abu]] = apu. A B = P azonosság talán a leginkább ismert az összes mássalhangzó-hasonlóság közül. Senki előtt nem vitatott, hogy az ami egyszer [[A/Apa\|apa]] lehet, másutt lehet aba.  
 [[A/AB\|AB]] címnél taglaltuk még az apa jelentést, ahol Götz László adataként láttuk a szumér `AB` = apa szót és a mellé tett latin `avus` = előd szót (mely [[A/Ava\|ava]] címhez is bekerült).  
@@ -32,7 +30,7 @@ Jézusról apás kontextusban lásd még [[B/Barabás\|Barabás]]. Mást pedig [
 A töröknek tartott [[K/Kumán\|kumán]] nyelvben is megvan `aba` = apa jelentéssel mint az [ezen](https://en.wikipedia.org/wiki/House_of_Basarab) oldalon adott nevekből is kitűnik: Terteroba, Arslanapa, and Ursoba. Ezen utóbbi névben a besenyő [[T/Tonuzoba\|Tonuzoba]] névhez hasonlóan -oba a végződés.  
 Azért kezdtem úgy, hogy a töröknek tartott kumán nyelvben, mert dacára annak, hogy az [ezen](https://www.wordsense.eu/father/) oldal adata szerint az ótörökben még (a Tomiris című film alapján inkább [[K/Kán\|kán]]-nak ejtett) `qan` mellett [[A/Apa\|apa]] = apa, a modern törökben (az arabos) baba és (a szintén hun, de formálisabb) [[A/ATA\|ata]] szerepel. Miért nem tartotta meg a török az apa alakot? Mert sose volt az övé. Már csak az a kérdés, hogy az arabból származtatják-e (és ezzel a magyar apa szavunkat is).  
 Az ugariti nyelvben is `ảb` = apa, de a tupi indiánok tupinambá törzsi nyelvében is `uba` = apa.  
-A rwandai [[H/Hutu\|hutu]] nép másneve `abahutu`, melyben aba nyilván akkor az ősökre utal.  
+A rwandai hutu nép másneve `abahutu`, melyben aba nyilván akkor az ősökre utal.  
 
 Az [ezen](https://en.wikipedia.org/wiki/Tucanoan_languages) oldalon különböző tukano nyelvcsaládhoz tartozó nyelvek között talált szavak közül a kolumbiai/brazil deszana `abé` = Nap.  
 
