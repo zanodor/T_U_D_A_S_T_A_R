@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mancs/"}
+{"dg-publish":true,"permalink":"/M/Mancs/","title":"Mancs","created":"2023-10-20T07:09","updated":"2024-02-05T02:46"}
 ---
-
----
-title: Mancs
-aliases:
-  - mancs
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T07:09
-dg-updated: 2023-10-20T07:09
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # Mancs
@@ -24,8 +8,8 @@ date modified: 2023-08-05
 #### A Pallas Nagy Lexikona adatsora:
 
 > Mancsnak vagy körömnek nevezik azt a szarutokot, mely a páros újjuak vagyis a sertés és a kérődzők egyes nemeinek lábvégeit burkolja. A marhának azonkivül még két fattyu M.-a vagy fükörme van, de ezek fejletlenek és nem érnek le a földig. A M.-on megkülönböztetik a M.-falat, M.-talpat és a M.-sarokvánkost. A két M. között van a M.-nyilás v. körömhasadék. A helyesen alakult M.-ok nyoma majdnem köralaku, a fal a hegytájon 43 foku szögben irányul a talpvonalra, a M. felülete sima. Hibás és hosszukás, továbbá a nagyon meredek falu, és ennek ellentéte, a terült M., melyet papucskörömnek is neveznek. Ez főleg csak mocsáros legelőn elnevelt marhán fordul elő.  
-
-Nüsszai Szent Gergely egyházatya (IV. sz.) fejtegetése zseniálisnak nevezhető, másfél évezreddel előzte meg az evolucionistákat. Nem kevesebbet mond, mint hogy az ember a kéznek köszönheti eszét (fejlettebb agyvelejét) és beszélőképességét. Ha nem volna keze, akkor arca és rágószervei a négylábúakéhoz hasonlóan alakultak volna. Arca előreálló (prognát) és pofaszerű lenne, ajka vaskos, izmos, a füvek kitépésére alkalmas, nyelve pedig húsos, szívós, lefetyelő, mint a kutyáé és a ragadozóké (húsevőké). "Ha testünkről hiányzanék a kéz – kérdi Gergely atya – hogyan képződhetett volna tagolt hang \[beszéd\], miután a szájrészek berendezése nem a hangformálás céljából alakult volna ki? Ennélfogva az embernek bőgnie vagy mekegnie vagy ugatnia vagy nyerítenie vagy az ökör és a szamár módjára ordítania kellene, vagy másféle állati üvöltést hallatnia. De minthogy a kéz testéhez kapcsoltatott, az ember szabadságot nyert a szó használatára."  
+> 
+> Nüsszai Szent Gergely egyházatya (IV. sz.) fejtegetése zseniálisnak nevezhető, másfél évezreddel előzte meg az evolucionistákat. Nem kevesebbet mond, mint hogy az ember a kéznek köszönheti eszét (fejlettebb agyvelejét) és beszélőképességét. Ha nem volna keze, akkor arca és rágószervei a négylábúakéhoz hasonlóan alakultak volna. Arca előreálló (prognát) és pofaszerű lenne, ajka vaskos, izmos, a füvek kitépésére alkalmas, nyelve pedig húsos, szívós, lefetyelő, mint a kutyáé és a ragadozóké (húsevőké). "Ha testünkről hiányzanék a kéz – kérdi Gergely atya – hogyan képződhetett volna tagolt hang \[beszéd\], miután a szájrészek berendezése nem a hangformálás céljából alakult volna ki? Ennélfogva az embernek bőgnie vagy mekegnie vagy ugatnia vagy nyerítenie vagy az ökör és a szamár módjára ordítania kellene, vagy másféle állati üvöltést hallatnia. De minthogy a kéz testéhez kapcsoltatott, az ember szabadságot nyert a szó használatára."  
 
 #### Várkonyi Nándor írja:
 
@@ -33,7 +17,7 @@ Nüsszai Szent Gergely egyházatya (IV. sz.) fejtegetése zseniálisnak nevezhet
 
 Lásd még [[M/Mán\|mán]], [[M/Manual\|manual]] és [[M/Manufacture\|manufacture]].  
 
-Hogy az ősmagyar nyelvben [[M/Mán\|mán]], mány kezet is jelentett, testálja mancson kívül a mankó, mangó, mangol szavak. Lásd még angolban is [[M/Mangle\|mangle]] és érdekességképpen [[M/Mangrove\|mangrove]].  
+Hogy az ősmagyar nyelvben [[M/Mán\|mán]], mány kezet is jelentett, testálja mancson kívül a mankó, mangó, mangol szavak. Lásd még angolban a [[M/Mangle\|mangle]] szót.  
 
 Mancs lehet még macs orrhangos kiejtése is. Macs (melynek mak ejtése is lehetett, mint a kelta-ír `màg` = mancs mutatja) pedig egyértelmű hímségi [[M/MAG\|mag]]-származék, ahogy fentebb, például [[M/Mace\|mace]] és [[M/Macho\|macho]] szónál is kiderült. Macs megvan [[M/Macska\|macska]] szavunkban is. A macskának is mancsa van, nemcsak a kutyának.   
 
