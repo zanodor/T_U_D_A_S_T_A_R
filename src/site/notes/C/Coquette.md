@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/C/Coquette/","title":"Coquette","tags":["formatted🟢"],"created":"2023-10-13T01:32","updated":"2023-10-21T04:28"}
+{"dg-publish":true,"permalink":"/C/Coquette/","title":"Coquette","created":"2023-10-13T01:32","updated":"2024-02-10T03:43"}
 ---
 
 
 # Coquette
 
 [[K/Kacér\|Kacér]] nő. Hímnemű párjánál (`coquet`) kellene tán levezetni, hiszen a francia `coq` = kakas (lásd angol [[C/Cock\|cock]]) kicsinyítéséről van szó, viszont, ahogy kacér szavunkat is kizárólag nőkre használjuk, így itt tárgyaljuk.  
-A páva udvarlási szokását ismerjük, és volt szó [[H/Hattyú\|hattyú]]król is (MA írása folytán). Hogy valóban a kakas váltaná ki kacér (vagy akár kacsint) szavunkat eredetként, erről nehéz lesz meggyőzniök.
+A páva udvarlási szokását ismerjük, és volt szó [[H/Hattyú\|hattyú]]król is (Magyar Adorján írása folytán). Hogy valóban a kakas váltaná ki kacér (vagy akár kacsint) szavunkat eredetként, erről nehéz lesz meggyőzniök.
 
 #### A Czuczor-Fogarasi szótár kacér szónál:  
 
