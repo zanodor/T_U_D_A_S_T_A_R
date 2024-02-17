@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-02T03:45"}
+title: Szamár
+foreignTitle: false
+aliases:
+  - szamár
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-15T10:43
+dg-updated: 2024-02-15T02:06
+dg_upload_status: VNC done
+date created: 2023-06-29
+date modified: 2024-02-15T02:06
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Szam%C3%A1r.md
 ---
-
 
 # Szamár
 
@@ -71,7 +89,7 @@ A bibliai Bálám (Bileám) szamara elnevezése hátterében [[B/Bál\|Bál]] is
 ...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében közli:  
 > Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A \[Nap által\] legyőzött állatok gyakran [[S/Széth\|Széth]] megjelenések, *ostobának tartott állatok, mint a krokodil, víziló és antilop.*  
 
-- - -
+---
 
 A **Szimbólumtár** adatsora:  
 > A lófélék családjába tartozó, kisebb termetű, hosszú fülű, málházásra, igavonásra használt háziállat. A termékenység, a béke, az alázat és a szegénység jelképe. \[Mind stimmel is a szkíta népekre.\]  
@@ -189,7 +207,7 @@ Na most, valójában itt is csillagképet kell keresni. A [[N/Nap#Nap és Orion\
 > Egy i.e. 2. évezred második feléből származó sírképen viszont a Rákot két szamár jelképezi, melyek a világ végén álló "fényhegyeket" és a köztük felkelő Napot, az [[A/Ahet\|ahet]] hieroglifát tartják. (A fényhegyek, mint "Hercules oszlopai" is, csillagászati műszereket szimbolizálnak; a naptári fordulópontok helyének mérésére épp ilyen kettős oszlopokat állítottak hajdanán a Nap keléspontjainak irányába.)  
 > A "Szamár" elnevezés talán babiloni eredetű – ott a csillagképet Vemhes Szamárnak hívták –, de helyi alapja is van. A pusztító nyári forróság istenének, [[S/Széth\|Széth]]nek a sivatagi vadszamár volt az állata. A Rák csillagkép egyiptomi jelentőségét növelte, hogy az egyiptomi mezőgazdasági év kezdete a Nílusnak július második felében érkező áradásához igazodott, ami "ideális esetben" egybeesett a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]vel (júl. 19.).  
 
-Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban 27:50-nél GYÁ is elmondja, hogy a Rák csillagkép régi neve Szam-Ár/Szám-Ár volt. A Rák a kis éves és Nagy Éves időciklusban is a tulajdonképpeni fénymaximumnak, a nyárnak (sumér – [[S/Szamár csillagkép\|szamár]] (Rák) – [[S/Summer\|summer]]) felel meg, illetve onnantól kezdve csökken a fény ereje (ez a Nap megdicsőülésének ideje, lévén, hogy ekkor ér pályája delelőjére).  
+Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban 27:50-nél Gyárfás Ágnes is elmondja, hogy a Rák csillagkép régi neve Szam-Ár/Szám-Ár volt. A Rák a kis éves és Nagy Éves időciklusban is a tulajdonképpeni fénymaximumnak, a nyárnak (sumér – [[S/Szamár csillagkép\|szamár]] (Rák) – [[S/Summer\|summer]]) felel meg, illetve onnantól kezdve csökken a fény ereje (ez a Nap megdicsőülésének ideje, lévén, hogy ekkor ér pályája delelőjére).  
 (Pap Gábor adata szerint az Ökör a keleti állatövben a Ráknak felel meg; precessziós Rákról beszél; lásd feltöltve az [alábbi](https://youtu.be/LfU5D7Sp090) videót.)  
 
 A közép-ázsiai sztyeppéken élő vadszamár [[K/Kulan\|kulan]] neve is érdekes, hisz előjött valahol a név Orionnal kapcsolatban (saját ötletként). Nem találom, de a kelta [[C/Culann\|Culann]] és a magyar [[K/Kilenc\|kilenc]] is ilyen nevek és mindketten az égi kovács/villámistenre, Orionra utalnak.  

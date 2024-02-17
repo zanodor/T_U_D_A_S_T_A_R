@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2024-02-02T03:43"}
+{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2024-02-13T17:27"}
 ---
 
 
@@ -34,9 +34,9 @@ Lásd még szinte azonos hangalakú [[S/Skol\|skol]]-nál írottakat, ill. Péte
 
 Götz László Keleten kél a Nap című könyvében hasonlítja a görög `skholē` (iskola, tanítás) szót a héber `šachal` (kioktat) igével. Nos, nem is elképzelhetetlen, hogy a [[S/Szakáll\|szakáll]] címnél taglalt sumér `sukkal` = vezér szó nyomán eredne a szó, minthogy a szakállas ember az öreg, a bölcs megjelenítője lenne, de szerintem nem ez a megoldás.  
 
-De ha már hasonló hangalakú szavakról van szó, legutóbb [[S/Szkíta\|szkíta]] címnél a Szkolotosz/Szkolotesz névforma előtagjába látott, több helyen taglalt, [[G/Gyúl\|gyúl]] igénkkel is kapcsolatba hozott görög `szkúlosz` = kutya szó kapcsán került előtérbe, hogy mi van, ha a két szó, a [[S/Szkúlosz\|szkúlosz]] = (korcs?) kutya(kölyök?) és a `szkolé` = iskola szavak összefüggenek ill. egy (asszociációs) eredetűek?  
+De ha már hasonló hangalakú szavakról van szó, legutóbb [[S/Szkíta\|szkíta]] címnél a Szkolotosz/Szkolotesz névforma előtagjába látott, több helyen taglalt, [[G/Gyúl\|gyúl]] igénkkel is kapcsolatba hozott görög `szkílosz` = kutya szó kapcsán került előtérbe, hogy mi van, ha a két szó, a [[S/Szkílosz\|szkílosz]] = (korcs?) kutya(kölyök) és a `szkolé` = iskola szavak összefüggenek ill. egy (asszociációs) eredetűek?  
 Eredhet az iskola a [[K/Kutyafejű\|kutyafejű]]ek ilyen nevéből vagy éppen fordítva is: hiszen a **szkíták voltak azok, akik a görögök tanítómesterei** voltak.  
-Mivel az arab nyelvben hasonló (szellemi, égi tanításokkal kapcsolatba hozható) névalak szintén szerepel (nyilván nem a francia `échelle` = létra átvéte?), valószínű, hogy ténylegesen az iskola vagy hasonló alakú szóból jött létre utóbb, asszociációs úton a [[S/Szkúlosz\|szkúlosz]] = kutya név. Ugye itt is, mint oly sok más helyen (lásd Bíró Lajos A magyar régmúlt titkai című PDF-ben sok helyen megjegyzéseimet is erről) az nehezíti a dolgot, a (lineáris) levezetést, hogy a kutya is fényes és az iskola tanítás is a fényről szól, abból indul ki (ezért lehet akár mindkettő eredete [[G/Gyúl\|gyúl]]). De maga az arab szó ilyen jelentéssel sokatmondónak tűnik (a walesi szóhoz hasonlóan eredetibb is, mint a(z ezek szerint mindenhonnan lopkodó?) latin).  
+Mivel az arab nyelvben hasonló (szellemi, égi tanításokkal kapcsolatba hozható) névalak szintén szerepel (nyilván nem a francia `échelle` = létra átvétele?), valószínű, hogy ténylegesen az iskola vagy hasonló alakú szóból jött létre utóbb, asszociációs úton a [[S/Szkílosz\|szkílosz]] = kutya név. Ugye itt is, mint oly sok más helyen (lásd Bíró Lajos A magyar régmúlt titkai című PDF-ben sok helyen megjegyzéseimet is erről) az nehezíti a dolgot, a (lineáris) levezetést, hogy a kutya is fényes és az iskola tanítás is a fényről szól, abból indul ki (ezért lehet akár mindkettő eredete [[G/Gyúl\|gyúl]]). De maga az arab szó ilyen jelentéssel sokatmondónak tűnik (a walesi szóhoz hasonlóan eredetibb is, mint a(z ezek szerint mindenhonnan lopkodó?) latin).  
 
 Visszatérve az iskola szó elemzésére, elképzelhető, hogy a szóvégi [[A/A\|A]] szócskával itt sem (ahogy vélhetően például a [[G/Géza\|Géza]], [[B/Béla\|Béla]], [[G/Gyula\|Gyula]] nevekben sem) kell számolni. Isz-Kol pedig Fény-Kör, [[E/Életkör\|életkör]] értelműnek lehet meghatározható. Hisz mi mást kellene egyáltalán tanítani, mint a természeti dolgok, a világegyetem valós működését?  
 
@@ -50,10 +50,13 @@ Lásd még [[D/Daru\|daru]], ahol inkább az életfa-létra fokairól lesz szó.
 
 ## Iskola szó más nyelvekben
 
+A finn `koulu` = iskola szót természetesen a germán (svéd) nyelvből eredeztetik. Alapjában véve az s-elővetés a Magyar Adorján által árja nyelveknek hívott nyelvek tulajdonsága, de túl sok szól az ellen, hogy sz-előhang nélküli megfejtése legyen a szónak.  
+Mindenesetre jegyezzük meg a [[H/Hall#Hall 2)\|hall]] címnél hozott udmurt/votják `kuala` = templomszerű pogány szent ház (amely előtt az istenek tiszteletére szánt állatokat áldozták föl) szót, és akár [[H/Hall#Hall 1)\|hall]] igénket is, hiszen az egyetemen ma is hallgatók hallhatnak.  
+Varga Zsigmond Az ősmagyar mitológia című könyvének 128-130. oldalán kultuszházról és templomnak megfelelő házról van szó, így a finnségi/ugor eredetet nem lehet teljesen kizárni.  
+- Szent házról lásd még [[K/Kota#Szent ház\|kota]] címnél.
+
 A török `okul` szóról már esett szó fentebb.  
 Érdekes a perzsa közeg. [[D/DUBA\|DUBA]] címnél is volt szó a perzsa `dabestān` = tanárok háza (iskola) szóról, melyet Arthur N. Wollaston 1882-es szótárának school címnél ugyan nem említ, nála első helyen `maktab` = iskola áll, míg második helyen egy arab eredetű `madrasah`, `madrese` szó áll, míg a vulgárisnak adatolt `kuttáv` és `kuttau` nyilván a `kitáb` = könyv szóval rokoníthatók és nem közvetlenül kutyával, holott kutyáról fentebb is volt szó.  
 Ami itt számunkra leginkább érdekes, az az arab `madrasa`, `madraísah`, mely a WordSense [alábbi](https://www.wordsense.eu/%D9%85%8%A9/#Arabic) oldala szerint iskola, teológiai iskola, akadémia, és más eltérő jelentésekkel (rítus és meggyőződés) áll.  
 Thúry József Török történetírók I. kötetének Kemálpasazáde – Mohács-nâme című fejezetében álló szövegben találjuk a `müderrisz` és a `medresze` szavakat (felsőbb iskola, collegium, akadémia) tanítója, előadó tanára.  
 A héber `midrás` = tanulmányozás is innen kerül ki.  
-
-Amikor meghallottam a szót, akkor rögtön a [[M/Masorete\|Masorete]] héber írnokok nevére asszociáciálva ötleteltem és természetesen itt is [[M/Magyar\|magyar]] eredetet keresek. A szó hivatalos, m-előhang elhagyásos ismételten igéből való levezetését nem fogadom el. Az igét utólag alkották ki.  

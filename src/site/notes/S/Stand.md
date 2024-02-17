@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","created":"2023-10-17T09:33","updated":"2024-02-02T03:44"}
+title: Stand
+foreignTitle: false
+aliases:
+  - stand
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-10-17T09:33
+dg-updated: 2024-02-15T02:04
+dg_upload_status: VNC done
+date created: 2023-04-17
+date modified: 2024-02-15T02:04
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Stand.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Stand.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Stand.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Stand.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Stand.md
+danglinglink_commentedout: true
 ---
-
 
 # Stand
 
@@ -26,20 +44,20 @@ Ugyanerre gondoltam [[I/Isztán\|Isztán]] címnél látott CzF sorok alapján:
 - Azaz a [[S/Stone\|stone]] eredete lenne a kiinduló, és abból (a kőszobor állítása nyomán) alakulna ki az állít és áll értelem. Hasonló esetet láttunk [[M/Monument\|monument]] címnél: a `monere` ige utólagosan képzett.  
 
 [[S/Stare\|Stare]] = bámulni, [[S/Stead\|stead]] és [[T/TÁT\|TÁT]] cím alatt írottak alapján új gondolatmeneten keresztül fejthető meg az indo-európai \*sta- gyök mibenléte.  
-Ha abban megegyezhetünk, hogy a Tát a mindenség teteje, a Sarkcsillag, ahol a különböző kultúrák az Istenüket képzelték el lakni, és a magyar nyelvben is Tát (lehetett) a Sarkcsillag neve; innen valóban érthetővé válik a Tátos (Táltos) neve, de megmagyarázhatja az egyetlen igazán álló (sTATionary) csillag nevén keresztül a latin `stare` = egy helyben állni, angol stand és egyáltalán az indo-európai \*sta- gyök eredetét is: station képződött Tát-ból és csak abból az ige (de [[S/State\|state]] is állam).  
+Ha abban megegyezhetünk, hogy a Tát a mindenség teteje, a Sarkcsillag, ahol a különböző kultúrák az Istenüket képzelték el lakni, és a magyar nyelvben is Tát (lehetett) a Sarkcsillag neve; innen valóban érthetővé válik a Tátos (Táltos) neve, de megmagyarázhatja az egyetlen igazán álló (sTATionary) csillag nevén keresztül a latin `stare` = egy helyben állni, angol stand és egyáltalán az indo-európai \*sta- gyök eredetét is: station képződött Tát-ból és csak abból az ige (vö. angol `state` = állam).  
 Hogy a [[T/Tanya\|tanya]] (ahol Isten tanyázik) és asztal (négyszögletes és négylábú, nem véletlenül) szavak, valamint a [[S/Star\|star]] = csillag és [[S/Stare\|stare]] = bámulni szavak hogyan kapcsolódnak egymáshoz, a Tát és Tár szavakhoz, így mind-mind megmagyaráztatott; gyakorlatilag a Tát és a Tár szavak hasonlósága okozza a zavart és ezekből alakultak ki a fentiek, de pontos logikai sorrend itt nem is számít, csak az összefüggések: a Sarkcsillag áll és ahhoz mérten vizsgálja a többi csillag mozgását a megfigyelő, a táltos.  
 (Ezen alapszavak még arra is engedhetnek következtetni, miképp alakultak ki a latinban a főnévi igenév illetve a múlt idejű melléknévi igenév ragjai.)  
 
 Megerősíti az elképzelést CzF tét szava:  
 > TÉT  
- (tě-et) fn. tt. tét-et. 1) Tárgyra vonatkozva, amit valahova helyezünk, állítunk, fektetünk stb. különösen játékban, kereskedésben azon mennyiség, melyet nyerészkedés végett ajánlunk, odaadunk. Az első tétre nyerni, a másodikban a nyereséget is elveszteni. 2) Cselekedet, mivelkedet. Jó tét, gonosz tét. Jó tét helyébe jót ne várj.  
+>  (tě-et) fn. tt. tét-et. 1) Tárgyra vonatkozva, amit valahova helyezünk, állítunk, fektetünk stb. különösen játékban, kereskedésben azon mennyiség, melyet nyerészkedés végett ajánlunk, odaadunk. Az első tétre nyerni, a másodikban a nyereséget is elveszteni. 2) Cselekedet, mivelkedet. Jó tét, gonosz tét. Jó tét helyébe jót ne várj.  
 - Egyébiránt franciául `tête` = fej.  
 
 [[S/Stable\|Stable]] szónál legutóbb [[T/TAM\|TAM]], [[T/TÁM\|TÁM]] szavak kapcsán írtuk, hogy mivel szanszkrit nyelven is `sztambh` v. `sztabh` am. támaszt(ani), ezért gyakorlatilag a TAM/TAT és TÁM/TÁT párosok együttesen lehettek befolyással a szó kialakulására.  
 Az is elképzelhetőnek tűnik, hogy a támasztási pontról kapta nevét (vitte tovább jelentését) a szanszkrit `sztambh`/`sztabh`, ugyanis a [[P/Precesszió\|precesszió]] és [[J/Jump\|jump]] szavaknál előjövő szanszkrit `szkambha` = világtengely, sark, pólus szó szinte azonos vele. Nyilvánvalóan csillagászati fogalmak, szakszavak kerültek telluris használatra. Így kerülünk vissza a [[S/Sarkcsillag\|Sarkcsillag]]hoz és annak kitámasztottságához azaz "statikusan állóságához."  
 
 Legutóbb [[K/Konstantin\|Konstantin]] nevének latin eredete ([[C/Constant\|constant]]) kapcsán értekeztünk. Megállapítottuk, hogy könnyen belső fejlődésű latin szó lehet.  
-Igen ám, de mi a konstans, az állandóságot képviselő? A [[S/Stone\|stone]] címnél álló Varga Géza féle passzus szerint is a Kő (ahogy Wass Albert is írja, "A kő marad"). A [[S/Stone\|stone]], [[I/Isztán\|Isztán]], [[I/Isten\|Isten]] szavak tehát valóban kereshetők a konstans fogalmában. Igaz, akkor a [[S/Stand\|stand]] ige eredetije honnan származik? Nyilván az állandóságot képviselő Nap, Napkirály és annak állama nyomán, vagy pedig az állócsillagok irányában kell keresni eredetét, vagy a napfordulati megállás (solstitium) pontja irányában, vagy pedig a [[S/Sarkcsillag\|Sarkcsillag]] fogalmából kiindulva. A Sarkcsillag (Öregisten) viszont a napfordulati téridőbeli ponthoz mérhető Szíriusszal is kapcsolatba hozatott, ami/aki neje az Ég Urának, aki Jupiter-Orion, minek féme a(z ismét [[I/Isten\|Isten]] szavunkból származó) latin `stannum` = ón.  
+Igen ám, de mi a konstans, az állandóságot képviselő? A [[S/Stone\|stone]] címnél álló Varga Géza féle passzus szerint is a Kő (ahogy Wass Albert is írja, "A kő marad"). A [[S/Stone\|stone]], [[I/Isztán\|Isztán]], [[I/Isten\|Isten]] szavak tehát valóban kereshetők a konstans fogalmában. Igaz, akkor a [[S/Stand\|stand]] ige eredetije honnan származik? Nyilván az állandóságot képviselő Nap, Napkirály és annak állama nyomán, vagy pedig az állócsillagok irányában kell keresni eredetét, vagy a napfordulati megállás (`solstitium`) pontja irányában, vagy pedig a [[S/Sarkcsillag\|Sarkcsillag]] fogalmából kiindulva. A Sarkcsillag ([[O/Öregisten\|Öregisten]]) viszont a napfordulati téridőbeli ponthoz mérhető Szíriusszal is kapcsolatba hozatott, ami/aki neje az Ég Urának, aki Jupiter-Orion, minek féme a(z ismét [[I/Isten\|Isten]] szavunkból származó) latin `stannum` = ón.  
 Aztán más alkalommal ismét visszatértem a témára (már csak ide teszem):  
 A fentiek alapján az állam = ország = kő (ami marad = [[S/Stay\|stay]]) = [[S/Stone\|stone]] = [[I/Isztán\|Isztán]], azaz nem az asztal a kiinduló.  
 Sőt, az áll fogalma nem is annyira helyre, hanem időre, téridőre vonatkozó (a körkereszt jelképben a függőleges szár szintén). Hiszen a mozdulatlan örök/Öreg isten a Sarkcsillagban a statikus és így egyetlen biztos ([[A/Anchor\|anchor]], [[S/Secure\|secure]]) pont, de ez a pont átvitetett a másik északi, a nyári napfordulós téridőbeli pontra is. Ez a két hely az Isten égi helye, androgünként és inkább nőiségként a [[S/Szíriusz és a Sarkcsillag\|Szíriusz és a Sarkcsillag]]ban, és hímségként Nimrud-Orionban.  

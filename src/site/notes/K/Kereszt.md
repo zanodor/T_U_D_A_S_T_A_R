@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"]}
+{"dg-publish":true,"permalink":"/K/Kereszt/"}
 ---
 
 
@@ -140,14 +140,14 @@ A [[B/Bal és jobb\|bal és jobb]] címnél is szereplő Altyn Tepe-i leleten ba
 Molnár V. József Világ-Virág című könyvének 22-23. oldaláról való a mellékelt képi adatsor (az ő adatait ide-oda igyekszem besuvasztani; egyes adatai már más forrásokból [[V/Világmodell\|világmodell]] címnél szerepeltek). Sági Károly Árpád-kori varázslás régészeti emlékei című tanulmányában sok hasonló leletet mutat be amelyek hasonlóak (kereszt és más témából).  
 
 ![assets/Kereszt_image9.png](/img/user/K/assets/Kereszt_image9.png)  
-Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén) övmustrák képeit elemzi. Itt is megjelennek a keresztek és MVK kitér a második ábrán a Nap négy helyzetére is.  
+Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén) övmustrák képeit elemzi. Itt is megjelennek a keresztek és MVirág Kálmán kitér a második ábrán a Nap négy helyzetére is.  
 
 #### Magyar Adorján Csodaszarvasában írja:  
 
 > Az avaroknál, akik tűztisztelők voltak, Barapa vagy Barisa Nap- és Tűzistennek és a tűznek jelképei ezen jelek voltak. Az egyenlőszárú kereszt a [[T/Tűz\|tűz]] jele volt, a körbe foglalt ilyen kereszt pedig a Napé, vagyis ez a Napban székelő tüzet is jelentette. Az avaroknál ezen kereszt azon két egymáshoz dörzsölt fadarab ábrázolása volt, amelynek segítségével az ősök a legrégibb időkben tüzet gyújtottak.  
 - Itt [[A/Agni\|Agni]] nevét és a latin `ignis` szót lehetne említeni.  
 
-> A kereszt a tűz jelképe is lévén, ezt az avarok a napkorongba is ábrázolni szokták volt, úgy ahogy azt föntebb mutattuk be, mivel minden földi tűz a Napból származott erő megnyilvánulása, vagyis tehát minden földi tűz is tulajdonképen a Napból származott. E keresztes napkorongot pedig az avarok az Égistent jelképező szent állat, a Csodaszarvas, valamint a náluk ezt többnyire helyettesítő őskori óriáskos (amely némileg a mai majdnem ökörnagyságú belső-ázsiai argali-koshoz is hasonlított, de egyenes és kötélmódjára csavart szarvai voltak) szarvai közé is odaábrázolták. Ezen keresztes napkorongot alakították tehát a \[JM által is ismertetett\] Hubertusz-mondában keresztény keresztté[^2].  
+> A kereszt a tűz jelképe is lévén, ezt az avarok a napkorongba is ábrázolni szokták volt, úgy ahogy azt föntebb mutattuk be, mivel minden földi tűz a Napból származott erő megnyilvánulása, vagyis tehát minden földi tűz is tulajdonképen a Napból származott. E keresztes napkorongot pedig az avarok az Égistent jelképező szent állat, a Csodaszarvas, valamint a náluk ezt többnyire helyettesítő őskori óriáskos (amely némileg a mai majdnem ökörnagyságú belső-ázsiai argali-koshoz is hasonlított, de egyenes és kötélmódjára csavart szarvai voltak) szarvai közé is odaábrázolták. Ezen keresztes napkorongot alakították tehát a \[Jankovics Marcell által is ismertetett\] Hubertusz-mondában keresztény keresztté[^2].  
 > Az őskereszténység a keresztet vallásos jelképként még nem ismerte, aminthogy ez az őskeresztény katakombákban és régibb keresztény templomokban még teljesen hiányzik. Tény, hogy ez csak az avarok kora után válott általános keresztény jelképpé, vagyis ezt a keresztények tulajdonképen csak az avarokat utánozva kezdték így használni[^3]. Tény az is, hogy a "kereszténység" ezen magyar neve is csak különleges magyar csinálmány, mert más nyelvekben nem a kereszt nevéből, hanem Jézus görög eredetű [[K/Krisztus\|Krisztus]] nevéből származott, amelynek értelme "fölkent", és tehát "krisztian"-nak hangzik és "krisztuskövető" az értelme.  
   
 
@@ -363,7 +363,7 @@ Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent ci
 
 Az [alábbi](https://youtu.be/Msa4rFmGoU0) ÁKTV műsorban (Czékus Jób féle Pannon Rádiós anyagból összeállítva) 39:20-nál Pap Gáborra hivatkozva azt mondják, hogy a **kereszt a földi ember és az égiek kapcsolatá**t jelenti.  
 
-És hogy mennyire igaz, amit KT ezzel kapcsolatban mond, alátámasztható az alábbiakkal:  
+És hogy mennyire igaz, amit Kubínyi Tamás ezzel kapcsolatban mond, alátámasztható az alábbiakkal:  
 Az aki [[A/Áll\|áll]] (gerincoszlopa függőleges, mint a fatörzsé) az [[E/ÉL\|él]], és aki fekszik, az vagy [[A/AL\|al]]szik, vagy [[H/HAL\|hal]]ott (gerincoszlopa vízszintes). Itt említhető meg, hogy az emlősök között egyedül az ember képes teljesen felegyenesedni, míg a [[K/Kutya\|kutya]] az, amelynek gerincoszlopa[^14] vízszintes, párhuzamos a Föld felszínével (képes két lábra állni, ahogy a ló is, és ez fontos lehet). A [[M/Majom\|majom]] ([[A/Ape\|ape]]) az ember és kutya között van. (Jegyezzük itt is meg, hogy sok állat a kutyából látszik kiindulni, vagy ahhoz hasonlíttatott).  
 
 [[A/Áll#Áll téridőbeli értelmezése\|Áll téridőbeli értelmezése]] cím/alcímnél írtuk:  
@@ -444,7 +444,7 @@ Másutt még szól (erre vonatkozó infókat lásd [[E/Egy\|egy]] illetve [[S/Sz
 
 Molnár V. József Világ-Virág című könyvének 19. oldalán írja, hogy általában egyenlő szárú kereszt osztja a jurtatető kerek füstnyílását, a szerkezeti elemek felső rögzítőjét, amely egyben az égre nyíló ablak (melyről lásd még [[O/ÓG\|ÓG]]).  
 
-Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az [[A/Ankh\|ankh]]-kereszt (képet tőle lásd ott) vizsgálatánál a T-keresztről azt írja, hogy ideiglenes idő-tér (nálam: [[T/Téridő\|téridő]]) princípium. Egy kicsit hasonlít ahhoz, amit KT a kereszt-szárak metszőpontjáról mondott irracionális pontként jellemezve azt.  
+Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az [[A/Ankh\|ankh]]-kereszt (képet tőle lásd ott) vizsgálatánál a T-keresztről azt írja, hogy ideiglenes idő-tér (nálam: [[T/Téridő\|téridő]]) princípium. Egy kicsit hasonlít ahhoz, amit Kubínyi Tamás a kereszt-szárak metszőpontjáról mondott irracionális pontként jellemezve azt.  
 
 #### Acharia S Suns of God...
 
@@ -578,7 +578,7 @@ René Guénon The Symbolism of the Cross című könyve is érdeklődésre tarth
 #### Antal István Tündéres, derengő...
 
 ...című Ősi Gyökér 2005/4. sz. megjelent cikkében az égen megmutatkozó férfi-női párok bemutatásakor egy olyan három dimenzióban értelmezhető keresztet mutat be, melyről [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] és más címnél tettünk már említést:  
-> Úgy tűnik, mintha egyfajta keresztbe rendeződés a Tejúton is kimutatható lenne. Pontosabban látok egy keresztet, aminek három végén három különböző jellegű férfi-nő viszony érzékelhető, míg a kereszt negyedik, alsó végénél semmi. Itt lenn nagyon sötét van. A kereszt egyik vízszintes végén, a keletin \[nálam ez észak\], ahol a Bika és az Ikrek között a Tejút és a Napút találkozik, ott az Orion \[női párjában viszont nem Szíriuszt mutatja be, ahogy [[M/Magyar istencsalád\|magyar istencsalád]] címnél GYÁ teszi, hanem az asztrológiában is anyai megítélésű Rák csillagképet és az ahhoz köthető két kisebb csillagcsoportot, a Fiastyúkot és a Méhkast (Pleiadok és Hyadok)\].  
+> Úgy tűnik, mintha egyfajta keresztbe rendeződés a Tejúton is kimutatható lenne. Pontosabban látok egy keresztet, aminek három végén három különböző jellegű férfi-nő viszony érzékelhető, míg a kereszt negyedik, alsó végénél semmi. Itt lenn nagyon sötét van. A kereszt egyik vízszintes végén, a keletin \[nálam ez észak\], ahol a Bika és az Ikrek között a Tejút és a Napút találkozik, ott az Orion \[női párjában viszont nem Szíriuszt mutatja be, ahogy [[M/Magyar istencsalád\|magyar istencsalád]] címnél Gyárfás Ágnes teszi, hanem az asztrológiában is anyai megítélésű Rák csillagképet és az ahhoz köthető két kisebb csillagcsoportot, a Fiastyúkot és a Méhkast (Pleiadok és Hyadok)\].  
 > A kereszt átellenes vízszintes végén, ahol a Skorpió és a Nyilas között fut a Tejút s keresztezi a Naputat, a Kígyótartó csillagkép a tengelyjelölő.  
 
 Itt a Nyilasnak megfelelő [[S/Sánta koldus\|Sánta koldus]] és a [[S/Szépasszony\|Szépasszony]] párosát mutatja be.  
@@ -641,7 +641,7 @@ Ezek az összefüggések magyarázzák az antik földszimbólum széleskörű az
 Az [alábbi](https://youtu.be/n5DW35ch1kg) ÁKA előadásban (a spirituális kérdéseket kicsit nehezen magyarázó, kicsit nehezen követhető) Bars Máriától valahol elhangzott, hogy a fény központosulásában, koncentrációjában jelenik meg az anyag. Valahogy így mondta (nem találom most). Végeredményben ezért is lehet, hogy a körbe zárt kereszt lehet a fény és egyúttal az anyagi világ Földje is.  
 
 [^9]: Lábjegyzet:  
-JM írhatta volna úgy is, hogy a Világ [[K/Köldök\|köldök]]e volt.  
+Jankovics Marcell írhatta volna úgy is, hogy a Világ [[K/Köldök\|köldök]]e volt.  
 
 [^10]: Lábjegyzet:  
 Ezért is lehet, hogy a [[S/Székely-magyar rovásírás#F\|székely-magyar rovásírás F]] betűjét föld értelemben adják meg. Valójában nem az egész jel jelenti a Földet, mármint itt már az égitest Földet, hanem csak a kereszt-szárak találkozópontja, az origója.  
