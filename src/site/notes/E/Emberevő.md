@@ -1,21 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/E/Emberevő/"}
+{"dg-publish":true,"permalink":"/E/Emberevő/","title":"Emberevő","created":"2023-10-21T03:45","updated":"2024-02-28T17:40"}
 ---
 
----
-title: Emberevő
-aliases:
-  - emberevő
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-21T03:45
-dg-updated: 2023-10-21T03:45
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
 
 # Emberevő
 
@@ -29,4 +15,4 @@ Lásd [[E/Emberevés\|emberevés]]. [[I/Isszédonok\|Isszédonok]] címnél is v
 ## Hérodotosz közlései alapján készült térkép
 
 A [[H/Hérodotosz\|Hérodotosz]] közlései alapján készült hyperboreaiakra is kitérő térképen többek közt ők is szerepelnek:  
-![assets/Emberevo_image1.png|undefined](/img/user/E/assets/Emberevo_image1.png)  
+![assets/Emberevo_image1.png|invert_dark](/img/user/E/assets/Emberevo_image1.png)  
