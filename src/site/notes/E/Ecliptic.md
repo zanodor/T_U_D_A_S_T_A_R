@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-01-24T03:40"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-02-29T20:39"}
 ---
 
 
@@ -21,12 +21,12 @@ Angol magyarázat (internetről):
 > Az ekliptika a Föld Nap körüli pályájának körpályája. E mozgás során klasszikusan 12 (valójában 13) csillagképet, amelyek a Napon túl a háttérben vannak, a Nap egymás után eltakar a látóteréből.  
 > Ha a Nap középpontjában(!) állhatnánk, és megfigyelhetnénk a Föld keringését, akkor azt látnánk, hogy a Föld a keringése során a háttérben lévő állatövi csillagképekkel szemben egy pályát ír le – ugyanazt a pályát, amit mi a Napot látjuk leírni, de az ellenkező irányból nézve. Ezért az ekliptika, amellett, hogy a Nap látszólagos útja a háttércsillagok előtt, a Föld pályájának a térbe vetített síkjának is tekinthető.  
 
-![assets/Ecliptic_image1.png](/img/user/E/assets/Ecliptic_image1.png)  
+![assets/Ecliptic_image1.png|invert_dark](/img/user/E/assets/Ecliptic_image1.png)  
 
 #### Jankovics Marcell A Nap könyve...
 
 ...című könyvében található egy jó bevezető:  
-> A Napnak főleg olyan csillagokkal, csillagképekkel akad dolga, melyek az "útjában állnak". Az ember igen régóta tudja, hogy a Napnak és a többi planétának nagyjából azonos és áliandó az útvonala. Ehhez viszonyításul az ekliptika mögötti csillagok sora kínálkozott, rnelyekböl már csak a könnyebb megjegyezhetőség végett is csillagképeket alkotott az ember, így keletkezett az Állatöv (amelyből szerte a világon többféle is van).  
+> A Napnak főleg olyan csillagokkal, csillagképekkel akad dolga, melyek az "útjában állnak". Az ember igen régóta tudja, hogy a Napnak és a többi planétának nagyjából azonos és állandó az útvonala. Ehhez viszonyításul az ekliptika mögötti csillagok sora kínálkozott, melyekből már csak a könnyebb megjegyezhetőség végett is csillagképeket alkotott az ember, így keletkezett az Állatöv (amelyből szerte a világon többféle is van).  
 > Az Állatövvel rokon szerepe volt az ókori Egyiptomban a vele párhuzamos ún. dekáncsillag-képsornak. Egyiptomban az évet 36 10 napos hétre, dekádra osztották, ennek megfelelően az égen is 36 dekáncsillagzat, dekánisten sorakozott egymás után. Az egyes dékánok 10 napon át jelezték az éj egy-egy órájának a kezdetét, 10 nap eltelte után "az urak egyet jobbra léptek", minden óra más jelződekánt kapott, aszerint, ahogy a Nap csillagok előtti elmozdulásától függően más-más csillagcsoport tűnt föl napnyugtakor a keleti horizonton.  
 > A nappálya menti csillag(zat)ok között vannak feltűnőbbek, ráadásul olyanok, amelyek egy adott időszakban különösen fontos viszonyítási pontnak számítottak, mivel eltűnésük (Nappal való együttállásuk) vagy heliakus kelésük (amikor a Nap eltávolodásával ismét láthatóvá lesznek a hajnali égen) valamilyen jelentős, évről évre ismétlődő földi eseményt vagy naptári fordulatot jelezhet előre.  
 > Egyiptomban a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] a Nílus áradásának kezdetét jelezte. A várva várt eseményt méltó módon ünnepelték meg. Ez volt Egyiptomban az [[U/Újév\|újév]] napja (júl. 19.), amelyen Szíriusz és a Nap a nászát ülte. (Egyesülésük a Földről nézve a valóságban is végbemegy; a hajnali égen fölragyogó csillag fénye beleolvad a kelő Nap vakító sugaraiba.) Az eseményt elbeszélő mítoszt az ünnepen el is játszották. A denderai Hathor templomban Szíriuszt Hathor-Ízisz, a Napot Hórusz személyesítette meg. (A Nap és csillag vagy csillagzat együttállása nemcsak egyesülést, hanem azonosulást is jelenthetett, így lesz a Kos csillagkép a rajta áthaladó Nap fényében aranygyapjas kos, az Orion a feje fölé érkező Napnak köszönhetően naphérosz, a Tejutat keresztező Nap a világfán termő aranyalma.)  
@@ -38,9 +38,9 @@ Angol magyarázat (internetről):
 
 Lásd még öt csatolt képet.  
 ![assets/Ecliptic_image2.png](/img/user/E/assets/Ecliptic_image2.png)  
-![assets/Ecliptic_image3.png](/img/user/E/assets/Ecliptic_image3.png)  
-![assets/Ecliptic_image4.png](/img/user/E/assets/Ecliptic_image4.png)  
-![assets/Ecliptic_image5.png](/img/user/E/assets/Ecliptic_image5.png)  
+![assets/Ecliptic_image3.png|invert_light](/img/user/E/assets/Ecliptic_image3.png)  
+![assets/Ecliptic_image4.png|invert_light](/img/user/E/assets/Ecliptic_image4.png)  
+![assets/Ecliptic_image5.png|invert_light](/img/user/E/assets/Ecliptic_image5.png)  
 ![assets/Ecliptic_image6.png](/img/user/E/assets/Ecliptic_image6.png)  
 
 #### Jankovics Marcell írja:
@@ -78,9 +78,9 @@ Másrészt a kerékagy világkerék (nevezhetjük [[H/Hamlet malma\|Hamlet malm�
 > A fél gyűrű felhozatala a víz alól a [[P/Precesszió\|precesszió]]nak is alkalmas metaforája lehetne éppen; a földtengely billegése következtében ugyanis a téli félút, ami jelenleg "víz alatt" van, kereken 13000 év múlva szárazra kerül, és nyári félút lesz, míg a jelenlegi nyári félút a vízbe merül, téli félút lesz.  
 - Jankovics Marcell nem is gondolná, mennyire helyénvaló egyes mesék és mítoszok [[N/Nagy Év\|Nagy Év]]ben való vizsgálata, Szíriuszostul-mindenestül.
 
-JMJ egyik fontosnak tekinthető észrevétele, hogy a Tejút rávetíthető a földi hegyvonulatok vonalára. [[S/Szikla\|Szikla]] és [[S/Szümplegádok\|szümplegádok]] címnél volt arról még szó, hogy a Tejút nemcsak folyó, de hegyvonulat is lehet.  
+John M. Jenkins egyik fontosnak tekinthető észrevétele, hogy a Tejút rávetíthető a földi hegyvonulatok vonalára. [[S/Szikla\|Szikla]] és [[S/Szümplegádok\|szümplegádok]] címnél volt arról még szó, hogy a Tejút nemcsak folyó, de hegyvonulat is lehet.  
 Érdekes, hogy a berajzolás alapján az ekliptika az [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]]re kerül. Lásd a csatolt képen.  
-![assets/Ecliptic_image7.png](/img/user/E/assets/Ecliptic_image7.png)  
+![assets/Ecliptic_image7.png|invert_dark](/img/user/E/assets/Ecliptic_image7.png)  
 
 Az Analemma-görbe a nap éves járása, de nyilván nem csillagászati, hanem fotós kifejezés lehet.  
 

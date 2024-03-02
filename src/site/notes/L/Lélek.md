@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-15T17:02"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-28T21:17"}
 ---
 
 
@@ -36,7 +36,7 @@ A kérdés, amit [[S/Szellem\|szellem]] címnél feltettünk, itt is feltehető:
 - Rőczei György és mások itt szereplő adatai alapján látjuk, hogy ez a Tomory Zsuzsa által is említett isteni lehelet lesz [[I/Isa\|isa]]/[[I/Íz\|íz]] néven használva.  
 
 > A lélek szorosan tartozik a személyhez, mint életének és személyiségének testtől független hordozója, az ember belső valósága, az emlékezés, értelem és képzelet hordozója. Miután az élet szorosan kötődik a lélekhez, minden rítus, mágia és hitrendszer alapja a lélekre vonatkoztatott elképzelések rendszere is. A vallás- és hitvilág, mely a valóság és a szellemi világ összekapcsolását hozza létre, szinte minden megnyilvánulásában az azt létrehozó népesség, törzs vagy nemzet lélekfogalmát tükrözi.  
-> Különböző korok különböző népei más és más lélekfogalommal rendelkeztek. A zsidók például egyistenhitüknek megfelelően egyetlen lelket képzeltek el, mint isteni szikrát az élő emberben, de a görögök és rómaiak sok istenben való hite is csupán egyetlen lelket tételezett fel. A keresztény lélekfogalom is eme "haladó európai" hagyomány folytatója. Ez a lélekfogalom vált általánossá Európában, így a mi nyelvünk is csak(?) ezt ismeri a magyar néprajzi irodalomban. Ez a lélekfogalom az Én-lélek (élet-lélek, lehelet-lélek, Breath-soul), és néprajzi irodalmunk kellőképpen körüljárta, mi történik vele születésünkkor, életünkben és halálunk után. (Például: "Egy lelkem van, azt is odaadnám érted.") A finnugor nyelvészek is bőségesen alátámasztják az ÉN-lélek ősiségét (vogul: lel, lili; osztyák: lil; zürjén: lol, lov; votják: lul; finn: löyly; észt: leil; lapp: lievl) , de érthetetlen módon ennél többet a magyar lélekfogalomról ők sem állítanak. Pedig tehetnék! A finn-ugornak nevezett ősi népesség feltételezett rokonsága bőven megengedné, hogy a legközelebbi rokonainknak hirdetett vogulok és osztjákok nyelvét is jól ismerő kutatók az ő lélekfogalmukhoz hasonlót keressenek nyelvünkben.  
+> Különböző korok különböző népei más és más lélekfogalommal rendelkeztek. A zsidók például egyistenhitüknek megfelelően egyetlen lelket képzeltek el, mint isteni szikrát az élő emberben, de a görögök és rómaiak sok istenben való hite is csupán egyetlen lelket tételezett fel. A keresztény lélekfogalom is eme "haladó európai" hagyomány folytatója. Ez a lélekfogalom vált általánossá Európában, így a mi nyelvünk is csak(?) ezt ismeri a magyar néprajzi irodalomban. Ez a lélekfogalom az Én-lélek (élet-lélek, lehelet-lélek, Breath-soul), és néprajzi irodalmunk kellőképpen körüljárta, mi történik vele születésünkkor, életünkben és halálunk után. (Például: "Egy lelkem van, azt is odaadnám érted.") A finnugor nyelvészek is bőségesen alátámasztják az ÉN-lélek ősiségét (vogul: lel, lili; osztják: lil; zürjén: lol, lov; votják: lul; finn: löyly; észt: leil; lapp: lievl) , de érthetetlen módon ennél többet a magyar lélekfogalomról ők sem állítanak. Pedig tehetnék! A finn-ugornak nevezett ősi népesség feltételezett rokonsága bőven megengedné, hogy a legközelebbi rokonainknak hirdetett vogulok és osztjákok nyelvét is jól ismerő kutatók az ő lélekfogalmukhoz hasonlót keressenek nyelvünkben.  
 > Ők valóban tudják, hogy a legtöbb finn-ugor nyelvben ismert **egy másik lélekfogalom is, a vogulok által is-nek, jis-nek, az osztjákok által ilt-nek, is-nek, ishornak, a finnek által itse-nek, az észtek által ise-nek nevezett lélek, ami ÁRNYÉK-lélek (képmás-lélek**, shadow-soul)...  
 - Jó ez a képmás-lélek kifejezés az [[E/Ember\|ember]] címnél is említett [[A/Asztráltest\|asztráltest]] alternatív neveként.  
 
@@ -392,12 +392,12 @@ Ha a szabadlélek = árnyéklélek és az árnyéklélek = vándorlélek, akkor 
 Igazságot tenni talán megint csak az idegen nyelvek segítéségével tehetünk (ha figyelembe vehetők). A latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg.  
 Azért mondom, hogy megint, mert a germén `seele`/[[S/Soul\|soul]] = lélek szavak kapcsán egyszer már rámutattunk, hogy ezek meg éppen szél/szellet/szellem szavainkra mutatnak rá.  
 
-![assets/Lélek_image3.png](/img/user/L/assets/L%C3%A9lek_image3.png)  
+![assets/Lélek_image3.png|invert_dark](/img/user/L/assets/L%C3%A9lek_image3.png)  
 [[H/Harmadik szem\|Harmadik szem]] címnél szintén más, már a lélek és szellem fogalmainak összetévesztésére utaló információkat látunk:  
 A szimpatikus idegrendszert a görögök a \[melyik?\] lélek székhelyének tették meg, Schleich a kozmikus kapcsolatok felfogó szervének, Jung a faji emlékezés tárházának; vele azonosíthatók a hindu jóga csakrái, vagyis az életerő áramának központjai.  
 A görögök viszont, egyiptomi és babiloni mestereik nyomán azt tanították, hogy a lélek lakóhelye a rekeszizom alatt levő idegköteg, a nap-fonadék (plexus solaris).  
 Azaz mindenki beszél mindenről, lélek gyűjtőnév alatt, másrészt nem tudták már régen és ma sem, mi micsoda.  
-![assets/Lélek_image4.png](/img/user/L/assets/L%C3%A9lek_image4.png)  
+![assets/Lélek_image4.png|invert_dark](/img/user/L/assets/L%C3%A9lek_image4.png)  
 Itt egy újabb:  
 A védikus bölcselet a lelket \[melyiket?\] az agyalapi mirigybe helyezte, olvassuk tovább Várkonyi Nándortól. Azaz, annak a [[Z/Zsinat\|zsinat]] címnél taglalt folyamatnak megvoltak az előzményei. A magas tudásúnak gondolt kultúrák nem voltak tisztában mi micsoda, vagy pedig tudták, csak nem a megfelelő neveken és indoklással.  
 Végül a lélek Szentháromságból való kivételéhez hozzájárult az, hogy a Halak-korszakban a materialista felfogás érvényesül: ahogy Pap Gábor is fogalmaz, amit nem tudok definiálni (határok közé venni), az (mármint a lélek) nem is létezik.  
@@ -412,7 +412,7 @@ A több helyen, [[D/DOG\|DOG]], valamint [[K/Kutya és szív\|kutya és szív]] 
 
 #### Rónai Lászlóné A lélek erejének szerepe a gyógyításban...
 
-...című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében viszont revidiálja magát; mondanám, hogy lányos zavarában, de aztán kivágja magát az asztráltest meghatározással:  
+...című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében viszont revideálja magát; mondanám, hogy lányos zavarában, de aztán kivágja magát az asztráltest meghatározással:  
 > Hol van a lelkünk? Mutogatunk a szívünkre és a homlokunkra is a talamusznál. Mindkét helyen ott van. Fizikai testünk körül a 4-es aura rétegünk, az asztrál- vagy a Lélek-testünk van. A szív és a homlok csakránkhoz kapcsolódik. Egy átlagos embernél fizikai testétől minden irányban kb. 60 cm-re sugárzik szét, spirituális embernél viszont lehet 1,5 m-es a sugárzása. A formája a fizikai emberé, van keze, lába, feje. Színe optimális működésnél lehet fehér, rózsaszín, zöld, vil. kék, de mindig pasztell szín. Mérete: max. 4 mikron, mely csak beavatott, magas etikai és tudatszintű embernek van. A lélek híd az alsó síkok és a szellemvilág között.  
 
 Internetes adat:
@@ -447,7 +447,7 @@ Amennyiben a babona fentebbi említése e tárgyban magyarázatra szorul, íme. 
 ...című tanulmányában amit az árnyéklélekről ír, szintén jól hangzik ösztön – isten témában (kérdés, mennyire tudálékoskodó):  
 > A [[V/Világügyelő\|világügyelő]] Férfi azonban a nappal ellentétben éjszaka jár Tovling-luván az égen – akárcsak Dia. Ha vizsgálat tárgyává tesszük az [[O/Őr\|őr]] funkciót – mert a Világügyelő Férfi a világ őre – az árnyéklélek fogalmához juthatunk. Hiszen **az árnyéklélek végső soron egy, a tudattalanunk éjszakájában lévő másik személyiség lehetősége, amely módosult tudatállapotban felszínre kerülhet és működni tud. Ez a második, mély én nemcsak minden tudásunk tartománya (ebből a régióból kerül felszínre, ami tudatosul), hanem vigyázó őrünk is**. Megfigyelték már, hogy valaki ránk szól vezetés közben, amikor közeledik az út széle, ha elkalandozik a fegyelmünk? Dia tehát fénykorában, az igazi mitikus időkben, mielőtt még kicsinyes *trickster* lett volna belőle, **a közösség közös árnyéklelké**t jelenítette meg, ennek megszemélyesített, és kivetített figurája volt, akárcsak Ekva-Piris, akit felfoghatunk úgy, mint a manysi nép **kollektív tudattalanjában vigyázó és figyelő őr**t.  
 
-![assets/Lélek_image5.png](/img/user/L/assets/L%C3%A9lek_image5.png)  
+![assets/Lélek_image5.png|invert_dark](/img/user/L/assets/L%C3%A9lek_image5.png)  
 Az [alábbi](https://youtu.be/aeRDLskUSZM) Turul és Szarvas II. rész című ÁKA előadásban KT 17:41-nél szól arról, mi a különbség a tudatos és [[T/Tudatalatti\|tudatalatti]] énünk között. Egy felfújt lufi az agyunk, mely lufi anyaga a tudatos énünk és ami benne van, az a tudatalatti énünk hordozója, mely képes őseink tudatalattiját (ez a Jung féle kollektív tudatalatti) is örökölni. Tehát ahogy az [alábbi](https://youtu.be/TsAxk6Dy2II) Turul és Szarvas III. rész című ÁKA előadásban 23:30-nál megint elmondja, hogy a tudatalatti arányaiban sokkal nagyobb mértékű, sokkal nagyobb erő, hatalom, tudás rejlik benne. Erre nem tér ki, de nem véletlen, hogy inkább a nőhöz tartozik, tehát amikor azt mondom, hogy női [[O/Ösztön\|ösztön]], ezzel megint csak azt bizonyítom, hogy a magyar felfogás szerint [[I/Isten\|Isten]] = inkább nő ([[B/Boldogasszony\|Boldogasszony]] Péterfai János adata szerint is a táltosoknál a legnagyobb és a [[C/Csudaszarvas\|Csudaszarvas]] is ünő, márpedig a [[S/Szarvas\|szarvas]] a régi felfogásban isten).  
 
 Mindig, mindenütt azt hangoztatom és erről [[D/Dogma\|dogma]] és [[C/Címke\|címkézés]] címnél is volt szó, hogy a mai fogalmak tisztázása a magyar nyelv alapján mennyire fontos. Ennél is fontosabb a jelképek és a magyar szavak vizsgálata, ugyanis az analógiás/képi gondolkodásra építő őseink a mélyen a tudatalattinkba átmentett tudását kell felszínre hozni ahhoz, hogy a magyarság és a világ megmeneküljön. Ez a kulcs. Ezt lefordítva lehetne betenni a Quora főcikkem aljára is.  
@@ -582,8 +582,8 @@ Kállay Ferenc A pogány magyarok vallása című könyvének [134. oldalán](zo
 Pogány eldődeink épen ugy, mint a scythák hitték a jövendő életet, kitetszik ez azon közös véleményekből, mely szerint hitték, hogy a hány ellenséget leölnek a hadban, azok nekik a jövő életben szolgálni fognak. Leel vezér mondta Conrádnak "tu praeibis ante me, mihique in alio seculo eris serviturus," s Thuróczi itt megjegyzi : "est namque fides scythicorum ut quoscunque viventes occiderint in alio seculo ipsis servire teneantur" (p. II. c. 25.). A tény, ha nem áll is, hogy kürtjével agyonüté Conrádot, de a dogma kétség alá nem vehető, mert ez a közéletben volt meggyökerezve, honnan merité azt krónikás is.  
 
 [^4]: Lábjegyzet:  
-Schmidt Éva: Osztyák medveünnep. Forgatókönyv és kommentárok. (Polnovát, 1993. március 5-7.) Kézirat, Belojarszkij, 1993.  
-Schmidt Éva: Reinkarnáció és védőszellem. Beszélgetés Anna Grigorjevna Jumina osztyák asszonnyal. Kézirat, Belojarszkij, 1993.  
+Schmidt Éva: Osztják medveünnep. Forgatókönyv és kommentárok. (Polnovát, 1993. március 5-7.) Kézirat, Belojarszkij, 1993.  
+Schmidt Éva: Reinkarnáció és védőszellem. Beszélgetés Anna Grigorjevna Jumina osztják asszonnyal. Kézirat, Belojarszkij, 1993.  
 
 [^5]: Lábjegyzet:  
 Ugye már maga az eszencia, a belső lényeg, a latin `esse` szón keresztül is ezen isa, íz szavunk másaként jelentkezik. Tibold Makk Szabina A gyűjtőpont vagy éberpont című az Ősi Gyökér 2021/1. sz. megjelent cikkében is így írja körül:  

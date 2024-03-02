@@ -1,0 +1,8 @@
+.theme-dark img[alt$="invert_dark"] {
+  filter: invert(88%);
+  /* mix-blend-mode: screen;*/
+}
+
+.theme-light img[alt$="invert_light"] {
+  filter: invert(1);
+}
